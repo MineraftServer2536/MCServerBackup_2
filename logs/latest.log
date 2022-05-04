@@ -101,3 +101,34 @@
 [15:00:01] [Server thread/INFO]: Saving the game (this may take a moment!)
 [15:00:01] [Server thread/INFO]: Saved the game
 [15:00:01] [Server thread/INFO]: Automatic saving is now disabled
+[15:00:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[15:02:01] [Server thread/INFO]: NatsuhiLight was slain by Piglin Brute
+[15:02:02] [Server thread/INFO]: Automatic saving is now enabled
+[15:04:33] [Server thread/INFO]: Lien116 has made the advancement [Those Were the Days]
+[15:04:43] [Server thread/INFO]: TevesWang has made the advancement [Those Were the Days]
+[15:05:13] [Server thread/INFO]: Lien116 has made the advancement [War Pigs]
+[15:05:16] [Server thread/INFO]: Lien116 has made the advancement [Ice Bucket Challenge]
+[15:05:17] [Server thread/INFO]: Lien116 has made the advancement [Who is Cutting Onions?]
+[15:05:18] [Server thread/INFO]: Lien116 has made the advancement [Hidden in the Depths]
+[15:13:09] [Server thread/WARN]: Lien116 moved wrongly!
+[15:14:50] [Server thread/INFO]: Lien116 lost connection: Disconnected
+[15:14:50] [Server thread/INFO]: Lien116 left the game
+[16:06:41] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
+[16:06:41] [Server thread/INFO]: NatsuhiLight left the game
+[16:53:20] [User Authenticator #9/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
+[16:53:21] [Server thread/INFO]: NatsuhiLight[/118.169.65.219:60999] logged in with entity id 100258 at (-523.5, 64.5625, 258.5)
+[16:53:21] [Server thread/INFO]: NatsuhiLight joined the game
+[16:53:48] [Server thread/INFO]: <NatsuhiLight> gamemode creative
+[16:53:55] [Server thread/INFO]: Villager bnw['Villager'/93243, l='ServerLevel[world]', x=-466.50, y=66.00, z=251.51] died, message: 'Villager suffocated in a wall'
+[16:55:11] [Server thread/INFO]: <NatsuhiLight> gamemode NatsuhiLight creative
+[17:30:33] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
+[17:30:33] [Server thread/INFO]: NatsuhiLight left the game
+[17:30:45] [User Authenticator #10/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
+[17:30:45] [Server thread/INFO]: NatsuhiLight[/118.169.65.219:40326] logged in with entity id 111005 at (-39.30000001192093, 86.0, 123.30000001192093)
+[17:30:45] [Server thread/INFO]: NatsuhiLight joined the game
+[17:49:46] [User Authenticator #11/INFO]: UUID of player piesOf314 is 59dc76a1-606d-44fe-b864-e420f1e3ff65
+[17:49:46] [Server thread/INFO]: piesOf314[/160.39.5.167:49835] logged in with entity id 115817 at (-477.3519906149569, 68.0, 264.0163960998911)
+[17:49:46] [Server thread/INFO]: piesOf314 joined the game
+[17:50:06] [Server thread/INFO]: Saving the game (this may take a moment!)
+[17:50:06] [Server thread/INFO]: Saved the game
+[17:50:06] [Server thread/INFO]: Automatic saving is now disabled
