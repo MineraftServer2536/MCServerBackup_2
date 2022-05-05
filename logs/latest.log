@@ -1,52 +1,60 @@
-[04:29:11] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04:29:14] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:29:14] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:29:14] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[04:29:14] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[04:29:14] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[04:29:15] [Worker-Main-2/INFO]: Loaded 7 recipes
-[04:29:16] [Worker-Main-2/INFO]: Loaded 1141 advancements
-[04:29:18] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[04:29:18] [Server thread/INFO]: Loading properties
-[04:29:18] [Server thread/INFO]: Default game type: SURVIVAL
-[04:29:18] [Server thread/INFO]: Generating keypair
-[04:29:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:29:19] [Server thread/INFO]: Using epoll channel type
-[04:29:19] [Server thread/INFO]: Preparing level "world"
-[04:29:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:29:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:29:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:29:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:29:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:29:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:29:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:29:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:29:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:29:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:29:30] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:29:31] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:29:31] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:29:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[04:29:32] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[04:29:33] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[04:29:33] [Worker-Main-2/INFO]: Preparing spawn area: 8%
-[04:29:34] [Worker-Main-2/INFO]: Preparing spawn area: 13%
-[04:29:34] [Worker-Main-2/INFO]: Preparing spawn area: 25%
-[04:29:35] [Worker-Main-2/INFO]: Preparing spawn area: 53%
-[04:29:35] [Worker-Main-2/INFO]: Preparing spawn area: 81%
-[04:29:36] [Server thread/INFO]: Time elapsed: 10749 ms
-[04:29:36] [Server thread/INFO]: Done (17.733s)! For help, type "help"
-[04:33:48] [Server thread/INFO]: [Server] Server shutting down (closing by the system service)
-[04:33:48] [Server thread/INFO]: Saving the game (this may take a moment!)
-[04:33:48] [Server thread/INFO]: Saved the game
-[04:33:58] [Server thread/INFO]: Stopping the server
-[04:33:58] [Server thread/INFO]: Stopping server
-[04:33:58] [Server thread/INFO]: Saving players
-[04:33:58] [Server thread/INFO]: Saving worlds
-[04:33:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:33:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[04:33:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[04:33:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:33:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:33:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:33:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:44:42] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04:44:45] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:44:45] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:44:45] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[04:44:45] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[04:44:45] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:44:46] [Worker-Main-2/INFO]: Loaded 7 recipes
+[04:44:47] [Worker-Main-2/INFO]: Loaded 1141 advancements
+[04:44:49] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[04:44:49] [Server thread/INFO]: Loading properties
+[04:44:49] [Server thread/INFO]: Default game type: SURVIVAL
+[04:44:49] [Server thread/INFO]: Generating keypair
+[04:44:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:44:49] [Server thread/INFO]: Using epoll channel type
+[04:44:49] [Server thread/INFO]: Preparing level "world"
+[04:44:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:44:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:44:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:44:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:44:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:44:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:44:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:44:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:45:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:45:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:45:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:45:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:45:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:45:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:45:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:45:03] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[04:45:04] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[04:45:04] [Worker-Main-2/INFO]: Preparing spawn area: 9%
+[04:45:05] [Worker-Main-2/INFO]: Preparing spawn area: 10%
+[04:45:05] [Worker-Main-2/INFO]: Preparing spawn area: 15%
+[04:45:06] [Worker-Main-2/INFO]: Preparing spawn area: 29%
+[04:45:06] [Worker-Main-2/INFO]: Preparing spawn area: 53%
+[04:45:07] [Worker-Main-2/INFO]: Preparing spawn area: 75%
+[04:45:07] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[04:45:08] [Server thread/INFO]: Time elapsed: 11831 ms
+[04:45:08] [Server thread/INFO]: Done (18.473s)! For help, type "help"
+[04:45:11] [User Authenticator #1/INFO]: UUID of player piesOf314 is 59dc76a1-606d-44fe-b864-e420f1e3ff65
+[04:45:12] [Server thread/INFO]: piesOf314[/160.39.5.167:54738] logged in with entity id 41 at (-545.2225003528591, 300.0, 281.1790944570993)
+[04:45:12] [Server thread/INFO]: piesOf314 joined the game
+[04:45:28] [Server thread/INFO]: [Server] Server shutting down (closing by the system service)
+[04:45:28] [Server thread/INFO]: Saving the game (this may take a moment!)
+[04:45:29] [Server thread/INFO]: Saved the game
+[04:45:38] [Server thread/INFO]: Stopping the server
+[04:45:39] [Server thread/INFO]: Stopping server
+[04:45:39] [Server thread/INFO]: Saving players
+[04:45:39] [Server thread/INFO]: piesOf314 lost connection: Server closed
+[04:45:39] [Server thread/INFO]: piesOf314 left the game
+[04:45:39] [Server thread/INFO]: Saving worlds
+[04:45:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:45:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:45:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:45:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:45:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:45:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:45:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
