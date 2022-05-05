@@ -1,5 +1,9 @@
 #!/bin/sh
+
+#May do some pre-config here in the future (ex: custom ram amount based on the running machine)
+
+echo "Starting MC server"
 java -Xmx7168M -Xms7168M -jar server.jar nogui
-echo "MC Server Stop"
-#/home/ubuntu/mc/discord.sh/discord.sh --text "程式已經停止啦，實體醬關機下班嚕~"
-#sudo shutdown
+echo "MC server Stop"
+
+#/home/ubuntu/mc/discord.sh/discord.sh --text "MC Server Stop"
