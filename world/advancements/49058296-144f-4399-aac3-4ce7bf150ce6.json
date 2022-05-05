@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2022-05-05 14:46:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2022-05-02 15:59:38 +0000"
@@ -86,6 +92,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2022-05-01 07:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2022-05-05 15:07:29 +0000"
     },
     "done": true
   },
@@ -155,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2022-05-05 14:34:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2022-04-27 15:53:09 +0000"
@@ -188,6 +206,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2022-04-27 15:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2022-05-05 14:34:39 +0000"
     },
     "done": true
   },
@@ -248,6 +272,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2022-05-01 14:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2022-05-05 14:34:39 +0000"
     },
     "done": true
   },
@@ -374,6 +404,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2022-05-02 04:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2022-05-05 13:37:40 +0000"
     },
     "done": true
   },
@@ -575,6 +611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2022-05-05 14:34:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2022-05-02 08:54:14 +0000"
@@ -606,11 +648,13 @@
       "minecraft:skeleton": "2022-05-01 05:31:56 +0000",
       "minecraft:ravager": "2022-05-04 13:51:42 +0000",
       "minecraft:ghast": "2022-05-03 13:39:42 +0000",
+      "minecraft:hoglin": "2022-05-05 14:57:11 +0000",
       "minecraft:vindicator": "2022-05-04 13:50:37 +0000",
       "minecraft:magma_cube": "2022-05-01 06:59:05 +0000",
       "minecraft:spider": "2022-05-01 07:39:58 +0000",
       "minecraft:piglin_brute": "2022-05-04 15:04:46 +0000",
       "minecraft:creeper": "2022-05-02 12:22:28 +0000",
+      "minecraft:slime": "2022-05-05 14:48:13 +0000",
       "minecraft:zombified_piglin": "2022-05-03 13:46:36 +0000",
       "minecraft:wither_skeleton": "2022-05-03 13:44:23 +0000",
       "minecraft:piglin": "2022-05-03 13:41:10 +0000",
@@ -683,6 +727,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2022-04-29 16:07:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-05-05 14:34:39 +0000"
     },
     "done": true
   },
@@ -782,6 +832,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2022-05-05 14:57:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2022-04-29 14:39:39 +0000"
@@ -800,6 +856,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2022-05-05 14:57:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2022-04-29 14:20:39 +0000"
@@ -809,6 +871,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2022-05-03 13:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-05-05 14:34:31 +0000"
     },
     "done": true
   },
@@ -857,6 +925,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2022-05-01 07:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2022-05-05 14:48:14 +0000"
     },
     "done": true
   },
@@ -1064,9 +1138,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-05-05 14:34:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2022-04-29 14:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2022-05-05 14:57:16 +0000"
     },
     "done": true
   },
@@ -1130,6 +1216,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2022-05-05 14:48:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2022-04-27 15:52:29 +0000"
@@ -1144,15 +1236,23 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2022-05-05 14:02:29 +0000",
+      "minecraft:taiga": "2022-05-05 14:06:00 +0000",
       "minecraft:bamboo_jungle": "2022-05-01 15:08:48 +0000",
       "minecraft:beach": "2022-04-27 15:54:48 +0000",
       "minecraft:sparse_jungle": "2022-05-01 15:08:00 +0000",
       "minecraft:river": "2022-04-27 15:54:43 +0000",
       "minecraft:lukewarm_ocean": "2022-05-01 14:49:10 +0000",
+      "minecraft:swamp": "2022-05-05 14:42:45 +0000",
+      "minecraft:cold_ocean": "2022-05-05 14:06:34 +0000",
       "minecraft:forest": "2022-04-29 14:26:05 +0000",
       "minecraft:desert": "2022-05-01 15:14:49 +0000",
+      "minecraft:windswept_forest": "2022-05-05 14:04:47 +0000",
       "minecraft:jungle": "2022-05-01 14:21:55 +0000",
+      "minecraft:ocean": "2022-05-05 14:06:38 +0000",
+      "minecraft:old_growth_spruce_taiga": "2022-05-05 14:04:43 +0000",
       "minecraft:warm_ocean": "2022-05-01 15:15:30 +0000",
+      "minecraft:old_growth_birch_forest": "2022-05-05 14:09:49 +0000",
       "minecraft:savanna": "2022-04-27 15:43:44 +0000",
       "minecraft:plains": "2022-05-01 07:01:20 +0000"
     },
@@ -1705,6 +1805,7 @@
     "criteria": {
       "cooked_mutton": "2022-05-03 13:43:01 +0000",
       "cooked_beef": "2022-05-02 08:42:34 +0000",
+      "cooked_cod": "2022-05-05 14:44:33 +0000",
       "pumpkin_pie": "2022-05-04 14:38:25 +0000",
       "bread": "2022-04-29 14:24:18 +0000",
       "suspicious_stew": "2022-05-04 15:00:50 +0000",
@@ -1717,6 +1818,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2022-04-27 15:51:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-05-05 14:34:31 +0000"
     },
     "done": true
   },
@@ -1735,6 +1842,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2022-04-29 14:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2022-05-05 14:34:31 +0000"
     },
     "done": true
   },
@@ -2137,6 +2250,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2022-05-05 14:34:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2022-05-01 05:40:31 +0000"
@@ -2170,6 +2289,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2022-05-02 16:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2022-05-05 14:34:39 +0000"
     },
     "done": true
   },
@@ -2230,6 +2355,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2022-05-01 14:12:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2022-05-05 14:31:31 +0000"
     },
     "done": true
   },
@@ -2443,9 +2574,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2022-05-05 14:34:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2022-04-29 14:42:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2022-05-05 15:07:29 +0000"
     },
     "done": true
   },
@@ -2464,6 +2607,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2022-05-01 14:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2022-05-05 14:48:14 +0000"
     },
     "done": true
   },
@@ -2575,6 +2724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2022-05-05 14:34:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2022-05-01 16:03:01 +0000"
@@ -2605,6 +2760,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2022-05-05 13:41:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2022-04-29 14:33:49 +0000"
@@ -2614,6 +2775,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2022-05-02 15:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-05-05 14:34:39 +0000"
     },
     "done": true
   },
@@ -2653,6 +2820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2022-05-05 14:31:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2022-05-03 13:22:23 +0000"
@@ -2662,6 +2835,12 @@
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2022-05-04 15:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2022-05-05 14:02:41 +0000"
     },
     "done": true
   },
@@ -2692,6 +2871,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2022-05-01 09:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2022-05-05 14:34:31 +0000"
     },
     "done": true
   },
@@ -2731,6 +2916,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2022-05-05 14:34:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-05-02 04:39:45 +0000"
@@ -2746,6 +2937,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2022-05-01 05:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-05-05 14:34:31 +0000"
     },
     "done": true
   },
@@ -2788,6 +2985,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2022-05-01 16:03:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2022-05-05 14:34:39 +0000"
     },
     "done": true
   },

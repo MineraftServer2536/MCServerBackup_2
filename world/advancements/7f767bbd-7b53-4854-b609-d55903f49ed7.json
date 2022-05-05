@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2022-05-05 14:46:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2022-04-27 16:18:19 +0000"
@@ -350,6 +356,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2022-04-27 11:01:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2022-05-05 11:42:58 +0000"
     },
     "done": true
   },
@@ -791,6 +803,7 @@
       "minecraft:spider": "2022-04-27 11:58:27 +0000",
       "minecraft:piglin_brute": "2022-05-01 11:49:01 +0000",
       "minecraft:creeper": "2022-04-29 15:43:16 +0000",
+      "minecraft:slime": "2022-05-05 14:47:12 +0000",
       "minecraft:zombified_piglin": "2022-05-01 07:02:37 +0000",
       "minecraft:husk": "2022-05-01 16:18:59 +0000",
       "minecraft:cave_spider": "2022-05-01 14:59:31 +0000",
@@ -889,6 +902,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2022-04-27 16:45:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2022-05-05 11:42:58 +0000"
     },
     "done": true
   },
@@ -1123,6 +1142,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2022-04-27 15:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2022-05-05 14:47:38 +0000"
     },
     "done": true
   },
@@ -1528,6 +1553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2022-05-05 14:47:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2022-04-27 10:03:45 +0000"
@@ -1566,12 +1597,15 @@
       "minecraft:savanna_plateau": "2022-05-01 17:48:37 +0000",
       "minecraft:beach": "2022-04-27 09:51:34 +0000",
       "minecraft:dark_forest": "2022-05-05 06:13:46 +0000",
+      "minecraft:stony_peaks": "2022-05-05 11:28:20 +0000",
       "minecraft:sparse_jungle": "2022-05-01 15:07:35 +0000",
       "minecraft:lukewarm_ocean": "2022-04-27 10:34:07 +0000",
       "minecraft:river": "2022-04-27 09:51:08 +0000",
       "minecraft:stony_shore": "2022-05-01 14:26:04 +0000",
       "minecraft:dripstone_caves": "2022-05-01 17:53:00 +0000",
       "minecraft:swamp": "2022-05-01 16:16:14 +0000",
+      "minecraft:grove": "2022-05-05 11:27:48 +0000",
+      "minecraft:jagged_peaks": "2022-05-05 11:28:12 +0000",
       "minecraft:cold_ocean": "2022-05-05 06:09:02 +0000",
       "minecraft:forest": "2022-04-27 10:57:49 +0000",
       "minecraft:desert": "2022-05-01 15:14:47 +0000",
@@ -1749,6 +1783,12 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2022-05-01 05:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2022-05-05 11:42:58 +0000"
     },
     "done": true
   },
@@ -2212,6 +2252,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2022-05-05 16:08:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2022-05-01 13:19:15 +0000"
@@ -2554,6 +2600,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2022-05-05 16:08:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2022-04-26 16:58:23 +0000"
@@ -2878,6 +2930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2022-05-05 14:31:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2022-04-27 09:51:05 +0000"
@@ -3196,6 +3254,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2022-05-05 14:47:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2022-04-26 17:11:15 +0000"
@@ -3397,6 +3461,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2022-04-27 12:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2022-05-05 14:31:34 +0000"
     },
     "done": true
   },
