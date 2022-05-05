@@ -443,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2022-05-05 05:36:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_green_dye": "2022-05-01 17:23:44 +0000"
@@ -623,6 +629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2022-05-05 06:09:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-05-04 03:19:16 +0000"
@@ -686,6 +698,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2022-04-27 11:01:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2022-05-05 05:43:42 +0000"
     },
     "done": true
   },
@@ -1138,6 +1156,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2022-05-05 05:43:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-05-01 07:00:57 +0000"
@@ -1171,6 +1195,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2022-04-26 16:58:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2022-05-05 06:09:21 +0000"
     },
     "done": true
   },
@@ -1372,6 +1402,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-05-05 05:43:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2022-04-27 16:18:19 +0000"
@@ -1518,28 +1554,37 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2022-05-05 06:26:13 +0000",
+      "minecraft:taiga": "2022-05-05 06:30:42 +0000",
       "minecraft:deep_ocean": "2022-05-01 16:36:50 +0000",
       "minecraft:eroded_badlands": "2022-05-04 13:01:01 +0000",
+      "minecraft:sunflower_plains": "2022-05-05 06:15:42 +0000",
       "minecraft:birch_forest": "2022-05-01 16:39:54 +0000",
       "minecraft:bamboo_jungle": "2022-05-01 15:08:43 +0000",
       "minecraft:wooded_badlands": "2022-05-04 13:06:42 +0000",
       "minecraft:badlands": "2022-05-04 13:01:24 +0000",
       "minecraft:savanna_plateau": "2022-05-01 17:48:37 +0000",
       "minecraft:beach": "2022-04-27 09:51:34 +0000",
+      "minecraft:dark_forest": "2022-05-05 06:13:46 +0000",
       "minecraft:sparse_jungle": "2022-05-01 15:07:35 +0000",
       "minecraft:lukewarm_ocean": "2022-04-27 10:34:07 +0000",
       "minecraft:river": "2022-04-27 09:51:08 +0000",
       "minecraft:stony_shore": "2022-05-01 14:26:04 +0000",
       "minecraft:dripstone_caves": "2022-05-01 17:53:00 +0000",
       "minecraft:swamp": "2022-05-01 16:16:14 +0000",
+      "minecraft:cold_ocean": "2022-05-05 06:09:02 +0000",
       "minecraft:forest": "2022-04-27 10:57:49 +0000",
       "minecraft:desert": "2022-05-01 15:14:47 +0000",
+      "minecraft:windswept_forest": "2022-05-05 06:29:22 +0000",
       "minecraft:jungle": "2022-04-28 02:42:29 +0000",
       "minecraft:ocean": "2022-05-01 16:36:32 +0000",
+      "minecraft:old_growth_spruce_taiga": "2022-05-05 06:09:10 +0000",
       "minecraft:windswept_savanna": "2022-05-01 17:30:44 +0000",
       "minecraft:warm_ocean": "2022-05-01 15:36:11 +0000",
       "minecraft:deep_lukewarm_ocean": "2022-05-01 18:15:07 +0000",
+      "minecraft:flower_forest": "2022-05-05 06:16:33 +0000",
       "minecraft:old_growth_birch_forest": "2022-05-01 16:39:18 +0000",
+      "minecraft:meadow": "2022-05-05 06:15:20 +0000",
       "minecraft:savanna": "2022-04-26 16:58:02 +0000",
       "minecraft:plains": "2022-04-27 16:58:24 +0000"
     },
@@ -1999,6 +2044,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-05-05 05:43:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2022-04-26 17:11:20 +0000"
@@ -2222,6 +2273,7 @@
       "golden_apple": "2022-04-29 16:37:40 +0000",
       "rotten_flesh": "2022-04-26 16:59:16 +0000",
       "glow_berries": "2022-04-27 14:24:46 +0000",
+      "dried_kelp": "2022-05-05 05:05:26 +0000",
       "melon_slice": "2022-04-27 11:52:44 +0000",
       "cooked_chicken": "2022-04-27 16:39:29 +0000",
       "cooked_salmon": "2022-04-27 16:46:32 +0000",
@@ -2268,6 +2320,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2022-04-27 10:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2022-05-05 05:43:42 +0000"
     },
     "done": true
   },
@@ -2760,6 +2818,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2022-05-05 05:43:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2022-04-27 15:30:43 +0000"
@@ -2841,6 +2905,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2022-05-01 15:20:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2022-05-05 05:43:42 +0000"
     },
     "done": true
   },
@@ -3384,6 +3454,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2022-05-05 05:43:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2022-04-27 11:01:53 +0000"
@@ -3465,6 +3541,12 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2022-05-04 13:23:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-05-05 05:43:42 +0000"
     },
     "done": true
   },
