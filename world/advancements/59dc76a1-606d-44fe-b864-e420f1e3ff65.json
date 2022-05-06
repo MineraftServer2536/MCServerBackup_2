@@ -1814,6 +1814,7 @@
       "chicken": "2022-05-01 05:23:48 +0000",
       "cooked_mutton": "2022-04-27 16:14:14 +0000",
       "cooked_beef": "2022-04-29 14:56:48 +0000",
+      "potato": "2022-05-05 23:30:39 +0000",
       "mutton": "2022-05-05 09:21:07 +0000",
       "pufferfish": "2022-05-05 06:54:45 +0000",
       "bread": "2022-04-27 17:42:47 +0000",
@@ -2194,6 +2195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2022-05-05 23:45:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2022-04-27 16:18:42 +0000"
@@ -2269,6 +2276,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-04-27 16:11:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2022-05-05 23:49:05 +0000"
     },
     "done": true
   },
