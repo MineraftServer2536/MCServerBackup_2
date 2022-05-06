@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2022-05-06 13:57:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2022-04-29 14:37:07 +0000"
@@ -383,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2022-05-06 14:33:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-05-01 07:34:06 +0000"
@@ -440,6 +452,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2022-04-29 14:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2022-05-06 14:33:03 +0000"
     },
     "done": true
   },
@@ -657,6 +675,7 @@
       "minecraft:slime": "2022-05-05 14:48:13 +0000",
       "minecraft:zombified_piglin": "2022-05-03 13:46:36 +0000",
       "minecraft:wither_skeleton": "2022-05-03 13:44:23 +0000",
+      "minecraft:cave_spider": "2022-05-06 14:24:20 +0000",
       "minecraft:piglin": "2022-05-03 13:41:10 +0000",
       "minecraft:enderman": "2022-05-02 12:31:15 +0000",
       "minecraft:zombie": "2022-04-29 16:04:01 +0000",
@@ -979,6 +998,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2022-05-01 07:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2022-05-06 14:33:03 +0000"
     },
     "done": true
   },
@@ -1811,6 +1836,7 @@
       "suspicious_stew": "2022-05-04 15:00:50 +0000",
       "melon_slice": "2022-04-27 15:54:00 +0000",
       "cooked_chicken": "2022-04-29 16:08:54 +0000",
+      "cooked_salmon": "2022-05-06 14:47:04 +0000",
       "carrot": "2022-05-02 04:35:04 +0000"
     },
     "done": false
@@ -2067,6 +2093,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2022-04-29 14:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2022-05-06 13:57:29 +0000"
     },
     "done": true
   },
