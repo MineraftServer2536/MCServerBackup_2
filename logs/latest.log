@@ -1,351 +1,72 @@
-[03:30:59] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03:31:02] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:31:02] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:31:02] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03:31:02] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03:31:02] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:31:03] [Worker-Main-2/INFO]: Loaded 7 recipes
-[03:31:04] [Worker-Main-2/INFO]: Loaded 1141 advancements
-[03:31:06] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[03:31:06] [Server thread/INFO]: Loading properties
-[03:31:06] [Server thread/INFO]: Default game type: SURVIVAL
-[03:31:06] [Server thread/INFO]: Generating keypair
-[03:31:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:31:06] [Server thread/INFO]: Using epoll channel type
-[03:31:07] [Server thread/INFO]: Preparing level "world"
-[03:31:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:31:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:31:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:31:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:31:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:31:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:31:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:31:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:31:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:31:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:31:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:31:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:31:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:31:20] [Worker-Main-2/INFO]: Preparing spawn area: 3%
-[03:31:21] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[03:31:21] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[03:31:22] [Worker-Main-2/INFO]: Preparing spawn area: 6%
-[03:31:22] [Worker-Main-2/INFO]: Preparing spawn area: 23%
-[03:31:23] [Worker-Main-2/INFO]: Preparing spawn area: 38%
-[03:31:23] [Worker-Main-2/INFO]: Preparing spawn area: 70%
-[03:31:24] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[03:31:25] [Server thread/INFO]: Time elapsed: 10398 ms
-[03:31:25] [Server thread/INFO]: Done (18.138s)! For help, type "help"
-[03:32:06] [User Authenticator #1/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[03:32:07] [Server thread/INFO]: TevesWang[/71.227.248.184:52940] logged in with entity id 41 at (-442.9000648704307, 68.0, 296.32190081747535)
-[03:32:07] [Server thread/INFO]: TevesWang joined the game
-[03:32:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
-[03:32:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3212ms or 64 ticks behind
-[03:35:27] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[03:35:27] [Server thread/INFO]: TevesWang left the game
-[03:38:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@99fffe8[id=<null>,name=TevesWang,properties={},legacy=false] (/71.227.248.184:53136) lost connection: Disconnected
-[03:38:43] [User Authenticator #2/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[03:38:43] [Server thread/INFO]: TevesWang[/71.227.248.184:53153] logged in with entity id 1265 at (-442.59084147313985, 68.0, 294.42229199437264)
-[03:38:43] [Server thread/INFO]: TevesWang joined the game
-[03:41:09] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[03:41:09] [Server thread/INFO]: TevesWang left the game
-[03:41:51] [User Authenticator #3/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[03:41:51] [Server thread/INFO]: TevesWang[/71.227.248.184:53256] logged in with entity id 2292 at (-443.07825256192194, 68.0, 294.46390289568745)
-[03:41:51] [Server thread/INFO]: TevesWang joined the game
-[03:41:59] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[03:41:59] [Server thread/INFO]: TevesWang left the game
-[03:42:32] [User Authenticator #4/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[03:42:32] [Server thread/INFO]: TevesWang[/71.227.248.184:53287] logged in with entity id 2899 at (-442.59084147313985, 68.0, 294.42229199437264)
-[03:42:32] [Server thread/INFO]: TevesWang joined the game
-[03:43:59] [User Authenticator #5/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
-[03:43:59] [Server thread/INFO]: piesOf314[/160.39.5.167:51462] logged in with entity id 3789 at (-523.6151575610752, 69.0, 261.31005868984255)
-[03:43:59] [Server thread/INFO]: piesOf314 joined the game
-[03:44:43] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[03:44:43] [Server thread/INFO]: TevesWang left the game
-[03:45:10] [Server thread/INFO]: piesOf314 has made the advancement [Acquire Hardware]
-[03:46:51] [User Authenticator #6/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[03:46:51] [Server thread/INFO]: TevesWang[/71.227.248.184:53448] logged in with entity id 4421 at (-442.59084147313985, 68.0, 294.42229199437264)
-[03:46:51] [Server thread/INFO]: TevesWang joined the game
-[03:49:36] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[03:49:36] [Server thread/INFO]: TevesWang left the game
-[03:50:04] [User Authenticator #7/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[03:50:04] [Server thread/INFO]: TevesWang[/71.227.248.184:53539] logged in with entity id 5058 at (-442.59084147313985, 68.0, 294.42229199437264)
-[03:50:04] [Server thread/INFO]: TevesWang joined the game
-[04:29:03] [Server thread/INFO]: piesOf314 has made the advancement [Isn't It Iron Pick]
-[04:30:32] [Server thread/INFO]: Villager bnw['Armorer'/3242, l='ServerLevel[world]', x=-471.58, y=65.00, z=274.57] died, message: 'Armorer discovered the floor was lava'
-[04:40:13] [Server thread/INFO]: piesOf314 has made the advancement [Stone Age]
-[04:43:35] [Server thread/INFO]: Villager bnw['Shepherd'/3240, l='ServerLevel[world]', x=-471.30, y=64.00, z=273.30] died, message: 'Shepherd tried to swim in lava'
-[05:01:45] [Server thread/INFO]: piesOf314 has made the advancement [We Need to Go Deeper]
-[05:01:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2125ms or 42 ticks behind
-[05:03:19] [Server thread/INFO]: piesOf314 has made the advancement [Monster Hunter]
-[05:25:12] [Server thread/INFO]: piesOf314 has made the advancement [Ice Bucket Challenge]
-[05:26:17] [Server thread/INFO]: Villager bnw['Shepherd'/3251, l='ServerLevel[world]', x=-469.52, y=64.47, z=273.44] died, message: 'Shepherd tried to swim in lava'
-[05:38:29] [Server thread/INFO]: piesOf314 has made the advancement [Who is Cutting Onions?]
-[05:54:07] [Server thread/INFO]: Villager bnw['Shepherd'/3248, l='ServerLevel[world]', x=-469.50, y=64.46, z=273.46] died, message: 'Shepherd tried to swim in lava'
-[06:04:25] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-590, y=63, z=293} gj{x=-589, y=63, z=293}
-[06:14:10] [Server thread/INFO]: TevesWang has made the advancement [Ice Bucket Challenge]
-[06:17:24] [Server thread/INFO]: piesOf314 was slain by Cave Spider
-[06:19:59] [Server thread/INFO]: piesOf314 lost connection: Disconnected
-[06:19:59] [Server thread/INFO]: piesOf314 left the game
-[06:19:59] [Server thread/WARN]: handleDisconnection() called twice
-[06:20:12] [User Authenticator #8/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
-[06:20:12] [Server thread/INFO]: piesOf314[/160.39.5.167:57899] logged in with entity id 53244 at (-522.0504239756663, 67.0, 258.5771629932662)
-[06:20:12] [Server thread/INFO]: piesOf314 joined the game
-[06:25:45] [Server thread/INFO]: piesOf314 has made the advancement [Diamonds!]
-[06:50:26] [Server thread/INFO]: piesOf314 fell from a high place
-[06:56:31] [Server thread/INFO]: piesOf314 burned to death
-[07:00:15] [Server thread/INFO]: piesOf314 has made the advancement [Hot Stuff]
-[07:04:05] [Server thread/INFO]: piesOf314 tried to swim in lava
-[07:05:00] [Server thread/INFO]: piesOf314 fell from a high place
-[07:06:16] [Server thread/INFO]: piesOf314 tried to swim in lava
-[07:11:57] [Server thread/INFO]: piesOf314 fell out of the world
-[07:11:57] [Server thread/INFO]: Killed piesOf314
-[08:41:16] [Server thread/INFO]: piesOf314 burned to death
-[08:42:36] [Server thread/INFO]: piesOf314 tried to swim in lava
-[08:44:08] [Server thread/INFO]: piesOf314 tried to swim in lava
-[09:06:20] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-531, y=54, z=147} gj{x=-531, y=55, z=147}
-[09:06:43] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-536, y=56, z=143} gj{x=-536, y=57, z=143}
-[09:06:43] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-536, y=56, z=143} gj{x=-536, y=57, z=143}
-[09:06:45] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-534, y=54, z=150} gj{x=-535, y=55, z=146}
-[09:07:43] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-547, y=57, z=150} gj{x=-547, y=58, z=150}
-[09:38:22] [Server thread/INFO]: piesOf314 lost connection: Disconnected
-[09:38:22] [Server thread/INFO]: piesOf314 left the game
-[10:02:06] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[10:02:06] [Server thread/INFO]: TevesWang left the game
-[10:03:03] [User Authenticator #9/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[10:03:03] [Server thread/INFO]: TevesWang[/71.227.248.184:64589] logged in with entity id 139254 at (-443.1937091515191, 68.0, 294.2818214602072)
-[10:03:03] [Server thread/INFO]: TevesWang joined the game
-[12:25:25] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-28, y=26, z=-39} gj{x=-28, y=25, z=-39}
-[13:14:43] [User Authenticator #10/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
-[13:14:43] [Server thread/INFO]: piesOf314[/160.39.5.167:52680] logged in with entity id 175502 at (-523.3480437865102, 64.5625, 258.30000001192093)
-[13:14:43] [Server thread/INFO]: piesOf314 joined the game
-[13:50:31] [Server thread/INFO]: <piesOf314> 有那裡有玻璃或沙子麼?
-[13:50:37] [Server thread/INFO]: <piesOf314> 需要一組玻璃
-[15:14:23] [Server thread/INFO]: piesOf314 fell from a high place
-[15:21:33] [Server thread/INFO]: piesOf314 lost connection: Disconnected
-[15:21:33] [Server thread/INFO]: piesOf314 left the game
-[15:23:29] [User Authenticator #11/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
-[15:23:29] [Server thread/INFO]: piesOf314[/160.39.5.167:52446] logged in with entity id 211484 at (-80.40946067060085, 252.5, -62.43118620939079)
-[15:23:29] [Server thread/INFO]: piesOf314 joined the game
-[15:29:21] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[15:29:21] [Server thread/INFO]: TevesWang left the game
-[15:30:42] [User Authenticator #12/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[15:30:42] [Server thread/INFO]: TevesWang[/71.227.248.184:57023] logged in with entity id 213165 at (-443.2757152635551, 68.0, 299.2435109930323)
-[15:30:42] [Server thread/INFO]: TevesWang joined the game
-[15:32:19] [Server thread/INFO]: piesOf314 lost connection: Disconnected
-[15:32:19] [Server thread/INFO]: piesOf314 left the game
-[15:33:14] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[15:33:14] [Server thread/INFO]: TevesWang left the game
-[15:33:16] [User Authenticator #13/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
-[15:33:16] [Server thread/INFO]: piesOf314[/160.39.5.167:52769] logged in with entity id 214462 at (-79.42242258479094, 255.5, -32.29984422500676)
-[15:33:16] [Server thread/INFO]: piesOf314 joined the game
-[15:33:19] [Server thread/INFO]: piesOf314 lost connection: Disconnected
-[15:33:19] [Server thread/INFO]: piesOf314 left the game
-[15:33:48] [User Authenticator #14/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[15:33:48] [Server thread/INFO]: TevesWang[/71.227.248.184:57113] logged in with entity id 214544 at (-443.2757152635551, 68.0, 299.2435109930323)
-[15:33:48] [Server thread/INFO]: TevesWang joined the game
-[15:33:50] [User Authenticator #15/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
-[15:33:50] [Server thread/INFO]: piesOf314[/160.39.5.167:52819] logged in with entity id 215147 at (-79.42242258479094, 255.5, -32.29984422500676)
-[15:33:50] [Server thread/INFO]: piesOf314 joined the game
-[15:35:32] [Server thread/INFO]: piesOf314 lost connection: Disconnected
-[15:35:32] [Server thread/INFO]: piesOf314 left the game
-[15:36:13] [User Authenticator #16/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
-[15:36:13] [Server thread/INFO]: piesOf314[/160.39.5.167:52911] logged in with entity id 215664 at (-89.8336365310002, 195.62320128744886, -31.912843955184293)
-[15:36:13] [Server thread/INFO]: piesOf314 joined the game
-[15:36:16] [Server thread/INFO]: piesOf314 fell from a high place
-[15:41:29] [Server thread/INFO]: piesOf314 lost connection: Disconnected
-[15:41:29] [Server thread/INFO]: piesOf314 left the game
-[15:42:20] [User Authenticator #17/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
-[15:42:20] [Server thread/INFO]: piesOf314[/160.39.5.167:53036] logged in with entity id 217660 at (-69.29743410242072, 255.5, -36.532931636791616)
-[15:42:20] [Server thread/INFO]: piesOf314 joined the game
-[15:49:18] [Server thread/INFO]: piesOf314 lost connection: Disconnected
-[15:49:18] [Server thread/INFO]: piesOf314 left the game
-[15:49:47] [User Authenticator #18/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
-[15:49:48] [Server thread/INFO]: piesOf314[/160.39.5.167:53246] logged in with entity id 220353 at (-108.97007508424605, 255.5, -48.5846441147173)
-[15:49:48] [Server thread/INFO]: piesOf314 joined the game
-[15:49:54] [Server thread/INFO]: piesOf314 lost connection: Disconnected
-[15:49:54] [Server thread/INFO]: piesOf314 left the game
-[15:50:12] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[15:50:12] [Server thread/INFO]: TevesWang left the game
-[15:50:15] [User Authenticator #19/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[15:50:15] [Server thread/INFO]: TevesWang[/71.227.248.184:58018] logged in with entity id 220723 at (-45.12462740818206, 62.073264324665075, -256.566476681007)
-[15:50:15] [Server thread/INFO]: TevesWang joined the game
-[15:50:26] [User Authenticator #20/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
-[15:50:26] [Server thread/INFO]: piesOf314[/160.39.5.167:53268] logged in with entity id 220977 at (-108.97007508424605, 255.5, -48.5846441147173)
-[15:50:26] [Server thread/INFO]: piesOf314 joined the game
-[15:50:31] [Server thread/INFO]: piesOf314 lost connection: Disconnected
-[15:50:31] [Server thread/INFO]: piesOf314 left the game
-[15:54:09] [User Authenticator #21/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
-[15:54:09] [Server thread/INFO]: piesOf314[/160.39.5.167:60884] logged in with entity id 223774 at (-108.97007508424605, 255.5, -48.5846441147173)
-[15:54:09] [Server thread/INFO]: piesOf314 joined the game
-[15:54:14] [Server thread/INFO]: piesOf314 lost connection: Disconnected
-[15:54:14] [Server thread/INFO]: piesOf314 left the game
-[15:54:53] [User Authenticator #22/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
-[15:54:53] [Server thread/INFO]: piesOf314[/160.39.5.167:61081] logged in with entity id 224129 at (-108.97007508424605, 255.5, -48.5846441147173)
-[15:54:53] [Server thread/INFO]: piesOf314 joined the game
-[16:00:16] [Server thread/INFO]: piesOf314 lost connection: Disconnected
-[16:00:16] [Server thread/INFO]: piesOf314 left the game
-[16:04:53] [User Authenticator #23/INFO]: UUID of player hunto3for is 0aa7865b-90a1-44ed-a3af-a68fe4caf59d
-[16:04:53] [Server thread/INFO]: hunto3for[/123.194.165.1:56658] logged in with entity id 230354 at (-524.7712532465173, 64.5625, 258.30000001192093)
-[16:04:53] [Server thread/INFO]: hunto3for joined the game
-[16:05:09] [User Authenticator #24/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
-[16:05:10] [Server thread/INFO]: piesOf314[/160.39.5.167:61437] logged in with entity id 231020 at (-109.68294860212474, 253.0, -60.99505537104518)
-[16:05:10] [Server thread/INFO]: piesOf314 joined the game
-[16:05:14] [Server thread/INFO]: piesOf314 lost connection: Disconnected
-[16:05:14] [Server thread/INFO]: piesOf314 left the game
-[16:05:52] [Server thread/INFO]: hunto3for has made the advancement [We Need to Go Deeper]
-[16:06:21] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 3.0353184054474696,0.0,-9.79578787019409
-[16:06:21] [User Authenticator #25/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
-[16:06:21] [Server thread/INFO]: piesOf314[/160.39.5.167:61476] logged in with entity id 232770 at (-109.4898647637851, 253.0, -60.00827816608127)
-[16:06:21] [Server thread/INFO]: piesOf314 joined the game
-[16:06:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[16:06:28] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 4.335668358762177,0.0,-9.340691470025604
-[16:06:28] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 4.4545141461549065,0.0,-9.720157624064427
-[16:06:28] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 4.5673483643313375,0.0,-10.101243651901996
-[16:06:28] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 4.67412274049866,0.0,-10.483878530258266
-[16:06:28] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 4.774857185622295,0.0,-10.867980169942143
-[16:06:28] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 4.869629647967486,0.0,-11.25345977089603
-[16:06:28] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 4.958559211960164,0.0,-11.64022595407721
-[16:06:28] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 5.041802228344295,0.0,-12.02818678886922
-[16:06:28] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 5.1195449495698995,0.0,-12.417251718335365
-[16:06:28] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 5.191989192155688,0.0,-12.807333452133435
-[16:06:28] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 5.259350867824651,0.0,-13.198348541376618
-[16:06:28] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 5.321858640340906,0.0,-13.590217802876168
-[16:06:28] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 5.379741205980736,0.0,-13.98286708466378
-[16:06:28] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 5.433234985450326,0.0,-14.376226941683967
-[16:06:28] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 5.482571879062107,0.0,-14.770233025644302
-[16:06:28] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 5.527983567580122,0.0,-15.164825776504927
-[16:06:28] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 5.569697713018286,0.0,-15.559950345984362
-[16:06:28] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 5.607934534349624,0.0,-15.955556424406836
-[16:06:28] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 5.642903722737628,0.0,-16.351598021534983
-[16:06:28] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 5.674813167249795,0.0,-16.748033060702824
-[16:06:28] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 5.703857633845928,0.0,-17.14482325940469
-[16:06:28] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 5.730227748933885,0.0,-17.541933764780424
-[16:06:28] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 5.7541027448014574,0.0,-17.939332955936948
-[16:06:28] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 5.775651599718458,0.0,-18.336992169180235
-[16:06:28] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 5.795034063773983,0.0,-18.734885446998874
-[16:06:28] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 5.812401581971244,0.0,-19.13298931214922
-[16:06:31] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 2.022016903785243,0.0,-10.198887444870252
-[16:06:31] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 2.1127565480110206,0.0,-10.587964522524317
-[16:06:31] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 2.2080782029743204,0.0,-10.975730611789345
-[16:06:31] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 2.3082563343050424,0.0,-11.36204255193843
-[16:06:33] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 3.7494997012800013,0.0,-9.670507091085938
-[16:06:33] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 3.9201198368850783,0.0,-10.031556685381588
-[16:06:33] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 4.09582737241135,0.0,-10.389809016714139
-[16:06:33] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 4.277389848476105,0.0,-10.744658887362561
-[16:06:33] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 4.465341796177654,0.0,-11.095607101461837
-[16:06:33] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 4.660025157625114,0.0,-11.44225645671554
-[16:06:33] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 4.8616303433768735,0.0,-11.784300125701293
-[16:06:33] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 5.0702230923243405,0.0,-12.121515963691877
-[16:06:33] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 5.285770592050994,0.0,-12.453757028967175
-[16:06:33] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 5.508166670985702,0.0,-12.78093868319263
-[16:06:33] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 5.737242727361718,0.0,-13.103036509189906
-[16:06:33] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 5.972790318812258,0.0,-13.420069815166244
-[16:06:33] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 6.214567545517639,0.0,-13.732099773020423
-[16:06:33] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 6.462309645367441,0.0,-14.039221659419127
-[16:06:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11582ms or 231 ticks behind
-[16:38:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[16:38:20] [Server thread/INFO]: hunto3for fell from a high place
-[16:38:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9341ms or 186 ticks behind
-[16:39:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10703ms or 214 ticks behind
-[16:39:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7265ms or 145 ticks behind
-[16:39:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10170ms or 203 ticks behind
-[16:42:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[16:52:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[16:53:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11867ms or 237 ticks behind
-[16:53:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11354ms or 227 ticks behind
-[16:54:06] [Server thread/WARN]: Horse (vehicle of TevesWang) moved wrongly! 0.267746843743339
-[16:54:06] [Server thread/WARN]: Horse (vehicle of TevesWang) moved wrongly! 0.6786572645695514
-[16:54:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12074ms or 241 ticks behind
-[16:54:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10523ms or 210 ticks behind
-[16:55:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10938ms or 218 ticks behind
-[16:57:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[16:58:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4484ms or 89 ticks behind
-[16:58:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4082ms or 81 ticks behind
-[16:58:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4047ms or 80 ticks behind
-[16:59:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4039ms or 80 ticks behind
-[16:59:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5492ms or 109 ticks behind
-[16:59:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4364ms or 87 ticks behind
-[17:03:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
-[17:03:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5111ms or 102 ticks behind
-[17:06:46] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-94, y=32, z=-24} gj{x=-92, y=34, z=-34}
-[17:06:46] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-94, y=32, z=-24} gj{x=-92, y=34, z=-34}
-[17:06:46] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-94, y=32, z=-24} gj{x=-92, y=34, z=-34}
-[17:06:46] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-94, y=32, z=-24} gj{x=-92, y=34, z=-34}
-[17:06:46] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-94, y=32, z=-24} gj{x=-92, y=34, z=-34}
-[17:09:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[17:09:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2988ms or 59 ticks behind
-[17:10:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3693ms or 73 ticks behind
-[17:13:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[17:13:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5534ms or 110 ticks behind
-[17:14:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4296ms or 85 ticks behind
-[17:14:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4875ms or 97 ticks behind
-[17:14:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5780ms or 115 ticks behind
-[17:14:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3536ms or 70 ticks behind
-[17:17:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[17:18:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3978ms or 79 ticks behind
-[17:18:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3961ms or 79 ticks behind
-[17:18:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5327ms or 106 ticks behind
-[17:19:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3244ms or 64 ticks behind
-[17:19:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2874ms or 57 ticks behind
-[17:19:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3254ms or 65 ticks behind
-[17:19:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2810ms or 56 ticks behind
-[17:22:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[17:22:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6254ms or 125 ticks behind
-[17:23:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7465ms or 149 ticks behind
-[17:23:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2311ms or 46 ticks behind
-[17:23:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3568ms or 71 ticks behind
-[17:24:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4275ms or 85 ticks behind
-[17:24:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3844ms or 76 ticks behind
-[17:24:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3557ms or 71 ticks behind
-[17:27:44] [Server thread/INFO]: hunto3for has reached the goal [Hired Help]
-[17:27:44] [Server thread/INFO]: piesOf314 has reached the goal [Hired Help]
-[17:27:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[17:28:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3756ms or 75 ticks behind
-[17:28:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3971ms or 79 ticks behind
-[17:28:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4213ms or 84 ticks behind
-[17:29:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4335ms or 86 ticks behind
-[17:29:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3723ms or 74 ticks behind
-[17:29:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3600ms or 72 ticks behind
-[17:30:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3714ms or 74 ticks behind
-[17:32:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[17:33:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8218ms or 164 ticks behind
-[17:33:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6768ms or 135 ticks behind
-[17:33:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5972ms or 119 ticks behind
-[17:34:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5226ms or 104 ticks behind
-[17:34:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4777ms or 95 ticks behind
-[17:34:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4845ms or 96 ticks behind
-[17:37:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[17:37:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6600ms or 132 ticks behind
-[17:38:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7037ms or 140 ticks behind
-[17:38:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10112ms or 202 ticks behind
-[17:39:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7485ms or 149 ticks behind
-[17:39:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7875ms or 157 ticks behind
-[17:39:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7769ms or 155 ticks behind
-[17:48:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[17:48:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10989ms or 219 ticks behind
-[17:48:45] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[17:48:45] [Server thread/INFO]: TevesWang left the game
-[17:49:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9298ms or 185 ticks behind
-[17:49:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8038ms or 160 ticks behind
-[17:49:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7947ms or 158 ticks behind
-[17:50:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5869ms or 117 ticks behind
-[17:50:22] [Server thread/INFO]: hunto3for lost connection: Disconnected
-[17:50:22] [Server thread/INFO]: hunto3for left the game
-[17:58:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2575ms or 51 ticks behind
-[17:59:28] [Server thread/INFO]: [Server] Server shutting down (closing by the system service)
-[17:59:28] [Server thread/INFO]: Saving the game (this may take a moment!)
-[17:59:28] [Server thread/INFO]: Saved the game
-[17:59:38] [Server thread/INFO]: Stopping the server
-[17:59:38] [Server thread/INFO]: Stopping server
-[17:59:38] [Server thread/INFO]: Saving players
-[17:59:38] [Server thread/INFO]: piesOf314 lost connection: Server closed
-[17:59:38] [Server thread/INFO]: piesOf314 left the game
-[17:59:38] [Server thread/INFO]: Saving worlds
-[17:59:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:59:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:59:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:59:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:59:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:59:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:59:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:01:41] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:01:44] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:01:44] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:01:44] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:01:44] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:01:44] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:01:45] [Worker-Main-2/INFO]: Loaded 7 recipes
+[18:01:45] [Worker-Main-2/INFO]: Loaded 1141 advancements
+[18:01:47] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[18:01:47] [Server thread/INFO]: Loading properties
+[18:01:47] [Server thread/INFO]: Default game type: SURVIVAL
+[18:01:47] [Server thread/INFO]: Generating keypair
+[18:01:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:01:47] [Server thread/INFO]: Using epoll channel type
+[18:01:48] [Server thread/INFO]: Preparing level "world"
+[18:01:54] [User Authenticator #1/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
+[18:01:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:01:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:01:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:01:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:01:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:01:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:01:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:01:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:01:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:01:59] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:02:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:02:00] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:02:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:02:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:02:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:02:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:02:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:02:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:02:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:02:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:02:05] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[18:02:05] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[18:02:06] [Worker-Main-2/INFO]: Preparing spawn area: 3%
+[18:02:06] [Worker-Main-2/INFO]: Preparing spawn area: 9%
+[18:02:07] [Worker-Main-2/INFO]: Preparing spawn area: 17%
+[18:02:07] [Worker-Main-2/INFO]: Preparing spawn area: 26%
+[18:02:08] [Worker-Main-2/INFO]: Preparing spawn area: 39%
+[18:02:08] [Worker-Main-2/INFO]: Preparing spawn area: 53%
+[18:02:09] [Worker-Main-2/INFO]: Preparing spawn area: 59%
+[18:02:09] [Worker-Main-2/INFO]: Preparing spawn area: 59%
+[18:02:13] [Server thread/INFO]: Time elapsed: 17186 ms
+[18:02:13] [Server thread/INFO]: Done (24.887s)! For help, type "help"
+[18:02:14] [Server thread/INFO]: piesOf314[/160.39.5.167:63554] logged in with entity id 29 at (-80.69410439039586, 128.0, -62.15540527972333)
+[18:02:15] [Server thread/INFO]: piesOf314 joined the game
+[18:02:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10555ms or 211 ticks behind
+[18:03:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27642ms or 552 ticks behind
+[18:03:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22332ms or 446 ticks behind
+[18:04:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6958ms or 139 ticks behind
+[18:04:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18:08:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[18:09:04] [Server thread/INFO]: piesOf314 lost connection: Disconnected
+[18:09:04] [Server thread/INFO]: piesOf314 left the game
+[19:03:02] [Server thread/INFO]: [Server] Server shutting down (closing by the system service)
+[19:03:02] [Server thread/INFO]: Saving the game (this may take a moment!)
+[19:03:02] [Server thread/INFO]: Saved the game
+[19:03:12] [Server thread/INFO]: Stopping the server
+[19:03:12] [Server thread/INFO]: Stopping server
+[19:03:12] [Server thread/INFO]: Saving players
+[19:03:12] [Server thread/INFO]: Saving worlds
+[19:03:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:03:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:03:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:03:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:03:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:03:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:03:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
