@@ -942,6 +942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2022-05-08 11:24:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2022-04-27 10:46:36 +0000"
@@ -2229,6 +2235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2022-05-08 11:24:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2022-05-01 06:52:23 +0000"
@@ -2397,6 +2409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2022-05-08 11:24:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2022-04-27 10:46:36 +0000"
@@ -2542,6 +2560,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2022-04-27 10:08:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2022-05-08 11:24:38 +0000"
     },
     "done": true
   },
@@ -2742,7 +2766,8 @@
       "minecraft:cat": "2022-04-29 16:07:46 +0000",
       "minecraft:sheep": "2022-04-29 14:36:04 +0000",
       "minecraft:cow": "2022-04-29 16:21:02 +0000",
-      "minecraft:chicken": "2022-04-27 17:07:20 +0000"
+      "minecraft:chicken": "2022-04-27 17:07:20 +0000",
+      "minecraft:rabbit": "2022-05-08 07:46:42 +0000"
     },
     "done": false
   },
@@ -3316,6 +3341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2022-05-08 11:24:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2022-04-26 17:13:24 +0000"
@@ -3331,6 +3362,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2022-05-02 17:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2022-05-08 11:24:38 +0000"
     },
     "done": true
   },
