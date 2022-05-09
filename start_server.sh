@@ -3,7 +3,7 @@
 #May do some pre-config here in the future (ex: custom ram amount based on the running machine)
 
 echo "Starting MC server"
-java -Xmx6656M -Xms512M -XX:+UseG1GC -jar server.jar nogui
+java -Xmx7168M -Xms512M -XX:+UseG1GC -jar server.jar nogui
 echo "MC server Stop"
 
 #/home/ubuntu/mc/discord.sh/discord.sh --text "MC Server Stop"
