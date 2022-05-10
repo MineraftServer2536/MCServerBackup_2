@@ -1,29 +1,63 @@
-[11:32:54] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[11:33:04] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:33:04] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:33:04] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:33:04] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11:33:04] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11:33:09] [Worker-Main-2/INFO]: Loaded 7 recipes
-[11:33:11] [Worker-Main-2/INFO]: Loaded 1141 advancements
-[11:33:18] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[11:33:18] [Server thread/INFO]: Loading properties
-[11:33:18] [Server thread/INFO]: Default game type: SURVIVAL
-[11:33:18] [Server thread/INFO]: Generating keypair
-[11:33:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:33:19] [Server thread/INFO]: Using epoll channel type
-[11:33:20] [Server thread/INFO]: Preparing level "world"
-[11:33:22] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Input/output error
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
-	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?]
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:282) ~[?:?]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?]
-	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:270) ~[?:?]
-	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:313) ~[?:?]
-	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
-	at java.io.InputStreamReader.read(InputStreamReader.java:177) ~[?:?]
-	at java.io.BufferedReader.fill(BufferedReader.java:162) ~[?:?]
-	at java.io.BufferedReader.readLine(BufferedReader.java:329) ~[?:?]
-	at java.io.BufferedReader.readLine(BufferedReader.java:396) ~[?:?]
-	at acx$1.run(SourceFile:99) [server-1.18.2.jar:?]
+[16:28:12] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:28:15] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:28:15] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:28:15] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:28:15] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:28:15] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:28:17] [Worker-Main-2/INFO]: Loaded 7 recipes
+[16:28:17] [Worker-Main-2/INFO]: Loaded 1141 advancements
+[16:28:20] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[16:28:20] [Server thread/INFO]: Loading properties
+[16:28:20] [Server thread/INFO]: Default game type: SURVIVAL
+[16:28:20] [Server thread/INFO]: Generating keypair
+[16:28:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:28:20] [Server thread/INFO]: Using epoll channel type
+[16:28:20] [Server thread/INFO]: Preparing level "world"
+[16:28:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:28:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:28:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:28:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:28:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:28:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:28:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:28:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:28:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:28:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:28:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:28:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:28:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:28:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:28:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:28:35] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[16:28:35] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[16:28:36] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[16:28:36] [Worker-Main-2/INFO]: Preparing spawn area: 12%
+[16:28:37] [Worker-Main-2/INFO]: Preparing spawn area: 26%
+[16:28:37] [Worker-Main-2/INFO]: Preparing spawn area: 32%
+[16:28:38] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[16:28:38] [Worker-Main-2/INFO]: Preparing spawn area: 68%
+[16:28:39] [Worker-Main-2/INFO]: Preparing spawn area: 96%
+[16:28:40] [Server thread/INFO]: Time elapsed: 12177 ms
+[16:28:40] [Server thread/INFO]: Done (19.971s)! For help, type "help"
+[16:30:09] [User Authenticator #1/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
+[16:30:09] [Server thread/INFO]: piesOf314[/160.39.5.167:62689] logged in with entity id 42 at (-516.0601381608568, 64.7531999805212, 269.200725348711)
+[16:30:09] [Server thread/INFO]: piesOf314 joined the game
+[16:30:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[16:30:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5262ms or 105 ticks behind
+[16:31:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3549ms or 70 ticks behind
+[16:33:07] [Server thread/INFO]: piesOf314 lost connection: Disconnected
+[16:33:07] [Server thread/INFO]: piesOf314 left the game
+[16:33:48] [Server thread/INFO]: [Server] Server shutting down (closing by the system service)
+[16:33:48] [Server thread/INFO]: Saving the game (this may take a moment!)
+[16:33:48] [Server thread/INFO]: Saved the game
+[16:33:58] [Server thread/INFO]: Stopping the server
+[16:33:58] [Server thread/INFO]: Stopping server
+[16:33:58] [Server thread/INFO]: Saving players
+[16:33:58] [Server thread/INFO]: Saving worlds
+[16:34:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:34:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:34:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:34:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:34:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:34:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:34:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
