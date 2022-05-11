@@ -659,6 +659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-05-11 13:36:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2022-05-01 07:05:57 +0000"
@@ -926,6 +932,7 @@
       "minecraft:cave_spider": "2022-05-01 14:59:31 +0000",
       "minecraft:piglin": "2022-05-01 12:13:00 +0000",
       "minecraft:enderman": "2022-04-29 15:31:46 +0000",
+      "minecraft:silverfish": "2022-05-11 13:36:34 +0000",
       "minecraft:vex": "2022-05-10 14:26:15 +0000",
       "minecraft:zombie": "2022-04-27 10:24:35 +0000",
       "minecraft:drowned": "2022-04-28 01:37:22 +0000",
@@ -1928,6 +1935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-05-11 13:36:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab": {
     "criteria": {
       "has_polished_deepslate": "2022-04-27 16:16:40 +0000"
@@ -2765,6 +2778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-05-11 13:36:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2022-04-27 10:07:22 +0000"
@@ -3054,6 +3073,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2022-04-27 16:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-05-11 13:36:21 +0000"
     },
     "done": true
   },
@@ -3498,6 +3523,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2022-05-06 15:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-05-11 13:36:21 +0000"
     },
     "done": true
   },
@@ -4002,6 +4033,12 @@
   "minecraft:recipes/decorations/gray_candle": {
     "criteria": {
       "has_gray_dye": "2022-05-06 08:51:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2022-05-11 13:36:21 +0000"
     },
     "done": true
   },

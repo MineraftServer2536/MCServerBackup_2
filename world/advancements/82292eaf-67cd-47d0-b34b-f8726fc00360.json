@@ -725,6 +725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2022-05-11 13:40:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2022-05-09 09:53:32 +0000"
@@ -877,6 +883,7 @@
       "minecraft:cave_spider": "2022-05-01 14:55:18 +0000",
       "minecraft:piglin": "2022-05-10 06:22:08 +0000",
       "minecraft:enderman": "2022-05-04 14:35:03 +0000",
+      "minecraft:silverfish": "2022-05-11 13:43:31 +0000",
       "minecraft:zombie": "2022-04-29 15:53:00 +0000",
       "minecraft:drowned": "2022-05-06 04:38:46 +0000"
     },
@@ -1080,6 +1087,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2022-05-11 13:40:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_white_dye": "2022-05-06 05:50:42 +0000"
@@ -1119,6 +1132,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2022-05-08 11:22:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2022-05-11 13:42:58 +0000"
     },
     "done": true
   },
@@ -1659,6 +1678,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2022-05-07 05:20:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2022-05-11 13:38:20 +0000"
     },
     "done": true
   },
@@ -2543,6 +2568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2022-05-11 13:40:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2022-04-29 15:36:49 +0000"
@@ -2594,6 +2625,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2022-05-01 14:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2022-05-11 13:38:20 +0000"
     },
     "done": true
   },
@@ -2706,6 +2743,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2022-04-29 15:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2022-05-11 13:40:44 +0000"
     },
     "done": true
   },
@@ -3849,6 +3892,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2022-05-07 14:41:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2022-05-11 14:16:31 +0000"
     },
     "done": true
   },
