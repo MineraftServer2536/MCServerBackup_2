@@ -2083,6 +2083,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2022-05-14 05:42:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-04-27 10:03:45 +0000"
@@ -3036,7 +3042,8 @@
       "minecraft:sheep": "2022-04-29 14:36:04 +0000",
       "minecraft:cow": "2022-04-29 16:21:02 +0000",
       "minecraft:chicken": "2022-04-27 17:07:20 +0000",
-      "minecraft:rabbit": "2022-05-08 07:46:42 +0000"
+      "minecraft:rabbit": "2022-05-08 07:46:42 +0000",
+      "minecraft:axolotl": "2022-05-14 06:22:35 +0000"
     },
     "done": false
   },
