@@ -1,52 +1,174 @@
-[19:31:59] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:32:02] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:32:02] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:32:02] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:32:02] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:32:02] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:32:03] [Worker-Main-2/INFO]: Loaded 7 recipes
-[19:32:03] [Worker-Main-2/INFO]: Loaded 1141 advancements
-[19:32:06] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[19:32:06] [Server thread/INFO]: Loading properties
-[19:32:06] [Server thread/INFO]: Default game type: SURVIVAL
-[19:32:06] [Server thread/INFO]: Generating keypair
-[19:32:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:32:06] [Server thread/INFO]: Using epoll channel type
-[19:32:06] [Server thread/INFO]: Preparing level "world"
-[19:32:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:32:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:19] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[19:32:19] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[19:32:20] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[19:32:20] [Worker-Main-2/INFO]: Preparing spawn area: 9%
-[19:32:21] [Worker-Main-2/INFO]: Preparing spawn area: 23%
-[19:32:21] [Worker-Main-2/INFO]: Preparing spawn area: 30%
-[19:32:22] [Worker-Main-2/INFO]: Preparing spawn area: 48%
-[19:32:23] [Worker-Main-2/INFO]: Preparing spawn area: 65%
-[19:32:23] [Worker-Main-2/INFO]: Preparing spawn area: 96%
-[19:32:24] [Server thread/INFO]: Time elapsed: 10475 ms
-[19:32:24] [Server thread/INFO]: Done (17.662s)! For help, type "help"
-[19:39:53] [Server thread/INFO]: [Server] Server shutting down (closing by the system service)
-[19:39:53] [Server thread/INFO]: Saving the game (this may take a moment!)
-[19:39:53] [Server thread/INFO]: Saved the game
-[19:40:03] [Server thread/INFO]: Stopping the server
-[19:40:03] [Server thread/INFO]: Stopping server
-[19:40:03] [Server thread/INFO]: Saving players
-[19:40:03] [Server thread/INFO]: Saving worlds
-[19:40:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:40:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:40:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:40:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:40:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:40:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:40:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:53:25] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:53:27] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:53:28] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:53:28] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:53:28] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:53:28] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:53:29] [Worker-Main-2/INFO]: Loaded 7 recipes
+[02:53:29] [Worker-Main-2/INFO]: Loaded 1141 advancements
+[02:53:31] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[02:53:31] [Server thread/INFO]: Loading properties
+[02:53:31] [Server thread/INFO]: Default game type: SURVIVAL
+[02:53:31] [Server thread/INFO]: Generating keypair
+[02:53:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:53:32] [Server thread/INFO]: Using epoll channel type
+[02:53:32] [Server thread/INFO]: Preparing level "world"
+[02:53:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:53:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:53:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:53:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:53:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:53:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:53:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:53:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:53:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:53:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:53:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:53:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:53:45] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[02:53:45] [Worker-Main-2/INFO]: Preparing spawn area: 5%
+[02:53:46] [Worker-Main-2/INFO]: Preparing spawn area: 10%
+[02:53:46] [Worker-Main-2/INFO]: Preparing spawn area: 11%
+[02:53:47] [Worker-Main-2/INFO]: Preparing spawn area: 11%
+[02:53:47] [Worker-Main-2/INFO]: Preparing spawn area: 14%
+[02:53:47] [User Authenticator #1/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[02:53:48] [Worker-Main-2/INFO]: Preparing spawn area: 28%
+[02:53:48] [Worker-Main-2/INFO]: Preparing spawn area: 48%
+[02:53:49] [Worker-Main-2/INFO]: Preparing spawn area: 82%
+[02:53:50] [Server thread/INFO]: Time elapsed: 10507 ms
+[02:53:50] [Server thread/INFO]: Done (17.689s)! For help, type "help"
+[02:53:50] [Server thread/INFO]: TevesWang[/71.227.248.184:56111] logged in with entity id 29 at (-440.8119630667274, 68.0, 298.27604680727484)
+[02:53:50] [Server thread/INFO]: TevesWang joined the game
+[02:54:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[02:54:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3048ms or 60 ticks behind
+[02:57:39] [User Authenticator #2/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
+[02:57:39] [Server thread/INFO]: NatsuhiLight[/118.169.73.154:1503] logged in with entity id 1527 at (-508.34325342990496, 66.0, 307.0249295003903)
+[02:57:39] [Server thread/INFO]: NatsuhiLight joined the game
+[03:40:21] [Server thread/INFO]: TevesWang has made the advancement [The City at the End of the Game]
+[03:54:35] [Server thread/INFO]: TevesWang has completed the challenge [Great View From Up Here]
+[04:01:53] [Server thread/INFO]: TevesWang has reached the goal [Sky's the Limit]
+[04:43:57] [Server thread/INFO]: <NatsuhiLight> where u get wings?
+[04:44:24] [Server thread/INFO]: <NatsuhiLight> 你在哪裡拿到鞘翅的?我蓋的路過去嗎
+[04:53:50] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[04:53:50] [Server thread/INFO]: TevesWang left the game
+[04:54:27] [User Authenticator #3/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[04:54:27] [Server thread/INFO]: TevesWang[/71.227.248.184:60223] logged in with entity id 33288 at (-443.33614958345083, 68.0, 293.2802934693798)
+[04:54:27] [Server thread/INFO]: TevesWang joined the game
+[05:10:54] [Server thread/INFO]: NatsuhiLight has completed the challenge [Great View From Up Here]
+[05:25:29] [Server thread/WARN]: NatsuhiLight moved too quickly! 1779.2044130241009,11.265900001525878,-470.93372512034153
+[08:22:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2213ms or 44 ticks behind
+[08:24:38] [Server thread/WARN]: TevesWang moved too quickly! -16.605790436873576,-2.1169407779660645,7.02198855994061
+[08:24:51] [Server thread/WARN]: TevesWang moved too quickly! -15.761196656112588,-1.6583916584711176,7.287151379869215
+[08:25:01] [Server thread/WARN]: TevesWang moved too quickly! -17.143976464519255,-0.49716360814495886,4.211150660796761
+[08:25:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3139ms or 62 ticks behind
+[08:25:08] [Server thread/WARN]: TevesWang moved too quickly! -16.813755086259334,-3.015640959236137,-3.212298018967658
+[08:25:14] [Server thread/WARN]: TevesWang moved too quickly! -14.285265731996333,-2.3797128109363115,-10.169788754560955
+[08:25:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3683ms or 73 ticks behind
+[08:27:00] [Server thread/WARN]: TevesWang moved too quickly! -18.213889843613288,-0.7130667324656201,2.4764660245861023
+[08:27:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2281ms or 45 ticks behind
+[08:30:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[08:30:32] [Server thread/WARN]: TevesWang moved too quickly! -7.755253707602606,-1.6238276013918806,-16.824926246561063
+[08:30:32] [Server thread/WARN]: TevesWang moved too quickly! -6.627455580462083,1.684184379324023,-16.910309489239125
+[08:30:35] [Server thread/WARN]: TevesWang moved too quickly! -2.979618972794924,1.5329473896917136,-17.859104178538814
+[08:30:37] [Server thread/WARN]: TevesWang moved too quickly! -5.626368185619867,-0.6797316174351522,-17.487843437041192
+[08:30:42] [Server thread/WARN]: TevesWang moved too quickly! -5.62810043173431,-1.1828150648781275,-17.672817837047944
+[08:30:42] [Server thread/WARN]: TevesWang moved too quickly! -5.411021728225933,-1.175820681555905,-17.7458365507282
+[08:30:47] [Server thread/WARN]: TevesWang moved too quickly! -5.2536912865398335,-1.1114265251306108,-17.77962693601745
+[08:30:49] [Server thread/WARN]: TevesWang moved too quickly! 0.3057298957492094,-0.8292826757613199,-18.480911579825943
+[08:30:51] [Server thread/WARN]: TevesWang moved too quickly! 5.21819244958624,-0.8188238911951942,-17.53345706276798
+[08:30:53] [Server thread/WARN]: TevesWang moved too quickly! -4.037361773792327,-1.6599898728743483,-17.9479064547823
+[08:30:56] [Server thread/WARN]: TevesWang moved too quickly! -15.427291708845587,-1.9390045491675778,-10.310336297871856
+[08:30:56] [Server thread/WARN]: NatsuhiLight moved too quickly! -0.3055438386455762,0.0,-10.167773823988625
+[08:30:58] [Server thread/WARN]: TevesWang moved too quickly! -7.524638664574923,-2.38504532207061,-16.4852935173771
+[08:31:02] [Server thread/WARN]: TevesWang moved too quickly! -8.026063445468026,-1.3976406276871387,-16.158814233479404
+[08:31:02] [Server thread/WARN]: NatsuhiLight moved too quickly! 1.0002886607027222,0.0,-10.032844301550625
+[08:31:05] [Server thread/WARN]: TevesWang moved too quickly! -14.97735710406323,-1.2388252781708928,-10.746832550885415
+[08:31:06] [Server thread/WARN]: TevesWang moved too quickly! -10.012116849775339,-1.3413089243943546,-15.532133492720675
+[08:31:09] [Server thread/WARN]: NatsuhiLight moved too quickly! 7.8924029532964255,0.0,-6.387399446279346
+[08:31:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 34727ms or 694 ticks behind
+[09:00:39] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2109, y=65, z=-852} gj{x=-2109, y=64, z=-853}
+[09:00:40] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2109, y=65, z=-852} gj{x=-2109, y=64, z=-853}
+[09:00:41] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2107, y=65, z=-853} gj{x=-2110, y=64, z=-852}
+[09:00:51] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2091, y=64, z=-862} gj{x=-2092, y=64, z=-861}
+[09:00:51] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2091, y=64, z=-862} gj{x=-2092, y=64, z=-861}
+[09:00:51] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2091, y=64, z=-862} gj{x=-2092, y=64, z=-861}
+[09:00:51] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2091, y=64, z=-862} gj{x=-2092, y=64, z=-861}
+[09:00:52] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2091, y=64, z=-862} gj{x=-2092, y=64, z=-861}
+[09:02:00] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2105, y=66, z=-832} gj{x=-2105, y=65, z=-832}
+[09:02:18] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2115, y=67, z=-838} gj{x=-2115, y=66, z=-838}
+[09:02:59] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2122, y=68, z=-837} gj{x=-2121, y=66, z=-837}
+[09:03:20] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2128, y=70, z=-841} gj{x=-2128, y=70, z=-839}
+[09:03:20] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2128, y=70, z=-841} gj{x=-2128, y=70, z=-839}
+[09:04:13] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2121, y=66, z=-846} gj{x=-2121, y=65, z=-847}
+[09:04:49] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2108, y=66, z=-854} gj{x=-2108, y=65, z=-854}
+[09:05:02] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2116, y=66, z=-855} gj{x=-2110, y=67, z=-854}
+[09:05:02] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2116, y=66, z=-855} gj{x=-2110, y=67, z=-854}
+[09:05:02] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2116, y=66, z=-855} gj{x=-2110, y=67, z=-854}
+[09:06:18] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2107, y=65, z=-857} gj{x=-2108, y=64, z=-857}
+[09:06:18] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2107, y=65, z=-857} gj{x=-2108, y=64, z=-857}
+[09:06:18] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2108, y=65, z=-857} gj{x=-2108, y=64, z=-857}
+[09:06:24] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2108, y=65, z=-857} gj{x=-2109, y=65, z=-857}
+[09:06:24] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2108, y=65, z=-857} gj{x=-2109, y=65, z=-857}
+[09:06:24] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-2108, y=65, z=-856} gj{x=-2109, y=65, z=-856}
+[09:07:51] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-492, y=64, z=317} gj{x=-492, y=64, z=318}
+[10:26:08] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[10:26:08] [Server thread/INFO]: TevesWang left the game
+[10:35:04] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
+[10:35:04] [Server thread/INFO]: NatsuhiLight left the game
+[10:57:36] [User Authenticator #4/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[10:57:36] [Server thread/INFO]: TevesWang[/71.227.248.184:55382] logged in with entity id 168672 at (-443.39048906176345, 68.0, 298.69999998807907)
+[10:57:36] [Server thread/INFO]: TevesWang joined the game
+[12:29:37] [User Authenticator #5/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
+[12:29:37] [Server thread/INFO]: NatsuhiLight[/118.169.73.154:8608] logged in with entity id 187566 at (-499.5, 66.0, 323.5)
+[12:29:37] [Server thread/INFO]: NatsuhiLight joined the game
+[12:39:18] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[12:39:18] [Server thread/INFO]: TevesWang left the game
+[13:39:59] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-1510, y=44, z=1237} gj{x=-1510, y=43, z=1237}
+[13:39:59] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-1510, y=44, z=1237} gj{x=-1510, y=43, z=1237}
+[14:15:02] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
+[14:15:02] [Server thread/INFO]: NatsuhiLight left the game
+[14:16:46] [User Authenticator #6/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[14:16:46] [Server thread/INFO]: TevesWang[/71.227.248.184:61399] logged in with entity id 219155 at (-5981.1648338708565, 69.0, 737.8710086567414)
+[14:16:46] [Server thread/INFO]: TevesWang joined the game
+[14:34:30] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=3167, y=67, z=-1967} gj{x=3168, y=68, z=-1968}
+[14:36:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=3169, y=65, z=-1965} gj{x=3168, y=64, z=-1963}
+[14:36:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=3169, y=65, z=-1965} gj{x=3168, y=64, z=-1963}
+[14:36:39] [User Authenticator #7/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
+[14:36:39] [Server thread/INFO]: NatsuhiLight[/118.169.73.154:9350] logged in with entity id 227163 at (-500.1482173163983, 71.0, 317.5001183477917)
+[14:36:39] [Server thread/INFO]: NatsuhiLight joined the game
+[14:39:23] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! -10.190664857719753,0.0,0.0
+[14:39:32] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 0.0,0.0,10.841735546135993
+[14:39:32] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 0.0,0.0,12.716878007333122
+[14:39:32] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 0.0,0.0,14.611124201767552
+[14:39:43] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! -11.912264895698925,0.0,0.0
+[14:40:52] [Server thread/INFO]: TevesWang has completed the challenge [Subspace Bubble]
+[14:59:38] [Server thread/WARN]: NatsuhiLight moved too quickly! 17.97928510997349,-0.38541894952274447,1.3585977671234701
+[15:19:59] [Server thread/INFO]: NatsuhiLight has completed the challenge [Subspace Bubble]
+[15:19:59] [Server thread/WARN]: TevesWang moved too quickly! -7.488941954673464,-0.2522033402537289,-6.719363046406102
+[15:19:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4713ms or 94 ticks behind
+[15:43:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5856ms or 117 ticks behind
+[15:53:21] [Server thread/WARN]: NatsuhiLight moved too quickly! -9.298668193843241,1.159285349992217,-15.636024491141654
+[15:54:05] [Server thread/WARN]: TevesWang moved too quickly! 13.349412192501404,-10.016728722323535,5.45681877437562
+[16:06:07] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[16:06:07] [Server thread/INFO]: TevesWang left the game
+[16:07:45] [User Authenticator #8/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[16:07:45] [Server thread/INFO]: TevesWang[/71.227.248.184:64836] logged in with entity id 284425 at (-748.9681968122529, 128.0, 90.80450561471089)
+[16:07:45] [Server thread/INFO]: TevesWang joined the game
+[16:15:59] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
+[16:15:59] [Server thread/INFO]: NatsuhiLight left the game
+[16:29:32] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[16:29:32] [Server thread/INFO]: TevesWang left the game
+[16:33:02] [Server thread/INFO]: [Server] Server shutting down (closing by the system service)
+[16:33:02] [Server thread/INFO]: Saving the game (this may take a moment!)
+[16:33:02] [Server thread/INFO]: Saved the game
+[16:33:12] [Server thread/INFO]: Stopping the server
+[16:33:12] [Server thread/INFO]: Stopping server
+[16:33:12] [Server thread/INFO]: Saving players
+[16:33:12] [Server thread/INFO]: Saving worlds
+[16:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
