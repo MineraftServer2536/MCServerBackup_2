@@ -947,6 +947,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2022-05-17 15:23:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-04-29 14:06:39 +0000"
@@ -1194,6 +1200,12 @@
       "minecraft:soul_sand_valley": "2022-05-10 11:58:25 +0000",
       "minecraft:basalt_deltas": "2022-05-01 06:52:52 +0000",
       "minecraft:warped_forest": "2022-05-05 09:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2022-05-17 15:11:44 +0000"
     },
     "done": true
   },
@@ -2754,6 +2766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2022-05-17 15:23:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2022-05-01 05:54:07 +0000"
@@ -2942,6 +2960,7 @@
       "minecraft:ravager": "2022-05-09 10:12:45 +0000",
       "minecraft:ghast": "2022-05-07 10:42:40 +0000",
       "minecraft:hoglin": "2022-05-10 06:22:50 +0000",
+      "minecraft:guardian": "2022-05-17 15:09:07 +0000",
       "minecraft:vindicator": "2022-05-09 10:11:38 +0000",
       "minecraft:magma_cube": "2022-05-07 10:35:19 +0000",
       "minecraft:spider": "2022-05-01 09:38:34 +0000",
@@ -3402,6 +3421,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2022-05-17 15:23:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2022-05-01 14:25:44 +0000"
@@ -3453,6 +3478,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2022-04-29 14:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2022-05-17 15:11:44 +0000"
     },
     "done": true
   },
@@ -3900,6 +3931,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2022-05-17 15:11:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2022-05-01 13:24:40 +0000"
@@ -4183,6 +4220,12 @@
   "minecraft:recipes/decorations/pink_banner": {
     "criteria": {
       "has_pink_wool": "2022-05-07 04:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2022-05-17 15:23:17 +0000"
     },
     "done": true
   },
@@ -4837,6 +4880,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2022-05-01 04:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2022-05-17 13:16:02 +0000"
     },
     "done": true
   },
