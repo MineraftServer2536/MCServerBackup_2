@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2022-05-18 11:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-05-16 04:04:30 +0000"
@@ -566,6 +572,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2022-05-13 15:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2022-05-18 11:00:13 +0000"
     },
     "done": true
   },
@@ -1998,6 +2010,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2022-05-18 08:10:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2022-05-06 04:46:54 +0000"
@@ -2301,6 +2319,12 @@
   "minecraft:husbandry/silk_touch_nest": {
     "criteria": {
       "silk_touch_nest": "2022-05-08 14:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2022-05-18 11:25:59 +0000"
     },
     "done": true
   },
@@ -2682,6 +2706,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2022-05-18 11:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2022-05-05 15:53:18 +0000"
@@ -2778,6 +2808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2022-05-18 11:04:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2022-05-03 08:39:09 +0000"
@@ -2787,6 +2823,12 @@
   "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
     "criteria": {
       "has_prismarine_bricks": "2022-05-17 15:23:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2022-05-18 11:00:13 +0000"
     },
     "done": true
   },
@@ -2904,6 +2946,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2022-05-18 11:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2022-04-29 15:04:53 +0000"
@@ -2975,6 +3023,7 @@
       "minecraft:pillager": "2022-05-01 12:55:44 +0000",
       "minecraft:blaze": "2022-05-09 10:02:28 +0000",
       "minecraft:skeleton": "2022-04-29 15:20:52 +0000",
+      "minecraft:elder_guardian": "2022-05-18 11:04:36 +0000",
       "minecraft:ravager": "2022-05-09 10:12:45 +0000",
       "minecraft:ghast": "2022-05-07 10:42:40 +0000",
       "minecraft:hoglin": "2022-05-10 06:22:50 +0000",
@@ -3610,6 +3659,7 @@
       "minecraft:grove": "2022-05-10 10:37:16 +0000",
       "minecraft:cold_ocean": "2022-05-10 10:13:35 +0000",
       "minecraft:forest": "2022-04-29 14:26:48 +0000",
+      "minecraft:lush_caves": "2022-05-18 06:36:19 +0000",
       "minecraft:deep_cold_ocean": "2022-05-10 10:57:31 +0000",
       "minecraft:frozen_ocean": "2022-05-10 11:02:49 +0000",
       "minecraft:desert": "2022-05-01 15:14:46 +0000",
@@ -3913,6 +3963,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2022-05-18 11:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-04-29 14:06:49 +0000"
@@ -4147,6 +4203,7 @@
       "melon_slice": "2022-04-29 14:13:56 +0000",
       "golden_carrot": "2022-05-05 14:14:32 +0000",
       "cooked_chicken": "2022-04-29 14:15:45 +0000",
+      "cooked_salmon": "2022-05-18 12:09:36 +0000",
       "carrot": "2022-05-01 11:03:30 +0000"
     },
     "done": false
@@ -4316,6 +4373,12 @@
   "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
       "has_orange_wool": "2022-05-15 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2022-05-18 11:00:13 +0000"
     },
     "done": true
   },
@@ -4496,6 +4559,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2022-05-16 11:30:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2022-05-18 11:25:59 +0000"
     },
     "done": true
   },
@@ -4727,6 +4796,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2022-05-18 10:08:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2022-05-08 14:35:31 +0000"
@@ -4760,6 +4835,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-05-07 14:41:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2022-05-18 11:00:13 +0000"
     },
     "done": true
   },
