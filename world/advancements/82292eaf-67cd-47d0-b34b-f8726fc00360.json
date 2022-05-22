@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/very_very_frightening": {
+    "criteria": {
+      "struck_villager": "2022-05-22 05:44:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2022-05-06 03:21:28 +0000"
@@ -716,6 +722,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2022-05-13 04:31:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2022-05-22 13:12:33 +0000"
     },
     "done": true
   },
@@ -1311,6 +1323,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/fall_from_world_height": {
+    "criteria": {
+      "fall_from_world_height": "2022-05-22 16:55:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
     "criteria": {
       "has_nether_gold_ore": "2022-05-07 12:17:45 +0000"
@@ -1350,6 +1368,12 @@
   "minecraft:recipes/decorations/lime_carpet": {
     "criteria": {
       "has_lime_wool": "2022-05-15 03:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2022-05-22 13:48:04 +0000"
     },
     "done": true
   },
@@ -1560,6 +1584,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2022-04-29 14:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/bullseye": {
+    "criteria": {
+      "bullseye": "2022-05-22 13:16:36 +0000"
     },
     "done": true
   },
@@ -2515,6 +2545,12 @@
     },
     "done": true
   },
+  "minecraft:nether/charge_respawn_anchor": {
+    "criteria": {
+      "charge_respawn_anchor": "2022-05-22 17:21:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2022-05-16 11:30:26 +0000"
@@ -2566,6 +2602,12 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2022-05-16 11:30:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2022-05-22 03:28:32 +0000"
     },
     "done": true
   },
@@ -3353,6 +3395,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/spyglass_at_parrot": {
+    "criteria": {
+      "spyglass_at_parrot": "2022-05-22 02:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-05-01 05:54:34 +0000"
@@ -3883,6 +3931,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade_at_world_height": {
+    "criteria": {
+      "trade_at_world_height": "2022-05-22 10:22:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2022-05-01 14:25:44 +0000"
@@ -4000,6 +4054,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2022-05-03 08:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/play_jukebox_in_meadows": {
+    "criteria": {
+      "play_jukebox_in_meadows": "2022-05-22 02:41:21 +0000"
     },
     "done": true
   },
@@ -5253,6 +5313,7 @@
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "textures/entity/cat/tabby.png": "2022-05-21 09:49:10 +0000",
+      "textures/entity/cat/jellie.png": "2022-05-22 05:50:26 +0000",
       "textures/entity/cat/siamese.png": "2022-05-21 09:48:04 +0000",
       "textures/entity/cat/all_black.png": "2022-05-16 11:21:37 +0000",
       "textures/entity/cat/calico.png": "2022-05-21 08:20:56 +0000"

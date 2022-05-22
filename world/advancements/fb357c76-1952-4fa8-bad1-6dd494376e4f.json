@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2022-05-22 17:23:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-05-07 13:33:33 +0000"
@@ -410,6 +416,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2022-05-11 03:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2022-05-22 16:42:35 +0000"
     },
     "done": true
   },
@@ -837,6 +849,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2022-05-22 17:16:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-05-07 04:40:13 +0000"
@@ -864,6 +882,12 @@
   "minecraft:recipes/building_blocks/stripped_acacia_wood": {
     "criteria": {
       "has_log": "2022-05-07 07:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2022-05-22 16:29:54 +0000"
     },
     "done": true
   },
@@ -1041,6 +1065,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2022-05-22 16:42:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2022-05-11 07:43:19 +0000"
@@ -1128,6 +1158,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2022-05-07 06:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2022-05-22 16:42:35 +0000"
     },
     "done": true
   },
@@ -1474,6 +1510,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2022-05-22 16:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/fall_from_world_height": {
+    "criteria": {
+      "fall_from_world_height": "2022-05-22 16:57:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2022-05-15 14:54:36 +0000"
@@ -1597,6 +1645,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2022-05-15 14:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2022-05-22 17:18:49 +0000"
     },
     "done": true
   },
@@ -1832,6 +1886,18 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2022-05-07 06:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2022-05-22 17:18:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2022-05-22 16:42:35 +0000"
     },
     "done": true
   },
@@ -2462,6 +2528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2022-05-22 17:18:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2022-05-07 13:49:46 +0000"
@@ -2648,6 +2720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2022-05-22 16:55:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2022-05-07 06:45:54 +0000"
@@ -2819,6 +2897,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_carved_pumpkin": "2022-05-07 17:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2022-05-22 17:16:36 +0000"
     },
     "done": true
   },

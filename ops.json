@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "7f767bbd-7b53-4854-b609-d55903f49ed7",
+    "name": "NatsuhiLight",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
