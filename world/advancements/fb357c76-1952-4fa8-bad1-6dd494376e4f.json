@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2022-05-25 19:21:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2022-05-07 03:45:10 +0000"
@@ -533,6 +539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2022-05-25 19:21:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-05-07 06:01:31 +0000"
@@ -633,6 +645,8 @@
     "criteria": {
       "minecraft:skeleton": "2022-05-11 06:11:04 +0000",
       "minecraft:magma_cube": "2022-05-07 05:24:10 +0000",
+      "minecraft:spider": "2022-05-25 19:17:41 +0000",
+      "minecraft:creeper": "2022-05-25 19:17:40 +0000",
       "minecraft:phantom": "2022-05-11 07:10:02 +0000",
       "minecraft:zombified_piglin": "2022-05-07 17:45:08 +0000",
       "minecraft:witch": "2022-05-17 15:53:00 +0000",
@@ -810,6 +824,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-05-11 05:58:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2022-05-25 19:33:42 +0000"
     },
     "done": true
   },
@@ -2747,6 +2767,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2022-05-07 05:25:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2022-05-25 19:21:40 +0000"
     },
     "done": true
   },
