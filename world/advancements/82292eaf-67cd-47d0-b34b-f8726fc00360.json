@@ -1927,6 +1927,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/two_birds_one_arrow": {
+    "criteria": {
+      "two_birds": "2022-05-26 08:40:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2022-05-01 06:52:51 +0000"
@@ -2302,6 +2308,12 @@
   "minecraft:end/find_end_city": {
     "criteria": {
       "in_city": "2022-05-16 03:40:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2022-05-26 14:46:37 +0000"
     },
     "done": true
   },
@@ -2785,6 +2797,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2022-05-26 14:46:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2022-05-16 03:49:30 +0000"
@@ -2965,6 +2983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2022-05-26 08:58:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2022-05-12 10:59:38 +0000"
@@ -2998,6 +3022,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2022-05-01 05:43:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2022-05-26 14:46:37 +0000"
     },
     "done": true
   },
@@ -4317,6 +4347,7 @@
       "cooked_beef": "2022-05-06 08:27:32 +0000",
       "baked_potato": "2022-05-06 05:52:00 +0000",
       "cooked_cod": "2022-05-08 14:45:58 +0000",
+      "rabbit": "2022-05-26 14:46:51 +0000",
       "pumpkin_pie": "2022-05-05 11:42:44 +0000",
       "bread": "2022-05-01 05:55:31 +0000",
       "melon_slice": "2022-04-29 14:13:56 +0000",
@@ -5113,6 +5144,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2022-05-26 06:46:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2022-05-01 12:52:59 +0000"
@@ -5140,6 +5177,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2022-04-29 14:54:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2022-05-26 08:58:58 +0000"
     },
     "done": true
   },

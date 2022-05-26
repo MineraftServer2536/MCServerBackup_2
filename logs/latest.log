@@ -1,69 +1,154 @@
-[01:11:56] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:11:59] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:11:59] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:11:59] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:11:59] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:11:59] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:12:00] [Worker-Main-2/INFO]: Loaded 7 recipes
-[01:12:01] [Worker-Main-2/INFO]: Loaded 1141 advancements
-[01:12:03] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[01:12:03] [Server thread/INFO]: Loading properties
-[01:12:03] [Server thread/INFO]: Default game type: SURVIVAL
-[01:12:03] [Server thread/INFO]: Generating keypair
-[01:12:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:12:04] [Server thread/INFO]: Using epoll channel type
-[01:12:04] [Server thread/INFO]: Preparing level "world"
-[01:12:06] [User Authenticator #1/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
-[01:12:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:12:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:12:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:12:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:12:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:12:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:12:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:12:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:12:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:12:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:12:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:12:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:12:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:12:17] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[01:12:18] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[01:12:18] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[01:12:19] [Worker-Main-2/INFO]: Preparing spawn area: 17%
-[01:12:19] [Worker-Main-2/INFO]: Preparing spawn area: 31%
-[01:12:20] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[01:12:20] [Worker-Main-2/INFO]: Preparing spawn area: 69%
-[01:12:21] [Worker-Main-2/INFO]: Preparing spawn area: 77%
-[01:12:21] [Worker-Main-2/INFO]: Preparing spawn area: 92%
-[01:12:22] [Server thread/INFO]: Time elapsed: 10863 ms
-[01:12:22] [Server thread/INFO]: Done (18.345s)! For help, type "help"
-[01:12:22] [Server thread/INFO]: piesOf314[/160.39.5.167:52515] logged in with entity id 28 at (-524.6917901792075, 64.0, 261.9961620826023)
-[01:12:23] [Server thread/INFO]: piesOf314 joined the game
-[01:12:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
-[01:12:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3806ms or 76 ticks behind
-[01:13:42] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:13:42] [Server thread/INFO]: echo test<--[HERE]
-[01:14:15] [Server thread/INFO]: [Server] test
-[01:14:35] [Server thread/INFO]: No player was found
-[01:14:45] [Server thread/INFO]: Gave 1 [Bow] to piesOf314
-[01:15:08] [Server thread/INFO]: [Server] AwA
-[01:16:42] [Server thread/INFO]: piesOf314 has made the advancement [Take Aim]
-[01:28:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:28:39] [Server thread/INFO]: /spawn piesOf314<--[HERE]
-[02:01:42] [Server thread/INFO]: piesOf314 lost connection: Timed out
-[02:01:42] [Server thread/INFO]: piesOf314 left the game
-[02:03:02] [Server thread/INFO]: [Server] Server shutting down (closing by the system service)
-[02:03:02] [Server thread/INFO]: Saving the game (this may take a moment!)
-[02:03:02] [Server thread/INFO]: Saved the game
-[02:03:12] [Server thread/INFO]: Stopping the server
-[02:03:12] [Server thread/INFO]: Stopping server
-[02:03:12] [Server thread/INFO]: Saving players
-[02:03:12] [Server thread/INFO]: Saving worlds
-[02:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:03:30] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04:03:33] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:03:33] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:03:33] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[04:03:33] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[04:03:33] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[04:03:34] [Worker-Main-2/INFO]: Loaded 7 recipes
+[04:03:34] [Worker-Main-2/INFO]: Loaded 1141 advancements
+[04:03:36] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[04:03:36] [Server thread/INFO]: Loading properties
+[04:03:36] [Server thread/INFO]: Default game type: SURVIVAL
+[04:03:36] [Server thread/INFO]: Generating keypair
+[04:03:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:03:37] [Server thread/INFO]: Using epoll channel type
+[04:03:37] [Server thread/INFO]: Preparing level "world"
+[04:03:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:03:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:03:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:03:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:03:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:03:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:03:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:03:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:03:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:03:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:03:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:03:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:03:50] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:03:50] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[04:03:50] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[04:03:51] [Worker-Main-2/INFO]: Preparing spawn area: 10%
+[04:03:51] [Worker-Main-2/INFO]: Preparing spawn area: 11%
+[04:03:52] [Worker-Main-2/INFO]: Preparing spawn area: 19%
+[04:03:52] [Worker-Main-2/INFO]: Preparing spawn area: 34%
+[04:03:53] [Worker-Main-2/INFO]: Preparing spawn area: 52%
+[04:03:53] [Worker-Main-2/INFO]: Preparing spawn area: 67%
+[04:03:54] [User Authenticator #1/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[04:03:54] [Worker-Main-2/INFO]: Preparing spawn area: 90%
+[04:03:55] [Server thread/INFO]: Time elapsed: 10766 ms
+[04:03:55] [Server thread/INFO]: Done (17.850s)! For help, type "help"
+[04:03:55] [Server thread/INFO]: TevesWang[/71.227.248.184:51917] logged in with entity id 28 at (-439.2843481474256, 68.0625, 305.7620040410281)
+[04:03:55] [Server thread/INFO]: TevesWang joined the game
+[04:04:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[06:26:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2556ms or 51 ticks behind
+[06:46:26] [Server thread/INFO]: TevesWang has made the advancement [Ol' Betsy]
+[08:21:41] [User Authenticator #2/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
+[08:21:41] [Server thread/INFO]: NatsuhiLight[/118.169.83.212:65114] logged in with entity id 68539 at (-524.5, 64.5625, 258.5)
+[08:21:41] [Server thread/INFO]: NatsuhiLight joined the game
+[08:22:15] [Server thread/INFO]: <NatsuhiLight> su3ru8 u.6 s你加油
+[08:40:34] [Server thread/INFO]: TevesWang has completed the challenge [Two Birds, One Arrow]
+[08:40:44] [Server thread/INFO]: <TevesWang> done
+[10:03:48] [Server thread/INFO]: <TevesWang> 太大了吧
+[10:03:53] [Server thread/INFO]: <NatsuhiLight> ...
+[10:03:54] [Server thread/INFO]: <TevesWang> 我們家底下
+[10:04:04] [Server thread/INFO]: <NatsuhiLight> 這在我們家?
+[10:04:19] [Server thread/INFO]: <TevesWang> -435 50
+[10:04:26] [Server thread/INFO]: <NatsuhiLight> 人咧
+[10:05:12] [Server thread/INFO]: <TevesWang> where did we come freom
+[10:06:08] [Server thread/INFO]: <TevesWang> diamond
+[10:07:34] [Server thread/INFO]: <NatsuhiLight> 先吃飯
+[10:07:38] [Server thread/INFO]: <TevesWang> bye
+[12:19:27] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[12:19:27] [Server thread/INFO]: TevesWang left the game
+[12:19:27] [Server thread/WARN]: handleDisconnection() called twice
+[13:27:39] [User Authenticator #3/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[13:27:39] [Server thread/INFO]: TevesWang[/71.227.248.184:57178] logged in with entity id 141967 at (-440.9102697696908, 68.0625, 303.0095171386632)
+[13:27:39] [Server thread/INFO]: TevesWang joined the game
+[13:57:27] [Server thread/INFO]: <NatsuhiLight> generate element glass?
+[13:59:17] [Server thread/INFO]: <NatsuhiLight> last right 4 are slow
+[14:10:18] [User Authenticator #4/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
+[14:10:19] [Server thread/INFO]: piesOf314[/160.39.5.167:52439] logged in with entity id 152940 at (-506.97180443590366, 64.75, 289.72944270490854)
+[14:10:19] [Server thread/INFO]: piesOf314 joined the game
+[14:19:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[14:19:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3139ms or 62 ticks behind
+[14:23:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[14:24:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3389ms or 67 ticks behind
+[14:24:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3881ms or 77 ticks behind
+[14:24:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3750ms or 75 ticks behind
+[14:25:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3019ms or 60 ticks behind
+[14:25:58] [Server thread/INFO]: <TevesWang> 柵欄們確實可以 空間小兩格
+[14:26:05] [Server thread/INFO]: <NatsuhiLight> 77777777
+[14:26:15] [Server thread/INFO]: <TevesWang> 但是我懶得改了XD
+[14:26:30] [Server thread/INFO]: <TevesWang> 反正能用就好
+[14:26:57] [Server thread/INFO]: <TevesWang> ...
+[14:28:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[14:28:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2771ms or 55 ticks behind
+[14:28:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2779ms or 55 ticks behind
+[14:29:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5607ms or 112 ticks behind
+[14:29:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5782ms or 115 ticks behind
+[14:29:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4378ms or 87 ticks behind
+[14:29:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2441ms or 48 ticks behind
+[14:32:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[14:33:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5151ms or 103 ticks behind
+[14:33:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6069ms or 121 ticks behind
+[14:33:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7549ms or 150 ticks behind
+[14:34:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7913ms or 158 ticks behind
+[14:34:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10195ms or 203 ticks behind
+[14:35:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8909ms or 178 ticks behind
+[14:35:11] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 10.50996185667114,0.0,0.0
+[14:35:11] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 12.661854402600255,0.0,0.0
+[14:37:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[14:37:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5024ms or 100 ticks behind
+[14:37:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4024ms or 80 ticks behind
+[14:38:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5978ms or 119 ticks behind
+[14:38:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4955ms or 99 ticks behind
+[14:38:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5900ms or 118 ticks behind
+[14:39:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4114ms or 82 ticks behind
+[14:39:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4625ms or 92 ticks behind
+[14:39:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3176ms or 63 ticks behind
+[14:40:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3301ms or 66 ticks behind
+[14:40:40] [Server thread/WARN]: NatsuhiLight moved wrongly!
+[14:42:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[14:43:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4099ms or 81 ticks behind
+[14:43:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5048ms or 100 ticks behind
+[14:43:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5150ms or 103 ticks behind
+[14:44:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5702ms or 114 ticks behind
+[14:44:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6679ms or 133 ticks behind
+[14:44:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3739ms or 74 ticks behind
+[14:45:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3408ms or 68 ticks behind
+[14:47:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[14:48:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2573ms or 51 ticks behind
+[14:48:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3840ms or 76 ticks behind
+[14:48:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[14:49:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3429ms or 68 ticks behind
+[14:49:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3497ms or 69 ticks behind
+[14:49:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3638ms or 72 ticks behind
+[14:52:11] [Server thread/INFO]: piesOf314 lost connection: Disconnected
+[14:52:11] [Server thread/INFO]: piesOf314 left the game
+[14:52:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2299ms or 45 ticks behind
+[14:52:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4887ms or 97 ticks behind
+[14:53:10] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[14:53:10] [Server thread/INFO]: TevesWang left the game
+[14:53:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2824ms or 56 ticks behind
+[14:55:09] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[14:57:37] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[14:59:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[15:00:19] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:01:03] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[15:07:07] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
+[15:07:07] [Server thread/INFO]: NatsuhiLight left the game
+[15:33:02] [Server thread/INFO]: [Server] Server shutting down (closing by the system service)
+[15:33:02] [Server thread/INFO]: Saving the game (this may take a moment!)
+[15:33:02] [Server thread/INFO]: Saved the game
+[15:33:13] [Server thread/INFO]: Stopping the server
+[15:33:13] [Server thread/INFO]: Stopping server
+[15:33:13] [Server thread/INFO]: Saving players
+[15:33:13] [Server thread/INFO]: Saving worlds
+[15:33:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:33:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:33:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
