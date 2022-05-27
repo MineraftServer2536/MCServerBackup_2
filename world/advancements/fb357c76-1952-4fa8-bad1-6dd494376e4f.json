@@ -851,6 +851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2022-05-27 00:55:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2022-05-07 05:10:41 +0000"
@@ -881,6 +887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2022-05-27 00:55:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2022-05-07 06:14:17 +0000"
@@ -902,6 +914,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2022-05-15 14:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2022-05-27 00:32:17 +0000"
     },
     "done": true
   },
@@ -1223,6 +1241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2022-05-27 00:55:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2022-05-07 05:10:41 +0000"
@@ -1379,6 +1403,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2022-05-17 16:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2022-05-27 00:32:17 +0000"
     },
     "done": true
   },
@@ -1869,7 +1899,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2022-05-08 16:12:56 +0000",
+      "cooked_mutton": "2022-05-27 00:53:09 +0000",
       "cooked_beef": "2022-05-07 07:18:31 +0000",
+      "baked_potato": "2022-05-26 23:40:26 +0000",
       "apple": "2022-05-07 07:18:49 +0000",
       "potato": "2022-05-07 07:18:39 +0000",
       "bread": "2022-05-08 05:48:47 +0000",
@@ -2106,7 +2138,8 @@
       "minecraft:turtle": "2022-05-07 09:15:15 +0000",
       "minecraft:sheep": "2022-05-07 02:47:05 +0000",
       "minecraft:cow": "2022-05-11 03:44:29 +0000",
-      "minecraft:chicken": "2022-05-07 02:48:46 +0000"
+      "minecraft:chicken": "2022-05-07 02:48:46 +0000",
+      "minecraft:wolf": "2022-05-27 00:54:56 +0000"
     },
     "done": false
   },
@@ -2473,6 +2506,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2022-05-07 05:03:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2022-05-27 00:32:17 +0000"
     },
     "done": true
   },
