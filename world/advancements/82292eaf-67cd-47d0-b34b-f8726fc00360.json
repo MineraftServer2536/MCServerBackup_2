@@ -389,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2022-05-30 08:04:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2022-05-02 04:25:15 +0000"
@@ -506,6 +512,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2022-05-28 10:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2022-05-30 08:04:04 +0000"
     },
     "done": true
   },
@@ -1139,6 +1151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2022-05-30 08:04:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2022-05-01 05:54:07 +0000"
@@ -1359,6 +1377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2022-05-30 08:04:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/fall_from_world_height": {
     "criteria": {
       "fall_from_world_height": "2022-05-22 16:55:58 +0000"
@@ -1380,6 +1404,12 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2022-05-07 05:20:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2022-05-30 09:46:16 +0000"
     },
     "done": true
   },
@@ -1745,10 +1775,13 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2022-05-30 09:16:02 +0000",
+      "minecraft:llama": "2022-05-30 09:34:49 +0000",
       "minecraft:turtle": "2022-05-08 16:19:26 +0000",
       "minecraft:sheep": "2022-05-02 02:59:03 +0000",
       "minecraft:cow": "2022-05-02 04:03:18 +0000",
       "minecraft:chicken": "2022-05-03 04:22:27 +0000",
+      "minecraft:horse": "2022-05-30 08:46:20 +0000",
       "minecraft:axolotl": "2022-05-20 13:58:00 +0000"
     },
     "done": false
@@ -1984,6 +2017,12 @@
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2022-05-09 12:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2022-05-30 08:22:38 +0000"
     },
     "done": true
   },
@@ -2512,6 +2551,12 @@
   "minecraft:recipes/misc/quartz": {
     "criteria": {
       "has_nether_quartz_ore": "2022-05-07 12:11:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/arbalistic": {
+    "criteria": {
+      "arbalistic": "2022-05-30 09:42:34 +0000"
     },
     "done": true
   },
@@ -3673,6 +3718,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2022-05-30 08:04:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2022-05-29 04:35:45 +0000"
@@ -3748,6 +3799,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2022-05-02 04:00:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2022-05-30 08:04:04 +0000"
     },
     "done": true
   },
@@ -4240,6 +4297,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2022-05-30 09:46:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2022-05-01 13:24:40 +0000"
@@ -4423,17 +4486,22 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2022-05-08 11:34:40 +0000",
+      "chicken": "2022-05-30 08:59:20 +0000",
       "cooked_mutton": "2022-05-07 14:07:03 +0000",
       "cooked_beef": "2022-05-06 08:27:32 +0000",
       "baked_potato": "2022-05-06 05:52:00 +0000",
+      "beef": "2022-05-30 09:44:38 +0000",
+      "porkchop": "2022-05-30 09:43:47 +0000",
       "cooked_cod": "2022-05-08 14:45:58 +0000",
       "rabbit": "2022-05-26 14:46:51 +0000",
       "pumpkin_pie": "2022-05-05 11:42:44 +0000",
+      "mutton": "2022-05-30 09:43:41 +0000",
       "bread": "2022-05-01 05:55:31 +0000",
       "rotten_flesh": "2022-05-27 04:03:54 +0000",
       "salmon": "2022-05-27 06:02:09 +0000",
       "melon_slice": "2022-04-29 14:13:56 +0000",
       "golden_carrot": "2022-05-05 14:14:32 +0000",
+      "cooked_rabbit": "2022-05-30 09:46:36 +0000",
       "cooked_chicken": "2022-04-29 14:15:45 +0000",
       "cooked_salmon": "2022-05-18 12:09:36 +0000",
       "carrot": "2022-05-01 11:03:30 +0000"
@@ -5325,6 +5393,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-05-07 14:41:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2022-05-30 08:04:04 +0000"
     },
     "done": true
   },
