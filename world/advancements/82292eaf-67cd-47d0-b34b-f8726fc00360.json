@@ -1437,6 +1437,12 @@
     },
     "done": true
   },
+  "minecraft:nether/ride_strider": {
+    "criteria": {
+      "used_warped_fungus_on_a_stick": "2022-05-31 08:28:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sniper_duel": {
     "criteria": {
       "killed_skeleton": "2022-05-22 13:48:04 +0000"
@@ -5495,6 +5501,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2022-05-07 06:56:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2022-05-31 13:20:00 +0000"
     },
     "done": true
   },
