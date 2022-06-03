@@ -791,6 +791,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2022-06-03 07:41:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2022-05-01 20:51:07 +0000"
@@ -1644,6 +1650,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2022-04-27 16:45:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2022-06-03 06:52:54 +0000"
     },
     "done": true
   },
@@ -2992,6 +3004,7 @@
       "minecraft:spider": "2022-04-27 11:58:27 +0000",
       "minecraft:piglin_brute": "2022-05-01 11:49:01 +0000",
       "minecraft:creeper": "2022-04-29 15:43:16 +0000",
+      "minecraft:wither": "2022-06-03 07:26:59 +0000",
       "minecraft:slime": "2022-05-05 14:47:12 +0000",
       "minecraft:evoker": "2022-05-10 14:25:48 +0000",
       "minecraft:phantom": "2022-05-06 15:25:46 +0000",
@@ -4023,6 +4036,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2022-06-03 07:59:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2022-05-12 11:16:31 +0000"
@@ -4050,6 +4069,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2022-05-01 13:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2022-06-03 07:18:16 +0000"
     },
     "done": true
   },
@@ -4290,6 +4315,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2022-04-27 11:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2022-06-03 07:27:02 +0000"
     },
     "done": true
   },
@@ -4776,6 +4807,12 @@
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
       "has_shulker_shell": "2022-05-15 16:29:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2022-06-03 06:52:54 +0000"
     },
     "done": true
   },
