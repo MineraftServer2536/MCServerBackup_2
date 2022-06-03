@@ -1347,6 +1347,12 @@
     },
     "done": true
   },
+  "minecraft:nether/ride_strider": {
+    "criteria": {
+      "used_warped_fungus_on_a_stick": "2022-06-03 14:57:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sniper_duel": {
     "criteria": {
       "killed_skeleton": "2022-05-22 13:45:11 +0000"
