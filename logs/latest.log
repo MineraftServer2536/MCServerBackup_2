@@ -1,64 +1,519 @@
-[05:02:09] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05:02:12] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[05:02:12] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[05:02:12] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[05:02:12] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[05:02:12] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[05:02:13] [Worker-Main-2/INFO]: Loaded 7 recipes
-[05:02:14] [Worker-Main-2/INFO]: Loaded 1141 advancements
-[05:02:16] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[05:02:16] [Server thread/INFO]: Loading properties
-[05:02:16] [Server thread/INFO]: Default game type: SURVIVAL
-[05:02:16] [Server thread/INFO]: Generating keypair
-[05:02:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:02:16] [Server thread/INFO]: Using epoll channel type
-[05:02:16] [Server thread/INFO]: Preparing level "world"
-[05:02:20] [User Authenticator #1/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[05:02:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:02:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:02:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:02:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:02:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:02:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:02:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:02:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:02:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:02:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:02:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:02:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:02:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[05:02:30] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[05:02:30] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[05:02:31] [Worker-Main-2/INFO]: Preparing spawn area: 12%
-[05:02:31] [Worker-Main-2/INFO]: Preparing spawn area: 20%
-[05:02:32] [Worker-Main-2/INFO]: Preparing spawn area: 26%
-[05:02:32] [Worker-Main-2/INFO]: Preparing spawn area: 35%
-[05:02:33] [Worker-Main-2/INFO]: Preparing spawn area: 49%
-[05:02:33] [Worker-Main-2/INFO]: Preparing spawn area: 79%
-[05:02:35] [Server thread/INFO]: Time elapsed: 10785 ms
-[05:02:35] [Server thread/INFO]: Done (18.296s)! For help, type "help"
-[05:02:35] [Server thread/INFO]: TevesWang[/67.171.54.90:51288] logged in with entity id 43 at (-441.118095007645, 68.0, 292.6356600399214)
-[05:02:35] [Server thread/INFO]: TevesWang joined the game
-[05:02:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[05:06:22] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[05:06:22] [Server thread/INFO]: TevesWang left the game
-[05:06:45] [User Authenticator #2/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[05:06:45] [Server thread/INFO]: TevesWang[/67.171.54.90:51421] logged in with entity id 1317 at (-433.31489565936675, 62.0, 292.49953266894494)
-[05:06:45] [Server thread/INFO]: TevesWang joined the game
-[05:08:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2592ms or 51 ticks behind
-[06:53:26] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[06:53:26] [Server thread/INFO]: TevesWang left the game
-[08:03:02] [Server thread/INFO]: [Server] Server shutting down (closing by the system service)
-[08:03:02] [Server thread/INFO]: Saving the game (this may take a moment!)
-[08:03:02] [Server thread/INFO]: Saved the game
-[08:03:12] [Server thread/INFO]: Stopping the server
-[08:03:12] [Server thread/INFO]: Stopping server
-[08:03:12] [Server thread/INFO]: Saving players
-[08:03:12] [Server thread/INFO]: Saving worlds
-[08:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[08:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[08:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[08:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10:14:46] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:14:49] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:14:49] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:14:49] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:14:49] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:14:49] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:14:50] [Worker-Main-2/INFO]: Loaded 7 recipes
+[10:14:51] [Worker-Main-2/INFO]: Loaded 1141 advancements
+[10:14:53] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[10:14:53] [Server thread/INFO]: Loading properties
+[10:14:53] [Server thread/INFO]: Default game type: SURVIVAL
+[10:14:53] [Server thread/INFO]: Generating keypair
+[10:14:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:14:53] [Server thread/INFO]: Using epoll channel type
+[10:14:53] [Server thread/INFO]: Preparing level "world"
+[10:15:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:15:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:15:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:15:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:15:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:15:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:15:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:15:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:15:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:15:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:15:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:15:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:15:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:15:06] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[10:15:07] [Worker-Main-2/INFO]: Preparing spawn area: 3%
+[10:15:07] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[10:15:08] [Worker-Main-2/INFO]: Preparing spawn area: 14%
+[10:15:08] [Worker-Main-2/INFO]: Preparing spawn area: 20%
+[10:15:09] [Worker-Main-2/INFO]: Preparing spawn area: 26%
+[10:15:09] [Worker-Main-2/INFO]: Preparing spawn area: 29%
+[10:15:10] [Worker-Main-2/INFO]: Preparing spawn area: 44%
+[10:15:10] [Worker-Main-2/INFO]: Preparing spawn area: 62%
+[10:15:11] [Worker-Main-2/INFO]: Preparing spawn area: 89%
+[10:15:12] [Server thread/INFO]: Time elapsed: 11523 ms
+[10:15:12] [Server thread/INFO]: Done (18.589s)! For help, type "help"
+[10:17:33] [User Authenticator #1/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[10:17:34] [Server thread/INFO]: TevesWang[/67.171.54.90:62035] logged in with entity id 51 at (-58.82247139206073, 13.372547955966091, 41.54896942836561)
+[10:17:34] [Server thread/INFO]: TevesWang joined the game
+[10:17:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2251ms or 45 ticks behind
+[10:22:55] [User Authenticator #2/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
+[10:22:56] [Server thread/INFO]: NatsuhiLight[/118.169.66.123:33004] logged in with entity id 856 at (-430.98413627988225, 64.0, 241.67197179237144)
+[10:22:56] [Server thread/INFO]: NatsuhiLight joined the game
+[10:32:04] [Server thread/INFO]: NatsuhiLight has made the advancement [Oh Shiny]
+[10:38:27] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[10:38:27] [Server thread/INFO]: TevesWang left the game
+[11:52:44] [User Authenticator #3/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[11:52:44] [Server thread/INFO]: TevesWang[/67.171.54.90:64452] logged in with entity id 10406 at (-444.54876982150296, 68.0, 298.9415060180451)
+[11:52:44] [Server thread/INFO]: TevesWang joined the game
+[12:05:40] [Server thread/WARN]: TevesWang moved wrongly!
+[12:05:46] [Server thread/WARN]: TevesWang moved wrongly!
+[12:07:03] [Server thread/WARN]: TevesWang moved wrongly!
+[12:10:50] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[12:10:50] [Server thread/INFO]: TevesWang left the game
+[12:11:51] [User Authenticator #4/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[12:11:51] [Server thread/INFO]: TevesWang[/67.171.54.90:64948] logged in with entity id 16486 at (-61.68999998807907, 16.0, 54.591676015893114)
+[12:11:51] [Server thread/INFO]: TevesWang joined the game
+[12:12:29] [Server thread/WARN]: TevesWang moved wrongly!
+[12:12:40] [Server thread/WARN]: TevesWang moved wrongly!
+[12:13:12] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[12:13:27] [Server thread/WARN]: TevesWang moved wrongly!
+[12:14:00] [Server thread/WARN]: TevesWang moved wrongly!
+[12:15:32] [Server thread/WARN]: TevesWang moved wrongly!
+[12:15:37] [Server thread/WARN]: TevesWang moved wrongly!
+[12:16:22] [Server thread/WARN]: TevesWang moved wrongly!
+[12:16:42] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[12:17:26] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[12:17:53] [Server thread/WARN]: TevesWang moved wrongly!
+[12:19:04] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[12:19:46] [Server thread/WARN]: TevesWang moved wrongly!
+[12:21:40] [Server thread/INFO]: <TevesWang> 詐玄武岩比較快
+[12:22:01] [Server thread/INFO]: <TevesWang> 然後只要按滑鼠所以可以邊吃東西編按XD
+[12:22:20] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-137, y=59, z=-51} gj{x=20, y=11, z=60}
+[12:26:49] [Server thread/WARN]: NatsuhiLight moved wrongly!
+[12:27:02] [Server thread/WARN]: NatsuhiLight moved wrongly!
+[12:27:14] [Server thread/WARN]: NatsuhiLight moved wrongly!
+[12:32:21] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=47, y=10, z=56} gj{x=50, y=10, z=59}
+[12:37:39] [Server thread/WARN]: TevesWang moved wrongly!
+[12:38:01] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[12:38:59] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[12:49:36] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[12:50:29] [Server thread/WARN]: TevesWang moved wrongly!
+[12:50:35] [Server thread/WARN]: TevesWang moved wrongly!
+[12:50:41] [Server thread/WARN]: TevesWang moved wrongly!
+[12:50:46] [Server thread/WARN]: TevesWang moved wrongly!
+[12:50:50] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[12:50:51] [Server thread/WARN]: TevesWang moved wrongly!
+[12:50:57] [Server thread/WARN]: TevesWang moved wrongly!
+[12:51:02] [Server thread/WARN]: TevesWang moved wrongly!
+[12:51:08] [Server thread/WARN]: TevesWang moved wrongly!
+[12:51:13] [Server thread/WARN]: TevesWang moved wrongly!
+[12:51:23] [Server thread/WARN]: TevesWang moved wrongly!
+[12:51:29] [Server thread/WARN]: TevesWang moved wrongly!
+[12:51:35] [Server thread/WARN]: TevesWang moved wrongly!
+[12:51:41] [Server thread/WARN]: TevesWang moved wrongly!
+[12:51:48] [Server thread/WARN]: TevesWang moved wrongly!
+[12:51:53] [Server thread/WARN]: TevesWang moved wrongly!
+[12:51:59] [Server thread/WARN]: TevesWang moved wrongly!
+[13:07:25] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[13:08:24] [Server thread/WARN]: TevesWang moved wrongly!
+[13:10:43] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[13:14:03] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[13:17:16] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[13:31:19] [Server thread/WARN]: TevesWang moved wrongly!
+[13:36:11] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[13:36:26] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[13:52:24] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[13:53:07] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[13:54:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=102, y=17, z=57} gj{x=102, y=16, z=57}
+[13:54:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=102, y=15, z=57} gj{x=102, y=16, z=57}
+[14:03:17] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=81, y=12, z=51} gj{x=80, y=9, z=52}
+[14:03:17] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=81, y=12, z=51} gj{x=80, y=9, z=52}
+[14:03:17] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=81, y=12, z=51} gj{x=80, y=9, z=52}
+[14:04:42] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=105, y=9, z=65} gj{x=93, y=10, z=62}
+[14:07:15] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[14:08:03] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[14:20:35] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=137, y=15, z=55} gj{x=138, y=15, z=55}
+[14:21:08] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=139, y=14, z=54} gj{x=137, y=12, z=54}
+[14:24:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=124, y=14, z=63} gj{x=126, y=15, z=63}
+[14:24:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=124, y=14, z=63} gj{x=126, y=15, z=63}
+[14:24:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=124, y=14, z=63} gj{x=126, y=15, z=63}
+[14:24:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=124, y=14, z=63} gj{x=126, y=15, z=63}
+[14:24:22] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=134, y=14, z=52} gj{x=135, y=14, z=52}
+[14:24:22] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=134, y=14, z=52} gj{x=135, y=14, z=52}
+[14:24:22] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=134, y=14, z=52} gj{x=135, y=14, z=52}
+[14:28:38] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[14:29:03] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[14:46:48] [User Authenticator #5/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
+[14:46:49] [Server thread/INFO]: piesOf314[/160.39.5.167:52358] logged in with entity id 52370 at (-519.2394092710248, 64.0, 264.9173921393496)
+[14:46:49] [Server thread/INFO]: piesOf314 joined the game
+[14:57:32] [Server thread/INFO]: piesOf314 has made the advancement [Hidden in the Depths]
+[15:11:30] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=177, y=15, z=58} gj{x=177, y=14, z=58}
+[15:11:30] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=177, y=13, z=58} gj{x=177, y=12, z=58}
+[15:13:14] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:13:22] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:14:28] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:14:37] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:14:52] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:15:11] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:15:24] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:17:37] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:17:51] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:18:56] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:19:12] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:19:20] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:19:28] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:19:32] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:19:34] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:19:38] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:19:41] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:19:54] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Adventure Mode]
+[15:19:57] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:20:01] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:20:04] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:20:09] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:20:10] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:20:14] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:20:16] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:20:20] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:20:21] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:20:27] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:20:28] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:20:32] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:20:33] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:20:36] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:20:38] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:20:56] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:21:02] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:21:12] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:21:14] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:21:26] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:21:39] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:21:46] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:21:47] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:21:49] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:21:50] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:21:54] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:21:55] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:21:57] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:22:00] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:22:01] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:22:04] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:22:20] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:22:21] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:22:24] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:22:26] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:22:35] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:22:36] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:22:38] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:22:39] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:22:51] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:23:03] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:23:08] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:23:22] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:23:27] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:23:36] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:23:43] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:23:44] [Server thread/INFO]: piesOf314 has made the advancement [Into Fire]
+[15:23:46] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:23:52] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:23:57] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:24:01] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:24:15] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:24:56] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:25:07] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:25:20] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:25:27] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:25:29] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:25:45] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:25:59] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:26:06] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:26:08] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:26:10] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:26:13] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:26:15] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:26:31] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:26:33] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:26:35] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:26:36] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:26:38] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:26:39] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:26:42] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:26:42] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:26:44] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:26:45] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:26:51] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:26:56] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:27:01] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:27:05] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:28:13] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:28:16] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:28:19] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:28:33] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:28:36] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:28:45] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:28:47] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:28:49] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:28:50] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:28:51] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:28:54] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:28:54] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:28:57] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:29:00] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:29:17] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:29:23] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:29:28] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:29:29] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:29:34] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:29:41] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:29:44] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:29:46] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:29:47] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:29:49] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:29:55] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:29:59] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:30:06] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:30:10] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:30:13] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:30:18] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:30:24] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:30:26] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:30:30] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:30:32] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:30:40] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:30:42] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:30:44] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:30:45] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:30:49] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:30:50] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:31:30] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:31:38] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:31:42] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:31:50] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:31:53] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:32:07] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:32:12] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:32:49] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:33:31] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[15:53:32] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=245, y=9, z=58} gj{x=248, y=8, z=59}
+[15:53:50] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:53:59] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:54:02] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:54:05] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:54:08] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:54:16] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:54:19] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:54:21] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:54:21] [Server thread/WARN]: TevesWang moved wrongly!
+[15:54:23] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:54:33] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:54:44] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:55:01] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:55:04] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:55:08] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:55:09] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:55:15] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:55:23] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:55:27] [Server thread/WARN]: TevesWang moved wrongly!
+[15:55:27] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:55:28] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:55:30] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:55:31] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:55:33] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:55:34] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:55:35] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:55:36] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:55:37] [Server thread/WARN]: TevesWang moved wrongly!
+[15:55:38] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:55:39] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:56:00] [Server thread/WARN]: TevesWang moved wrongly!
+[15:56:15] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:56:18] [Server thread/WARN]: TevesWang moved wrongly!
+[15:56:19] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:56:26] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:56:28] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:56:29] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:56:35] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:56:36] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:56:45] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:56:49] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:56:52] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:56:55] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:56:56] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:56:58] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:56:59] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:57:15] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:57:19] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:57:21] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:57:21] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:57:23] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:57:24] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:57:25] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:57:26] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:57:29] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:57:29] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:57:32] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:57:33] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:57:34] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:57:35] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:57:36] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:57:37] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:57:39] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:57:40] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:57:44] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:57:45] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:57:59] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:58:00] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:58:03] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:58:04] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:58:07] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:58:08] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:58:10] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:58:11] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:58:12] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:58:13] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:58:18] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:58:27] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:58:30] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:58:46] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:58:56] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:59:02] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:59:04] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:59:09] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:59:14] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:59:20] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:59:22] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:59:23] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:59:28] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:59:29] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:59:31] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:59:35] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:59:51] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[15:59:56] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:00:00] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:00:05] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:00:10] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:00:17] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:00:21] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:00:24] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:00:26] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:00:29] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:00:32] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:00:33] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:00:34] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:00:37] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:00:38] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:00:39] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:00:44] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:00:51] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:00:54] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:00:58] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:01:01] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:01:07] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:01:09] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:01:10] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:01:12] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:01:13] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:01:20] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:01:20] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:01:26] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:01:27] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:01:30] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:01:31] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:01:34] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:01:34] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:01:37] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:01:37] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:01:45] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:01:47] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:01:49] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:01:50] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:01:51] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:01:52] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:02:20] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:02:20] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:03:04] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:03:05] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:03:07] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:03:08] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:03:36] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:03:37] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:03:46] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[16:03:58] [Server thread/INFO]: TevesWang has made the advancement [Oh Shiny]
+[16:05:34] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:05:39] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:05:42] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:05:43] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:05:44] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:06:05] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:06:08] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:06:10] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:06:11] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:06:12] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:06:13] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:06:15] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:06:22] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:06:28] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:06:34] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:06:48] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:06:51] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:07:18] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:07:31] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:07:34] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:07:38] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:07:42] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:07:47] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:07:55] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:08:00] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:08:03] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:08:08] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:08:09] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:08:11] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:08:14] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:08:15] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:08:16] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:08:17] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:08:19] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:08:20] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:08:21] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:08:22] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:08:23] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:08:24] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:08:42] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:08:44] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:08:46] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:08:47] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:08:49] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:08:50] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:08:52] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:08:53] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:08:54] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:08:55] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:10:20] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[16:10:25] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:11:56] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:11:58] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:12:01] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:12:03] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:12:04] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:12:05] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:12:06] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:12:07] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:12:08] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:12:09] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:12:10] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:12:11] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:12:12] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:12:13] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:12:14] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:12:15] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:12:16] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:12:17] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:12:51] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:12:52] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[16:15:58] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[16:32:58] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[16:32:58] [Server thread/INFO]: TevesWang left the game
+[16:34:26] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
+[16:34:26] [Server thread/INFO]: NatsuhiLight left the game
+[16:40:59] [Server thread/INFO]: piesOf314 lost connection: Disconnected
+[16:40:59] [Server thread/INFO]: piesOf314 left the game
+[17:03:02] [Server thread/INFO]: [Server] Server shutting down (closing by the system service)
+[17:03:02] [Server thread/INFO]: Saving the game (this may take a moment!)
+[17:03:02] [Server thread/INFO]: Saved the game
+[17:03:12] [Server thread/INFO]: Stopping the server
+[17:03:12] [Server thread/INFO]: Stopping server
+[17:03:12] [Server thread/INFO]: Saving players
+[17:03:12] [Server thread/INFO]: Saving worlds
+[17:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
