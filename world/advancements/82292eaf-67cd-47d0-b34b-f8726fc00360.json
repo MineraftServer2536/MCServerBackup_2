@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2022-06-09 10:13:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2022-05-28 10:21:19 +0000"
@@ -122,6 +128,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-05-16 04:04:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-06-09 08:38:58 +0000"
     },
     "done": true
   },
@@ -488,6 +500,12 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2022-05-02 02:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-09 08:53:42 +0000"
     },
     "done": true
   },
@@ -1787,6 +1805,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:fox": "2022-06-09 09:49:43 +0000",
       "minecraft:pig": "2022-05-30 09:16:02 +0000",
       "minecraft:llama": "2022-05-30 09:34:49 +0000",
       "minecraft:turtle": "2022-05-08 16:19:26 +0000",
@@ -2383,6 +2402,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2022-05-25 15:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-09 08:53:42 +0000"
     },
     "done": true
   },
@@ -3004,6 +3029,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-09 08:53:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2022-05-03 06:23:44 +0000"
@@ -3109,6 +3140,12 @@
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_purple_dye": "2022-05-14 10:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-09 08:53:42 +0000"
     },
     "done": true
   },
@@ -3706,6 +3743,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-09 08:53:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2022-05-01 14:13:05 +0000"
@@ -4114,6 +4157,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2022-05-02 04:25:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/allay_deliver_cake_to_note_block": {
+    "criteria": {
+      "allay_deliver_cake_to_note_block": "2022-06-09 10:46:42 +0000"
     },
     "done": true
   },
@@ -4742,6 +4791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-09 08:53:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-05-10 08:18:20 +0000"
@@ -4943,6 +4998,12 @@
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2022-05-07 17:20:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-09 08:53:42 +0000"
     },
     "done": true
   },

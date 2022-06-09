@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-06-09 09:50:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2022-05-06 15:43:00 +0000"
@@ -494,6 +500,12 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2022-05-01 18:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-09 09:25:22 +0000"
     },
     "done": true
   },
@@ -2294,6 +2306,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-09 09:25:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2022-04-29 14:21:39 +0000"
@@ -2840,6 +2858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-09 09:25:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2022-05-01 17:53:28 +0000"
@@ -2915,6 +2939,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2022-04-27 14:32:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-09 09:25:22 +0000"
     },
     "done": true
   },
@@ -3468,6 +3498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-09 09:25:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2022-05-01 19:37:51 +0000"
@@ -3706,6 +3742,7 @@
       "minecraft:flower_forest": "2022-05-05 06:16:33 +0000",
       "minecraft:frozen_peaks": "2022-05-25 14:36:46 +0000",
       "minecraft:old_growth_birch_forest": "2022-05-01 16:39:18 +0000",
+      "minecraft:deep_dark": "2022-06-09 10:58:42 +0000",
       "minecraft:meadow": "2022-05-05 06:15:20 +0000",
       "minecraft:savanna": "2022-04-26 16:58:02 +0000",
       "minecraft:plains": "2022-04-27 16:58:24 +0000"
@@ -4414,6 +4451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-09 09:25:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-05-09 10:21:11 +0000"
@@ -4597,6 +4640,12 @@
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2022-05-10 13:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-09 09:25:22 +0000"
     },
     "done": true
   },
@@ -5256,13 +5305,13 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/white.png": "2022-04-29 16:07:01 +0000",
-      "textures/entity/cat/black.png": "2022-05-22 04:08:40 +0000",
-      "textures/entity/cat/jellie.png": "2022-05-22 03:39:24 +0000",
-      "textures/entity/cat/ragdoll.png": "2022-04-29 16:06:54 +0000",
-      "textures/entity/cat/british_shorthair.png": "2022-05-22 04:13:55 +0000",
-      "textures/entity/cat/all_black.png": "2022-05-22 04:00:02 +0000",
-      "textures/entity/cat/persian.png": "2022-05-22 04:23:31 +0000"
+      "minecraft:white": "2022-04-29 16:07:01 +0000",
+      "minecraft:persian": "2022-05-22 04:23:31 +0000",
+      "minecraft:jellie": "2022-05-22 03:39:24 +0000",
+      "minecraft:black": "2022-05-22 04:08:40 +0000",
+      "minecraft:all_black": "2022-05-22 04:00:02 +0000",
+      "minecraft:ragdoll": "2022-04-29 16:06:54 +0000",
+      "minecraft:british_shorthair": "2022-05-22 04:13:55 +0000"
     },
     "done": false
   },
@@ -5326,5 +5375,5 @@
     },
     "done": true
   },
-  "DataVersion": 2975
+  "DataVersion": 3105
 }
