@@ -3047,6 +3047,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2022-06-09 14:22:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
     "criteria": {
       "has_nether_gold_ore": "2022-05-07 12:17:45 +0000"
@@ -3857,6 +3863,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2022-06-09 16:02:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2022-04-29 14:27:03 +0000"
@@ -3991,6 +4003,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2022-06-09 14:11:01 +0000",
       "minecraft:old_growth_pine_taiga": "2022-05-13 05:25:48 +0000",
       "minecraft:mushroom_fields": "2022-05-10 09:45:24 +0000",
       "minecraft:taiga": "2022-05-10 10:35:28 +0000",
@@ -4033,6 +4046,7 @@
       "minecraft:deep_lukewarm_ocean": "2022-05-07 07:00:29 +0000",
       "minecraft:flower_forest": "2022-05-08 11:31:15 +0000",
       "minecraft:old_growth_birch_forest": "2022-05-08 11:27:25 +0000",
+      "minecraft:deep_dark": "2022-06-09 14:16:01 +0000",
       "minecraft:meadow": "2022-05-08 11:28:40 +0000",
       "minecraft:windswept_gravelly_hills": "2022-05-13 05:58:25 +0000",
       "minecraft:savanna": "2022-04-29 14:03:31 +0000",
@@ -4600,6 +4614,7 @@
       "pumpkin_pie": "2022-05-05 11:42:44 +0000",
       "mutton": "2022-05-30 09:43:41 +0000",
       "bread": "2022-05-01 05:55:31 +0000",
+      "golden_apple": "2022-06-09 16:01:45 +0000",
       "rotten_flesh": "2022-05-27 04:03:54 +0000",
       "salmon": "2022-05-27 06:02:09 +0000",
       "melon_slice": "2022-04-29 14:13:56 +0000",

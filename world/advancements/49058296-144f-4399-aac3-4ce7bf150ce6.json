@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-06-09 15:02:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2022-04-27 15:51:17 +0000"
@@ -413,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-09 15:00:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2022-05-04 14:06:50 +0000"
@@ -428,6 +440,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-05-01 07:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2022-06-09 15:36:04 +0000"
     },
     "done": true
   },
@@ -536,6 +554,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2022-05-10 14:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-09 15:00:23 +0000"
     },
     "done": true
   },
@@ -713,6 +737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-09 15:00:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-05-02 04:39:45 +0000"
@@ -794,6 +824,12 @@
       "minecraft:zombie_villager": "2022-05-08 14:15:07 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2022-06-09 15:50:20 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
@@ -1287,6 +1323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-09 15:00:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2022-05-02 08:54:14 +0000"
@@ -1473,6 +1515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2022-06-09 15:29:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-05-01 07:34:06 +0000"
@@ -1568,6 +1616,7 @@
       "minecraft:warm_ocean": "2022-05-01 15:15:30 +0000",
       "minecraft:deep_lukewarm_ocean": "2022-05-08 13:53:19 +0000",
       "minecraft:old_growth_birch_forest": "2022-05-05 14:09:49 +0000",
+      "minecraft:deep_dark": "2022-06-09 15:35:25 +0000",
       "minecraft:meadow": "2022-05-08 14:52:20 +0000",
       "minecraft:savanna": "2022-04-27 15:43:44 +0000",
       "minecraft:plains": "2022-05-01 07:01:20 +0000"
@@ -1812,10 +1861,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2022-05-03 13:42:29 +0000",
       "minecraft:nether_wastes": "2022-05-02 15:58:30 +0000",
+      "minecraft:soul_sand_valley": "2022-06-09 16:05:46 +0000",
       "minecraft:basalt_deltas": "2022-05-01 05:40:31 +0000",
       "minecraft:warped_forest": "2022-05-03 13:41:36 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
@@ -2296,6 +2346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2022-06-09 15:29:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2022-05-05 14:34:31 +0000"
@@ -2500,6 +2556,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2022-05-01 14:12:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-09 15:00:23 +0000"
     },
     "done": true
   },
@@ -2839,6 +2901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-09 15:00:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2022-05-01 07:51:18 +0000"
@@ -2896,6 +2964,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2022-05-05 14:31:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2022-06-09 15:53:35 +0000"
     },
     "done": true
   },
@@ -3331,6 +3405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-06-09 15:00:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2022-05-04 15:05:16 +0000"
@@ -3508,6 +3588,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2022-05-02 16:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2022-06-09 16:10:15 +0000"
     },
     "done": true
   },
@@ -3757,5 +3843,5 @@
     },
     "done": true
   },
-  "DataVersion": 2975
+  "DataVersion": 3105
 }
