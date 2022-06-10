@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2022-06-10 14:14:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_green_dye": "2022-05-03 06:02:04 +0000"
@@ -1809,9 +1815,11 @@
       "minecraft:pig": "2022-05-30 09:16:02 +0000",
       "minecraft:llama": "2022-05-30 09:34:49 +0000",
       "minecraft:turtle": "2022-05-08 16:19:26 +0000",
+      "minecraft:frog": "2022-06-10 14:18:24 +0000",
       "minecraft:sheep": "2022-05-02 02:59:03 +0000",
       "minecraft:cow": "2022-05-02 04:03:18 +0000",
       "minecraft:chicken": "2022-05-03 04:22:27 +0000",
+      "minecraft:wolf": "2022-06-10 16:27:06 +0000",
       "minecraft:horse": "2022-05-30 08:46:20 +0000",
       "minecraft:axolotl": "2022-05-20 13:58:00 +0000"
     },
@@ -2591,6 +2599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2022-06-10 14:13:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/quartz": {
     "criteria": {
       "has_nether_quartz_ore": "2022-05-07 12:11:27 +0000"
@@ -2855,6 +2869,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tadpole_in_a_bucket": {
+    "criteria": {
+      "tadpole_bucket": "2022-06-10 14:38:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2022-05-10 10:05:50 +0000"
@@ -3038,6 +3058,12 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2022-05-03 06:23:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2022-06-10 14:14:16 +0000"
     },
     "done": true
   },
@@ -3881,6 +3907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2022-06-10 14:15:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2022-05-02 04:00:38 +0000"
@@ -4019,6 +4051,7 @@
       "minecraft:beach": "2022-04-29 14:07:58 +0000",
       "minecraft:stony_peaks": "2022-05-08 11:37:22 +0000",
       "minecraft:dark_forest": "2022-05-08 14:43:10 +0000",
+      "minecraft:mangrove_swamp": "2022-06-10 14:14:43 +0000",
       "minecraft:sparse_jungle": "2022-05-01 15:07:34 +0000",
       "minecraft:river": "2022-04-29 14:07:54 +0000",
       "minecraft:lukewarm_ocean": "2022-05-01 14:32:33 +0000",
