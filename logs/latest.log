@@ -1,222 +1,52 @@
-[05:49:43] [ServerMain/INFO]: Building unoptimized datafixer
-[05:49:45] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05:49:47] [ServerMain/INFO]: Loaded 7 recipes
-[05:49:47] [ServerMain/INFO]: Loaded 1179 advancements
-[05:49:49] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
-[05:49:49] [Server thread/INFO]: Starting minecraft server version 1.19
-[05:49:49] [Server thread/INFO]: Loading properties
-[05:49:49] [Server thread/INFO]: Default game type: SURVIVAL
-[05:49:49] [Server thread/INFO]: Generating keypair
-[05:49:49] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:49:49] [Server thread/INFO]: Using epoll channel type
-[05:49:49] [Server thread/INFO]: Preparing level "world"
-[05:50:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:50:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:50:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:50:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:50:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:50:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:50:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:50:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:50:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:50:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:50:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:50:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:50:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:50:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:50:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[05:50:16] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[05:50:17] [Worker-Main-1/INFO]: Preparing spawn area: 77%
-[05:50:17] [Server thread/INFO]: Time elapsed: 7772 ms
-[05:50:17] [Server thread/INFO]: Done (27.628s)! For help, type "help"
-[05:50:56] [User Authenticator #1/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[05:50:56] [Server thread/INFO]: TevesWang[/71.227.249.29:58566] logged in with entity id 80 at (-784.102720086826, 37.250473215485144, 325.08163975165354)
-[05:50:56] [Server thread/INFO]: TevesWang joined the game
-[05:51:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10523ms or 210 ticks behind
-[07:07:17] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[07:07:17] [Server thread/INFO]: TevesWang left the game
-[07:07:42] [User Authenticator #2/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[07:07:42] [Server thread/INFO]: TevesWang[/71.227.249.29:61008] logged in with entity id 3828 at (-441.4812398214847, 68.0, 294.31779819798027)
-[07:07:42] [Server thread/INFO]: TevesWang joined the game
-[07:36:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6042ms or 120 ticks behind
-[08:51:03] [User Authenticator #3/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
-[08:51:03] [Server thread/INFO]: NatsuhiLight[/114.42.150.152:55738] logged in with entity id 29417 at (-52.38005807253087, 56.17774481894869, 14.19612016546678)
-[08:51:03] [Server thread/INFO]: NatsuhiLight joined the game
-[08:51:12] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
-[09:02:14] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
-[09:02:25] [Server thread/INFO]: [NatsuhiLight: Teleported NatsuhiLight to TevesWang]
-[09:02:38] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
-[09:06:18] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
-[09:06:29] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
-[09:08:59] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
-[09:10:40] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
-[09:13:31] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
-[09:13:31] [Server thread/INFO]: NatsuhiLight left the game
-[09:15:16] [User Authenticator #4/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
-[09:15:16] [Server thread/INFO]: NatsuhiLight[/114.42.150.152:56105] logged in with entity id 36654 at (-52.38005807253087, 56.17774481894869, 14.19612016546678)
-[09:15:16] [Server thread/INFO]: NatsuhiLight joined the game
-[09:15:21] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
-[09:15:43] [Server thread/INFO]: <TevesWang> ?
-[09:15:48] [Server thread/INFO]: <NatsuhiLight> ?
-[09:16:11] [Server thread/INFO]: <TevesWang> 怎麼進進出出
-[09:17:27] [Server thread/INFO]: <NatsuhiLight> 我在看地獄門坐北朝南有沒有影響
-[09:17:47] [Server thread/INFO]: <NatsuhiLight> 昨晚蓋失敗
-[09:17:56] [Server thread/INFO]: <TevesWang> 你從哪邊進去就會面向哪邊
-[09:18:01] [Server thread/INFO]: <NatsuhiLight> 在想是不是1.19的問題
-[09:18:28] [Server thread/INFO]: NatsuhiLight has made the advancement [Bukkit Bukkit]
-[09:18:38] [Server thread/INFO]: <TevesWang> 為
-[09:18:50] [Server thread/INFO]: <TevesWang> 這養牠時間不知道會部會重算
-[09:19:04] [Server thread/INFO]: <TevesWang> 要等20分鐘耶
-[09:19:13] [Server thread/INFO]: <NatsuhiLight> 痾 應該會
-[09:19:21] [Server thread/INFO]: <TevesWang> 搞啥
-[09:19:30] [Server thread/INFO]: <NatsuhiLight> 不能加快喔
-[09:19:35] [Server thread/INFO]: <TevesWang> 可以啊
-[09:19:40] [Server thread/INFO]: <NatsuhiLight> 要怎家\
-[09:19:41] [Server thread/INFO]: <TevesWang> 為他史萊姆球
-[09:20:18] [Server thread/INFO]: <TevesWang> 只有一之www
-[09:21:31] [Server thread/INFO]: <NatsuhiLight> !!
-[09:21:35] [Server thread/INFO]: <TevesWang> 居然不會重算
-[09:21:41] [Server thread/INFO]: <TevesWang> 還好
-[09:22:52] [Server thread/INFO]: <TevesWang> 他跳會跑還是跳超高XD
-[09:23:04] [Server thread/INFO]: <NatsuhiLight> fuf/ j8 xu,
-[09:23:43] [Server thread/INFO]: <TevesWang> 看一下他能不能出柵欄
-[09:25:29] [Server thread/INFO]: <NatsuhiLight> 出來了
-[09:35:22] [Server thread/INFO]: NatsuhiLight has completed the challenge [It Spreads]
-[09:35:27] [Server thread/INFO]: TevesWang has completed the challenge [It Spreads]
-[09:35:36] [Server thread/INFO]: <NatsuhiLight> ??
-[09:41:59] [Server thread/INFO]: <TevesWang> 好煩
-[09:43:05] [Server thread/INFO]: <NatsuhiLight> 他蔓延了
-[09:45:59] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
-[09:46:22] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
-[09:46:47] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
-[09:48:58] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
-[09:49:22] [Server thread/INFO]: <NatsuhiLight> 神職人員要養什麼出來
-[09:49:34] [Server thread/INFO]: <TevesWang> 沒差
-[09:49:37] [Server thread/INFO]: <NatsuhiLight> 經驗平?
-[09:49:53] [Server thread/INFO]: <TevesWang> 不養也沒差
-[09:50:27] [Server thread/INFO]: <TevesWang> 這青蛙跳太高了吧
-[09:53:02] [Server thread/INFO]: <NatsuhiLight> 你要讓他蝌蚪被沖到下面?
-[09:53:17] [Server thread/INFO]: <TevesWang> 沒差
-[09:53:20] [Server thread/INFO]: <NatsuhiLight> 上面加個地板們
-[09:55:41] [Server thread/INFO]: <NatsuhiLight> 不用新紅樹林的地板們嗎
-[09:57:49] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
-[10:01:27] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
-[10:07:43] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
-[10:07:43] [Server thread/INFO]: NatsuhiLight left the game
-[10:45:19] [User Authenticator #5/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
-[10:45:19] [Server thread/INFO]: NatsuhiLight[/114.42.150.152:61819] logged in with entity id 60980 at (-502.0873227958406, 66.0, 318.69999998807907)
-[10:45:19] [Server thread/INFO]: NatsuhiLight joined the game
-[10:46:41] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
-[10:46:41] [Server thread/INFO]: NatsuhiLight left the game
-[11:22:42] [Server thread/INFO]: TevesWang has made the advancement [When the Squad Hops into Town]
-[11:32:52] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[11:32:52] [Server thread/INFO]: TevesWang left the game
-[11:32:57] [User Authenticator #6/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[11:32:58] [Server thread/INFO]: TevesWang[/71.227.249.29:54425] logged in with entity id 73346 at (-784.3000000119209, 33.0, 317.1143066457124)
-[11:32:58] [Server thread/INFO]: TevesWang joined the game
-[11:33:16] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[11:33:16] [Server thread/INFO]: TevesWang left the game
-[11:33:50] [User Authenticator #7/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[11:33:51] [Server thread/INFO]: TevesWang[/71.227.249.29:54466] logged in with entity id 73491 at (-785.952831280999, 33.0, 329.1039837161282)
-[11:33:51] [Server thread/INFO]: TevesWang joined the game
-[11:36:55] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[11:36:55] [Server thread/INFO]: TevesWang left the game
-[11:37:09] [User Authenticator #8/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[11:37:09] [Server thread/INFO]: TevesWang[/71.227.249.29:54562] logged in with entity id 73913 at (-784.3000000119209, 33.0, 317.1143066457124)
-[11:37:09] [Server thread/INFO]: TevesWang joined the game
-[11:38:40] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[11:38:40] [Server thread/INFO]: TevesWang left the game
-[11:38:59] [User Authenticator #9/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[11:38:59] [Server thread/INFO]: TevesWang[/71.227.249.29:54620] logged in with entity id 74261 at (-785.952831280999, 33.0, 329.1039837161282)
-[11:38:59] [Server thread/INFO]: TevesWang joined the game
-[11:40:17] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[11:40:17] [Server thread/INFO]: TevesWang left the game
-[11:40:28] [User Authenticator #10/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[11:40:28] [Server thread/INFO]: TevesWang[/71.227.249.29:54666] logged in with entity id 74545 at (-784.3000000119209, 33.0, 317.1143066457124)
-[11:40:28] [Server thread/INFO]: TevesWang joined the game
-[11:47:10] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[11:47:10] [Server thread/INFO]: TevesWang left the game
-[11:47:28] [User Authenticator #11/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[11:47:28] [Server thread/INFO]: TevesWang[/71.227.249.29:54841] logged in with entity id 75506 at (-785.952831280999, 33.0, 329.1039837161282)
-[11:47:28] [Server thread/INFO]: TevesWang joined the game
-[12:00:50] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[12:00:50] [Server thread/INFO]: TevesWang left the game
-[12:01:00] [User Authenticator #12/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[12:01:01] [Server thread/INFO]: TevesWang[/71.227.249.29:55172] logged in with entity id 77413 at (-784.3000000119209, 33.0, 317.1143066457124)
-[12:01:01] [Server thread/INFO]: TevesWang joined the game
-[12:02:59] [Server thread/INFO]: TevesWang has completed the challenge [With Our Powers Combined!]
-[12:49:08] [Server thread/INFO]: TevesWang was shot by Piglin
-[13:20:32] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[13:20:32] [Server thread/INFO]: TevesWang left the game
-[13:21:17] [User Authenticator #13/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[13:21:17] [Server thread/INFO]: TevesWang[/71.227.249.29:57161] logged in with entity id 88086 at (-784.3000000119209, 33.0, 317.1143066457124)
-[13:21:17] [Server thread/INFO]: TevesWang joined the game
-[13:42:41] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 10.447368933299344,0.0,-0.26489275055953243
-[13:42:41] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 12.26003497009799,0.0,-0.32269029161695073
-[13:42:41] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 14.092560748261008,0.0,-0.38385670012579
-[13:42:51] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 10.617245986343704,0.0,0.20455819616291393
-[13:42:51] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 11.830617606294851,0.0,0.20455819616291393
-[14:00:02] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! -10.85322513409352,0.0,0.0
-[14:00:02] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! -13.591745310555496,0.0,0.0
-[14:00:02] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! -16.340129777967377,0.0,0.0
-[14:00:02] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! -19.098270029349862,0.0,0.0
-[14:00:02] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! -13.741379788887343,0.0,0.0
-[14:00:02] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! -16.51871084844089,0.0,0.0
-[14:00:02] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! -19.3054792801002,0.0,0.0
-[14:00:02] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! -22.101581272983594,0.0,0.0
-[14:00:02] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! -24.906914158126767,0.0,0.0
-[14:00:10] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 0.0,0.0,11.021739323999626
-[14:35:39] [Server thread/INFO]: TevesWang has made the advancement [Surge Protector]
-[14:36:02] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[14:36:02] [Server thread/INFO]: TevesWang left the game
-[14:49:54] [User Authenticator #14/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
-[14:49:54] [Server thread/INFO]: NatsuhiLight[/114.42.150.152:50833] logged in with entity id 112246 at (-501.1842916848408, 71.0, 318.22031215253094)
-[14:49:54] [Server thread/INFO]: NatsuhiLight joined the game
-[14:50:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-484, y=65, z=347} gt{x=-485, y=64, z=348}
-[14:50:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-484, y=65, z=347} gt{x=-485, y=64, z=348}
-[14:50:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-484, y=65, z=347} gt{x=-484, y=65, z=346}
-[14:50:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-484, y=65, z=347} gt{x=-484, y=65, z=345}
-[14:50:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-485, y=65, z=345} gt{x=-484, y=65, z=347}
-[14:50:46] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-484, y=65, z=348} gt{x=-484, y=65, z=347}
-[14:51:14] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-485, y=65, z=347} gt{x=-484, y=65, z=345}
-[14:51:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-484, y=65, z=348} gt{x=-484, y=65, z=346}
-[14:51:33] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-484, y=65, z=348} gt{x=-484, y=65, z=347}
-[14:51:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-485, y=65, z=345} gt{x=-484, y=65, z=348}
-[14:51:48] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
-[14:51:49] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
-[14:51:52] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
-[14:51:55] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
-[14:52:33] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-485, y=64, z=348} gt{x=-484, y=65, z=345}
-[14:52:54] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
-[14:53:07] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
-[14:54:27] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
-[14:54:37] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
-[14:55:23] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
-[15:03:20] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
-[15:03:33] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
-[15:03:37] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
-[15:03:37] [Server thread/INFO]: NatsuhiLight left the game
-[15:38:04] [User Authenticator #15/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
-[15:38:05] [Server thread/INFO]: NatsuhiLight[/114.42.150.152:50846] logged in with entity id 117160 at (-447.2822663583952, 68.0, 281.39305398470185)
-[15:38:05] [Server thread/INFO]: NatsuhiLight joined the game
-[15:38:41] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
-[15:38:41] [Server thread/INFO]: NatsuhiLight left the game
-[15:39:13] [User Authenticator #16/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
-[15:39:13] [Server thread/INFO]: NatsuhiLight[/114.42.150.152:50858] logged in with entity id 118018 at (-484.02150929944213, 64.0, 341.16308639225264)
-[15:39:13] [Server thread/INFO]: NatsuhiLight joined the game
-[15:39:18] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
-[15:39:18] [Server thread/INFO]: NatsuhiLight left the game
-[16:03:02] [Server thread/INFO]: <Server> Server shutting down (closing by the system service)
-[16:03:02] [Server thread/INFO]: Saving the game (this may take a moment!)
-[16:03:02] [Server thread/INFO]: Saved the game
-[16:03:12] [Server thread/INFO]: Stopping the server
-[16:03:12] [Server thread/INFO]: Stopping server
-[16:03:12] [Server thread/INFO]: Saving players
-[16:03:12] [Server thread/INFO]: Saving worlds
-[16:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:09:26] [ServerMain/INFO]: Building unoptimized datafixer
+[16:09:27] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:09:29] [ServerMain/INFO]: Loaded 7 recipes
+[16:09:30] [ServerMain/INFO]: Loaded 1179 advancements
+[16:09:31] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
+[16:09:31] [Server thread/INFO]: Starting minecraft server version 1.19
+[16:09:31] [Server thread/INFO]: Loading properties
+[16:09:31] [Server thread/INFO]: Default game type: SURVIVAL
+[16:09:31] [Server thread/INFO]: Generating keypair
+[16:09:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:09:31] [Server thread/INFO]: Using epoll channel type
+[16:09:31] [Server thread/INFO]: Preparing level "world"
+[16:09:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:09:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:09:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:09:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:09:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:09:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:09:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:09:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:09:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:09:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:09:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:09:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:09:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:09:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:09:58] [Worker-Main-1/INFO]: Preparing spawn area: 56%
+[16:09:58] [Server thread/INFO]: Time elapsed: 7944 ms
+[16:09:58] [Server thread/INFO]: Done (26.970s)! For help, type "help"
+[16:13:16] [User Authenticator #1/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
+[16:13:17] [Server thread/INFO]: NatsuhiLight[/114.42.150.152:58156] logged in with entity id 57 at (-484.52115598601665, 64.0, 342.24864130242173)
+[16:13:17] [Server thread/INFO]: NatsuhiLight joined the game
+[16:13:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[16:13:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
+[16:14:29] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
+[16:14:29] [Server thread/INFO]: NatsuhiLight left the game
+[16:33:02] [Server thread/INFO]: <Server> Server shutting down (closing by the system service)
+[16:33:02] [Server thread/INFO]: Saving the game (this may take a moment!)
+[16:33:02] [Server thread/INFO]: Saved the game
+[16:33:12] [Server thread/INFO]: Stopping the server
+[16:33:12] [Server thread/INFO]: Stopping server
+[16:33:12] [Server thread/INFO]: Saving players
+[16:33:12] [Server thread/INFO]: Saving worlds
+[16:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
