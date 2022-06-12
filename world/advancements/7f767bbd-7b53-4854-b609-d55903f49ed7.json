@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/froglights": {
+    "criteria": {
+      "froglights": "2022-06-12 16:11:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2022-04-26 17:13:24 +0000"
@@ -296,6 +302,12 @@
   "minecraft:recipes/decorations/magenta_carpet": {
     "criteria": {
       "has_magenta_wool": "2022-05-14 13:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2022-06-12 16:22:58 +0000"
     },
     "done": true
   },
@@ -914,6 +926,14 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2022-04-27 14:32:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/leash_all_frog_variants": {
+    "criteria": {
+      "minecraft:warm": "2022-06-12 16:49:08 +0000",
+      "minecraft:temperate": "2022-06-12 16:47:37 +0000",
+      "minecraft:cold": "2022-06-12 16:43:41 +0000"
     },
     "done": true
   },
@@ -1752,6 +1772,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cat": "2022-04-29 16:07:46 +0000",
+      "minecraft:frog": "2022-06-12 16:34:27 +0000",
       "minecraft:sheep": "2022-04-29 14:36:04 +0000",
       "minecraft:cow": "2022-04-29 16:21:02 +0000",
       "minecraft:chicken": "2022-04-27 17:07:20 +0000",
@@ -2510,6 +2531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2022-06-12 16:22:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/quartz": {
     "criteria": {
       "has_nether_quartz_ore": "2022-05-06 07:45:21 +0000"
@@ -2915,6 +2942,12 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2022-05-01 17:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2022-06-12 16:22:58 +0000"
     },
     "done": true
   },
@@ -3684,6 +3717,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2022-06-12 16:22:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2022-04-26 17:14:18 +0000"
@@ -3785,6 +3824,7 @@
       "minecraft:frozen_river": "2022-05-25 15:09:58 +0000",
       "minecraft:sunflower_plains": "2022-05-05 06:15:42 +0000",
       "minecraft:birch_forest": "2022-05-01 16:39:54 +0000",
+      "minecraft:windswept_hills": "2022-06-12 16:18:47 +0000",
       "minecraft:bamboo_jungle": "2022-05-01 15:08:43 +0000",
       "minecraft:wooded_badlands": "2022-05-04 13:06:42 +0000",
       "minecraft:badlands": "2022-05-04 13:01:24 +0000",
@@ -3792,6 +3832,7 @@
       "minecraft:beach": "2022-04-27 09:51:34 +0000",
       "minecraft:dark_forest": "2022-05-05 06:13:46 +0000",
       "minecraft:stony_peaks": "2022-05-05 11:28:20 +0000",
+      "minecraft:mangrove_swamp": "2022-06-12 16:21:58 +0000",
       "minecraft:sparse_jungle": "2022-05-01 15:07:35 +0000",
       "minecraft:lukewarm_ocean": "2022-04-27 10:34:07 +0000",
       "minecraft:river": "2022-04-27 09:51:08 +0000",
@@ -3822,6 +3863,7 @@
       "minecraft:old_growth_birch_forest": "2022-05-01 16:39:18 +0000",
       "minecraft:deep_dark": "2022-06-09 10:58:42 +0000",
       "minecraft:meadow": "2022-05-05 06:15:20 +0000",
+      "minecraft:windswept_gravelly_hills": "2022-06-12 16:18:34 +0000",
       "minecraft:savanna": "2022-04-26 16:58:02 +0000",
       "minecraft:plains": "2022-04-27 16:58:24 +0000"
     },
