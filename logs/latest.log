@@ -1,47 +1,143 @@
-[23:07:24] [ServerMain/INFO]: Building unoptimized datafixer
-[23:07:25] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[23:07:27] [ServerMain/INFO]: Loaded 7 recipes
-[23:07:28] [ServerMain/INFO]: Loaded 1179 advancements
-[23:07:29] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
-[23:07:29] [Server thread/INFO]: Starting minecraft server version 1.19
-[23:07:29] [Server thread/INFO]: Loading properties
-[23:07:29] [Server thread/INFO]: Default game type: SURVIVAL
-[23:07:29] [Server thread/INFO]: Generating keypair
-[23:07:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:07:29] [Server thread/INFO]: Using epoll channel type
-[23:07:29] [Server thread/INFO]: Preparing level "world"
-[23:07:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:07:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:07:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:07:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:07:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:07:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:07:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:07:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:07:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:07:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:07:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:07:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:07:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:07:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:07:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:07:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:07:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:07:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:07:58] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[23:07:58] [Server thread/INFO]: Time elapsed: 8932 ms
-[23:07:58] [Server thread/INFO]: Done (28.848s)! For help, type "help"
-[23:33:02] [Server thread/INFO]: <Server> Server shutting down (closing by the system service)
-[23:33:02] [Server thread/INFO]: Saving the game (this may take a moment!)
-[23:33:02] [Server thread/INFO]: Saved the game
-[23:33:12] [Server thread/INFO]: Stopping the server
-[23:33:12] [Server thread/INFO]: Stopping server
-[23:33:12] [Server thread/INFO]: Saving players
-[23:33:12] [Server thread/INFO]: Saving worlds
-[23:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:10:39] [ServerMain/INFO]: Building unoptimized datafixer
+[02:10:41] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:10:43] [ServerMain/INFO]: Loaded 7 recipes
+[02:10:43] [ServerMain/INFO]: Loaded 1179 advancements
+[02:10:45] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
+[02:10:45] [Server thread/INFO]: Starting minecraft server version 1.19
+[02:10:45] [Server thread/INFO]: Loading properties
+[02:10:45] [Server thread/INFO]: Default game type: SURVIVAL
+[02:10:45] [Server thread/INFO]: Generating keypair
+[02:10:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:10:45] [Server thread/INFO]: Using epoll channel type
+[02:10:45] [Server thread/INFO]: Preparing level "world"
+[02:11:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:11:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:11:12] [Worker-Main-1/INFO]: Preparing spawn area: 17%
+[02:11:13] [Server thread/INFO]: Time elapsed: 8933 ms
+[02:11:13] [Server thread/INFO]: Done (27.763s)! For help, type "help"
+[02:11:45] [User Authenticator #1/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[02:11:45] [Server thread/INFO]: TevesWang[/71.227.249.29:59588] logged in with entity id 66 at (376.79789379712787, 119.0, -1864.3771165684493)
+[02:11:45] [Server thread/INFO]: TevesWang joined the game
+[02:11:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3576ms or 71 ticks behind
+[02:12:53] [Server thread/WARN]: TevesWang moved too quickly! -0.05461847580046708,-18.143819639584592,0.6089675939044525
+[03:43:08] [User Authenticator #2/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
+[03:43:08] [Server thread/INFO]: NatsuhiLight[/114.42.140.124:56903] logged in with entity id 12092 at (-439.32642836024894, 68.0, 287.6481825022304)
+[03:43:09] [Server thread/INFO]: NatsuhiLight joined the game
+[03:51:15] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[03:51:23] [Server thread/INFO]: [NatsuhiLight: Teleported NatsuhiLight to TevesWang]
+[03:53:58] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[03:57:20] [Server thread/WARN]: Boat (vehicle of NatsuhiLight) moved too quickly! 0.28874939198968264,0.0,10.75774310414049
+[03:57:20] [Server thread/WARN]: Boat (vehicle of NatsuhiLight) moved too quickly! 0.28874939198968264,0.0,11.724158033191065
+[03:57:20] [Server thread/WARN]: Boat (vehicle of NatsuhiLight) moved too quickly! 0.28874939198968264,0.0,12.719773469421058
+[05:03:10] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[05:03:10] [Server thread/INFO]: TevesWang left the game
+[05:37:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@668f8107[id=<null>,name=TevesWang,properties={},legacy=false] (/71.227.249.29:65476) lost connection: Disconnected
+[05:37:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@1f29e8b3[id=<null>,name=TevesWang,properties={},legacy=false] (/71.227.249.29:65497) lost connection: Disconnected
+[05:38:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@bf860f9[id=<null>,name=TevesWang,properties={},legacy=false] (/71.227.249.29:65516) lost connection: Disconnected
+[05:39:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@6c3049b3[id=<null>,name=TevesWang,properties={},legacy=false] (/71.227.249.29:49165) lost connection: Disconnected
+[05:39:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@5f31af4e[id=<null>,name=TevesWang,properties={},legacy=false] (/71.227.249.29:49184) lost connection: Disconnected
+[05:41:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@6ade71ac[id=<null>,name=TevesWang,properties={},legacy=false] (/71.227.249.29:49267) lost connection: Disconnected
+[05:48:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@689a64ca[id=<null>,name=TevesWang,properties={},legacy=false] (/71.227.249.29:49481) lost connection: Disconnected
+[05:50:22] [User Authenticator #3/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[05:50:22] [Server thread/INFO]: TevesWang[/71.227.249.29:49657] logged in with entity id 39011 at (-442.46044544476376, 68.0, 297.1602645997535)
+[05:50:22] [Server thread/INFO]: TevesWang joined the game
+[06:01:50] [Server thread/WARN]: NatsuhiLight moved too quickly! -1.5336590316625234,-0.20738817097131346,17.79259767971132
+[06:01:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2339ms or 46 ticks behind
+[07:32:09] [Server thread/WARN]: TevesWang moved too quickly! 14.622854684824233,-3.3406789386385896,-9.6495011210381
+[07:36:39] [Server thread/INFO]: <TevesWang> ...兩個牧羊人都死了喔
+[08:00:06] [Server thread/WARN]: TevesWang moved too quickly! 0.0,-10.184074939147308,0.0
+[08:14:03] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[08:14:46] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[08:15:20] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[08:15:25] [Server thread/INFO]: Villager bss['Shepherd'/113654, l='ServerLevel[world]', x=-469.30, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[08:16:43] [Server thread/INFO]: Villager bss['Shepherd'/113653, l='ServerLevel[world]', x=-471.70, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[08:17:21] [Server thread/INFO]: Villager bss['Shepherd'/115189, l='ServerLevel[world]', x=-471.30, y=65.00, z=273.54] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[08:17:22] [Server thread/INFO]: Villager bss['Villager'/115207, l='ServerLevel[world]', x=-471.85, y=65.00, z=273.85] died, message: 'Villager was slain by NatsuhiLight using [可可撥的大寶劍]'
+[08:17:22] [Server thread/INFO]: Villager bss['Villager'/115197, l='ServerLevel[world]', x=-471.85, y=65.00, z=273.85] died, message: 'Villager was slain by NatsuhiLight using [可可撥的大寶劍]'
+[08:17:22] [Server thread/INFO]: Villager bss['Villager'/115205, l='ServerLevel[world]', x=-471.85, y=65.00, z=273.85] died, message: 'Villager was slain by NatsuhiLight using [可可撥的大寶劍]'
+[08:27:10] [Server thread/INFO]: Villager bss['Shepherd'/115190, l='ServerLevel[world]', x=-469.30, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[08:27:11] [Server thread/INFO]: Villager bss['Shepherd'/115285, l='ServerLevel[world]', x=-471.70, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[08:27:59] [Server thread/INFO]: Villager bss['Shepherd'/119012, l='ServerLevel[world]', x=-469.70, y=65.00, z=273.70] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[08:27:59] [Server thread/INFO]: Villager bss['Villager'/119134, l='ServerLevel[world]', x=-469.15, y=65.95, z=273.85] died, message: 'Villager was slain by NatsuhiLight using [可可撥的大寶劍]'
+[08:31:33] [Server thread/INFO]: Villager bss['Shepherd'/119030, l='ServerLevel[world]', x=-471.70, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[08:31:34] [Server thread/INFO]: Villager bss['Shepherd'/119153, l='ServerLevel[world]', x=-469.30, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[08:34:03] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=38, y=46, z=-303} gt{x=38, y=47, z=-302}
+[08:35:39] [Server thread/INFO]: Villager bss['Shepherd'/120722, l='ServerLevel[world]', x=-471.70, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[08:35:46] [Server thread/INFO]: Villager bss['Villager'/122446, l='ServerLevel[world]', x=-471.84, y=65.00, z=273.85] died, message: 'Villager was slain by NatsuhiLight using [可可撥的大寶劍]'
+[08:35:46] [Server thread/INFO]: Villager bss['Shepherd'/122442, l='ServerLevel[world]', x=-471.58, y=65.00, z=273.68] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[08:37:55] [Server thread/INFO]: Villager bss['Shepherd'/122495, l='ServerLevel[world]', x=-471.70, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[08:39:02] [Server thread/INFO]: Villager bss['Shepherd'/123559, l='ServerLevel[world]', x=-471.70, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[08:39:46] [Server thread/INFO]: Villager bss['Shepherd'/124316, l='ServerLevel[world]', x=-471.70, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[08:41:17] [Server thread/INFO]: Villager bss['Shepherd'/124672, l='ServerLevel[world]', x=-471.70, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[08:42:12] [Server thread/INFO]: Villager bss['Shepherd'/125095, l='ServerLevel[world]', x=-471.53, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[08:44:01] [Server thread/INFO]: Villager bss['Shepherd'/125461, l='ServerLevel[world]', x=-471.50, y=65.00, z=273.32] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[08:46:12] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[08:46:50] [Server thread/INFO]: <NatsuhiLight> 你選一個存活
+[08:47:24] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[08:51:41] [Server thread/INFO]: Villager bss['Shepherd'/120728, l='ServerLevel[world]', x=-469.30, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[08:52:37] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[08:52:37] [Server thread/INFO]: TevesWang left the game
+[08:52:39] [Server thread/INFO]: Villager bss['Shepherd'/127450, l='ServerLevel[world]', x=-469.31, y=65.00, z=273.31] died, message: 'Shepherd was burnt to a crisp whilst fighting NatsuhiLight'
+[08:54:05] [Server thread/INFO]: Villager bss['Shepherd'/127700, l='ServerLevel[world]', x=-469.30, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[08:55:37] [Server thread/INFO]: Villager bss['Shepherd'/127968, l='ServerLevel[world]', x=-469.30, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[08:57:01] [Server thread/INFO]: Villager bss['Shepherd'/128304, l='ServerLevel[world]', x=-469.30, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[08:58:46] [Server thread/INFO]: Villager bss['Shepherd'/128633, l='ServerLevel[world]', x=-469.30, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[08:59:52] [Server thread/INFO]: Villager bss['Shepherd'/129063, l='ServerLevel[world]', x=-469.30, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[09:00:35] [Server thread/INFO]: Villager bss['Shepherd'/129383, l='ServerLevel[world]', x=-469.30, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[09:01:40] [Server thread/INFO]: Villager bss['Shepherd'/129565, l='ServerLevel[world]', x=-469.30, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[09:02:24] [Server thread/INFO]: Villager bss['Shepherd'/129854, l='ServerLevel[world]', x=-469.30, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[09:03:55] [Server thread/INFO]: Villager bss['Shepherd'/130116, l='ServerLevel[world]', x=-469.30, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[09:05:37] [Server thread/INFO]: Villager bss['Shepherd'/130474, l='ServerLevel[world]', x=-469.30, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[09:05:43] [Server thread/INFO]: Villager bss['Villager'/129566, l='ServerLevel[world]', x=-462.90, y=65.00, z=287.79] died, message: 'Villager was slain by NatsuhiLight using [可可撥的大寶劍]'
+[09:07:27] [Server thread/INFO]: Villager bss['Shepherd'/130902, l='ServerLevel[world]', x=-469.30, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[09:07:39] [Server thread/INFO]: Villager bss['Shepherd'/131274, l='ServerLevel[world]', x=-469.70, y=65.00, z=273.56] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[09:07:39] [Server thread/INFO]: Villager bss['Villager'/131282, l='ServerLevel[world]', x=-469.15, y=65.00, z=273.85] died, message: 'Villager was slain by NatsuhiLight using [可可撥的大寶劍]'
+[09:08:34] [Server thread/INFO]: Villager bss['Shepherd'/131322, l='ServerLevel[world]', x=-469.30, y=65.00, z=273.32] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[09:09:14] [Server thread/INFO]: Villager bss['Shepherd'/131519, l='ServerLevel[world]', x=-469.31, y=65.00, z=273.31] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[09:10:18] [Server thread/INFO]: Villager bss['Shepherd'/131655, l='ServerLevel[world]', x=-469.30, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[09:11:19] [Server thread/INFO]: Villager bss['Shepherd'/131891, l='ServerLevel[world]', x=-469.31, y=65.00, z=273.31] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[09:12:16] [Server thread/INFO]: Villager bss['Shepherd'/132100, l='ServerLevel[world]', x=-469.30, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[09:14:21] [Server thread/INFO]: Villager bss['Shepherd'/132364, l='ServerLevel[world]', x=-469.30, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[09:15:30] [Server thread/INFO]: Villager bss['Shepherd'/132804, l='ServerLevel[world]', x=-469.30, y=65.00, z=273.30] died, message: 'Shepherd was slain by NatsuhiLight using [可可撥的大寶劍]'
+[09:16:35] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[09:20:03] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[12:16:15] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
+[12:16:15] [Server thread/INFO]: NatsuhiLight left the game
+[12:20:13] [User Authenticator #4/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
+[12:20:13] [Server thread/INFO]: NatsuhiLight[/114.42.140.124:49812] logged in with entity id 161965 at (-470.3969442261649, 65.0, 274.90590171635256)
+[12:20:13] [Server thread/INFO]: NatsuhiLight joined the game
+[12:26:00] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[12:26:48] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[12:29:04] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[12:29:06] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
+[12:29:06] [Server thread/INFO]: NatsuhiLight left the game
+[12:33:02] [Server thread/INFO]: <Server> Server shutting down (closing by the system service)
+[12:33:02] [Server thread/INFO]: Saving the game (this may take a moment!)
+[12:33:02] [Server thread/INFO]: Saved the game
+[12:33:12] [Server thread/INFO]: Stopping the server
+[12:33:12] [Server thread/INFO]: Stopping server
+[12:33:12] [Server thread/INFO]: Saving players
+[12:33:12] [Server thread/INFO]: Saving worlds
+[12:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
