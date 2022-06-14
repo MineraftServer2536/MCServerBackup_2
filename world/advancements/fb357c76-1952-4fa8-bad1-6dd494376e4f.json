@@ -1254,6 +1254,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2022-06-14 16:01:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2022-05-15 14:54:35 +0000"
@@ -1416,6 +1422,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2022-06-14 16:01:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine_brick": "2022-05-22 16:42:35 +0000"
@@ -1508,6 +1520,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mushroom_fields": "2022-06-14 15:41:02 +0000",
       "minecraft:deep_ocean": "2022-05-27 13:22:00 +0000",
       "minecraft:frozen_river": "2022-05-11 04:59:46 +0000",
       "minecraft:bamboo_jungle": "2022-05-29 15:10:08 +0000",
@@ -1754,6 +1767,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2022-06-14 16:01:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2022-06-06 16:07:04 +0000"
@@ -1913,6 +1932,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2022-05-07 04:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2022-06-14 16:01:24 +0000"
     },
     "done": true
   },
@@ -2218,6 +2243,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2022-05-07 05:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2022-06-14 15:37:43 +0000"
     },
     "done": true
   },

@@ -551,6 +551,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2022-06-14 14:01:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2022-05-01 12:32:17 +0000"
@@ -2147,6 +2153,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2022-06-14 14:38:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2022-04-26 17:11:20 +0000"
@@ -2564,6 +2576,12 @@
   "minecraft:recipes/misc/quartz": {
     "criteria": {
       "has_nether_quartz_ore": "2022-05-06 07:45:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2022-06-14 13:49:25 +0000"
     },
     "done": true
   },
@@ -3149,6 +3167,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2022-06-14 13:51:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2022-04-26 16:59:19 +0000"
@@ -3224,6 +3248,7 @@
       "minecraft:zombified_piglin": "2022-05-01 07:02:37 +0000",
       "minecraft:wither_skeleton": "2022-05-11 11:44:53 +0000",
       "minecraft:husk": "2022-05-01 16:18:59 +0000",
+      "minecraft:ender_dragon": "2022-06-14 14:01:01 +0000",
       "minecraft:shulker": "2022-05-15 16:29:07 +0000",
       "minecraft:cave_spider": "2022-05-01 14:59:31 +0000",
       "minecraft:piglin": "2022-05-01 12:13:00 +0000",
@@ -4043,6 +4068,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/spyglass_at_dragon": {
+    "criteria": {
+      "spyglass_at_dragon": "2022-06-14 13:51:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
       "has_yellow_wool": "2022-06-07 09:46:35 +0000"
@@ -4196,6 +4227,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2022-04-28 02:18:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/play_jukebox_in_meadows": {
+    "criteria": {
+      "play_jukebox_in_meadows": "2022-06-14 16:25:13 +0000"
     },
     "done": true
   },
