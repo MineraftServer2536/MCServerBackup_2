@@ -1,61 +1,116 @@
-[04:49:12] [ServerMain/INFO]: Building unoptimized datafixer
-[04:49:13] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04:49:16] [ServerMain/INFO]: Loaded 7 recipes
-[04:49:16] [ServerMain/INFO]: Loaded 1179 advancements
-[04:49:17] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
-[04:49:17] [Server thread/INFO]: Starting minecraft server version 1.19
-[04:49:17] [Server thread/INFO]: Loading properties
-[04:49:17] [Server thread/INFO]: Default game type: SURVIVAL
-[04:49:17] [Server thread/INFO]: Generating keypair
-[04:49:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:49:18] [Server thread/INFO]: Using epoll channel type
-[04:49:18] [Server thread/INFO]: Preparing level "world"
-[04:49:19] [User Authenticator #1/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[04:49:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:49:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:49:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:49:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:49:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:49:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:49:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:49:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:49:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:49:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:49:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:49:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:49:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:49:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:49:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:49:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:49:45] [Worker-Main-1/INFO]: Preparing spawn area: 12%
-[04:49:45] [Server thread/INFO]: Time elapsed: 8007 ms
-[04:49:45] [Server thread/INFO]: Done (27.867s)! For help, type "help"
-[04:49:46] [Server thread/INFO]: TevesWang[/71.227.249.29:52155] logged in with entity id 40 at (-442.7726282478153, 68.0, 295.9320226669553)
-[04:49:46] [Server thread/INFO]: TevesWang joined the game
-[05:31:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2892ms or 57 ticks behind
-[06:27:49] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[06:27:49] [Server thread/INFO]: TevesWang left the game
-[06:28:27] [User Authenticator #2/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[06:28:27] [Server thread/INFO]: TevesWang[/71.227.249.29:54989] logged in with entity id 70474 at (376.79789379712787, 119.0, -1864.3771165684493)
-[06:28:27] [Server thread/INFO]: TevesWang joined the game
-[06:36:38] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[06:36:38] [Server thread/INFO]: TevesWang left the game
-[06:36:50] [User Authenticator #3/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[06:36:50] [Server thread/INFO]: TevesWang[/71.227.249.29:55198] logged in with entity id 73253 at (-492.8520494422182, 65.5, 270.62191105492764)
-[06:36:50] [Server thread/INFO]: TevesWang joined the game
-[06:53:02] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[06:53:02] [Server thread/INFO]: TevesWang left the game
-[07:03:02] [Server thread/INFO]: <Server> Server shutting down (closing by the system service)
-[07:03:02] [Server thread/INFO]: Saving the game (this may take a moment!)
-[07:03:02] [Server thread/INFO]: Saved the game
-[07:03:12] [Server thread/INFO]: Stopping the server
-[07:03:12] [Server thread/INFO]: Stopping server
-[07:03:12] [Server thread/INFO]: Saving players
-[07:03:12] [Server thread/INFO]: Saving worlds
-[07:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[07:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[07:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10:07:45] [ServerMain/INFO]: Building unoptimized datafixer
+[10:07:46] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:07:49] [ServerMain/INFO]: Loaded 7 recipes
+[10:07:49] [ServerMain/INFO]: Loaded 1179 advancements
+[10:07:50] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
+[10:07:50] [Server thread/INFO]: Starting minecraft server version 1.19
+[10:07:50] [Server thread/INFO]: Loading properties
+[10:07:50] [Server thread/INFO]: Default game type: SURVIVAL
+[10:07:50] [Server thread/INFO]: Generating keypair
+[10:07:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:07:51] [Server thread/INFO]: Using epoll channel type
+[10:07:51] [Server thread/INFO]: Preparing level "world"
+[10:08:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:08:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:18] [Worker-Main-1/INFO]: Preparing spawn area: 32%
+[10:08:18] [Server thread/INFO]: Time elapsed: 7974 ms
+[10:08:18] [Server thread/INFO]: Done (27.417s)! For help, type "help"
+[10:08:33] [User Authenticator #1/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[10:08:33] [Server thread/INFO]: TevesWang[/71.227.249.29:62272] logged in with entity id 65 at (521.535929296418, 13.656046564196092, 186.69999998807907)
+[10:08:33] [Server thread/INFO]: TevesWang joined the game
+[10:08:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[10:09:44] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[10:09:44] [Server thread/INFO]: TevesWang left the game
+[10:10:23] [User Authenticator #2/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[10:10:23] [Server thread/INFO]: TevesWang[/71.227.249.29:62339] logged in with entity id 262 at (520.300002541977, 18.200000047683716, 187.69999998807907)
+[10:10:24] [Server thread/INFO]: TevesWang joined the game
+[10:31:44] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[10:31:44] [Server thread/INFO]: TevesWang left the game
+[10:33:10] [User Authenticator #3/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[10:33:10] [Server thread/INFO]: TevesWang[/71.227.249.29:62926] logged in with entity id 3385 at (521.2395742686297, 14.200000047683716, 187.928049306922)
+[10:33:10] [Server thread/INFO]: TevesWang joined the game
+[10:34:20] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[10:34:20] [Server thread/INFO]: TevesWang left the game
+[10:34:54] [User Authenticator #4/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[10:34:55] [Server thread/INFO]: TevesWang[/71.227.249.29:62981] logged in with entity id 3558 at (520.6999999880791, 33.87585835094753, 212.28030264158056)
+[10:34:55] [Server thread/INFO]: TevesWang joined the game
+[10:39:14] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[10:39:14] [Server thread/INFO]: TevesWang left the game
+[10:39:34] [User Authenticator #5/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[10:39:34] [Server thread/INFO]: TevesWang[/71.227.249.29:63103] logged in with entity id 4490 at (528.2770238848702, 18.693636478646514, 211.33037773524828)
+[10:39:34] [Server thread/INFO]: TevesWang joined the game
+[10:41:51] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[10:41:51] [Server thread/INFO]: TevesWang left the game
+[10:42:10] [User Authenticator #6/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[10:42:10] [Server thread/INFO]: TevesWang[/71.227.249.29:63175] logged in with entity id 4643 at (520.6999999880791, 33.87585835094753, 212.28030264158056)
+[10:42:10] [Server thread/INFO]: TevesWang joined the game
+[10:48:38] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[10:48:38] [Server thread/INFO]: TevesWang left the game
+[10:49:14] [User Authenticator #7/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[10:49:14] [Server thread/INFO]: TevesWang[/71.227.249.29:63357] logged in with entity id 6059 at (528.2770238848702, 18.693636478646514, 211.33037773524828)
+[10:49:14] [Server thread/INFO]: TevesWang joined the game
+[10:51:17] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[10:51:17] [Server thread/INFO]: TevesWang left the game
+[10:51:31] [User Authenticator #8/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[10:51:32] [Server thread/INFO]: TevesWang[/71.227.249.29:63421] logged in with entity id 6241 at (-275.5, 71.0, -18.5)
+[10:51:32] [Server thread/INFO]: TevesWang joined the game
+[10:51:41] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[10:51:41] [Server thread/INFO]: TevesWang left the game
+[10:51:56] [User Authenticator #9/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[10:51:56] [Server thread/INFO]: TevesWang[/71.227.249.29:63438] logged in with entity id 6380 at (523.3711769501839, 32.0, 217.08587978128594)
+[10:51:56] [Server thread/INFO]: TevesWang joined the game
+[11:18:53] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[11:18:53] [Server thread/INFO]: TevesWang left the game
+[11:19:12] [User Authenticator #10/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[11:19:12] [Server thread/INFO]: TevesWang[/71.227.249.29:64076] logged in with entity id 9285 at (528.2770238848702, 18.693636478646514, 211.33037773524828)
+[11:19:12] [Server thread/INFO]: TevesWang joined the game
+[11:21:46] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[11:21:46] [Server thread/INFO]: TevesWang left the game
+[11:22:06] [User Authenticator #11/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[11:22:06] [Server thread/INFO]: TevesWang[/71.227.249.29:64156] logged in with entity id 9446 at (523.3711769501839, 32.0, 217.08587978128594)
+[11:22:06] [Server thread/INFO]: TevesWang joined the game
+[11:29:49] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[11:29:49] [Server thread/INFO]: TevesWang left the game
+[11:30:16] [User Authenticator #12/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[11:30:16] [Server thread/INFO]: TevesWang[/71.227.249.29:64354] logged in with entity id 10322 at (528.2770238848702, 18.693636478646514, 211.33037773524828)
+[11:30:16] [Server thread/INFO]: TevesWang joined the game
+[11:35:33] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[11:35:33] [Server thread/INFO]: TevesWang left the game
+[11:35:47] [User Authenticator #13/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[11:35:47] [Server thread/INFO]: TevesWang[/71.227.249.29:64515] logged in with entity id 10575 at (537.1108604879888, 22.0, 218.45002917052247)
+[11:35:47] [Server thread/INFO]: TevesWang joined the game
+[11:55:11] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[11:55:11] [Server thread/INFO]: TevesWang left the game
+[11:55:39] [User Authenticator #14/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[11:55:39] [Server thread/INFO]: TevesWang[/71.227.249.29:65014] logged in with entity id 12240 at (528.2770238848702, 18.693636478646514, 211.33037773524828)
+[11:55:39] [Server thread/INFO]: TevesWang joined the game
+[11:59:30] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[11:59:30] [Server thread/INFO]: TevesWang left the game
+[12:03:02] [Server thread/INFO]: <Server> Server shutting down (closing by the system service)
+[12:03:02] [Server thread/INFO]: Saving the game (this may take a moment!)
+[12:03:02] [Server thread/INFO]: Saved the game
+[12:03:12] [Server thread/INFO]: Stopping the server
+[12:03:12] [Server thread/INFO]: Stopping server
+[12:03:12] [Server thread/INFO]: Saving players
+[12:03:12] [Server thread/INFO]: Saving worlds
+[12:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
