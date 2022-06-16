@@ -1,103 +1,67 @@
-[13:37:02] [ServerMain/INFO]: Building unoptimized datafixer
-[13:37:04] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13:37:07] [ServerMain/INFO]: Loaded 7 recipes
-[13:37:07] [ServerMain/INFO]: Loaded 1179 advancements
-[13:37:08] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
-[13:37:08] [Server thread/INFO]: Starting minecraft server version 1.19
-[13:37:08] [Server thread/INFO]: Loading properties
-[13:37:08] [Server thread/INFO]: Default game type: SURVIVAL
-[13:37:08] [Server thread/INFO]: Generating keypair
-[13:37:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:37:09] [Server thread/INFO]: Using epoll channel type
-[13:37:09] [Server thread/INFO]: Preparing level "world"
-[13:37:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:37:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:37:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:37:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:37:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:37:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:37:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:37:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:37:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:37:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:37:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:37:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:37:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:37:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:37:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:37:35] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[13:37:36] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[13:37:37] [Server thread/INFO]: Time elapsed: 8210 ms
-[13:37:37] [Server thread/INFO]: Done (27.873s)! For help, type "help"
-[13:37:43] [User Authenticator #1/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[13:37:43] [Server thread/INFO]: TevesWang[/71.227.249.29:51257] logged in with entity id 177 at (530.4784488394132, 13.089169693169339, 54.89392014935576)
-[13:37:43] [Server thread/INFO]: TevesWang joined the game
-[13:37:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3503ms or 70 ticks behind
-[14:24:54] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[14:24:54] [Server thread/INFO]: TevesWang left the game
-[14:26:24] [User Authenticator #2/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[14:26:25] [Server thread/INFO]: TevesWang[/71.227.249.29:52938] logged in with entity id 4057 at (530.2991403164199, 14.618138111851485, 50.30000001192093)
-[14:26:25] [Server thread/INFO]: TevesWang joined the game
-[14:33:14] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[14:33:14] [Server thread/INFO]: TevesWang left the game
-[14:34:10] [User Authenticator #3/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[14:34:11] [Server thread/INFO]: TevesWang[/71.227.249.29:53205] logged in with entity id 4620 at (542.2067068834826, 12.454966616112738, 59.13339551659307)
-[14:34:11] [Server thread/INFO]: TevesWang joined the game
-[14:41:45] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[14:41:45] [Server thread/INFO]: TevesWang left the game
-[14:42:24] [User Authenticator #4/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[14:42:25] [Server thread/INFO]: TevesWang[/71.227.249.29:53453] logged in with entity id 5301 at (527.8903579978654, 12.834327151495355, 71.60676413822236)
-[14:42:25] [Server thread/INFO]: TevesWang joined the game
-[14:45:07] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[14:45:07] [Server thread/INFO]: TevesWang left the game
-[14:45:23] [User Authenticator #5/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[14:45:23] [Server thread/INFO]: TevesWang[/71.227.249.29:53532] logged in with entity id 5765 at (-443.3651052756607, 68.0, 296.2618234667253)
-[14:45:23] [Server thread/INFO]: TevesWang joined the game
-[15:04:59] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[15:04:59] [Server thread/INFO]: TevesWang left the game
-[15:42:00] [User Authenticator #6/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
-[15:42:00] [Server thread/INFO]: NatsuhiLight[/114.42.140.124:50501] logged in with entity id 9283 at (-510.3460592611697, 66.0, 258.3640177486577)
-[15:42:00] [Server thread/INFO]: NatsuhiLight joined the game
-[15:44:15] [User Authenticator #7/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[15:44:15] [Server thread/INFO]: TevesWang[/71.227.249.29:55047] logged in with entity id 10748 at (535.8098123987037, 9.0, 69.3051450977153)
-[15:44:15] [Server thread/INFO]: TevesWang joined the game
-[15:50:46] [User Authenticator #8/INFO]: UUID of player Lien116 is 49058296-144f-4399-aac3-4ce7bf150ce6
-[15:50:46] [Server thread/INFO]: Lien116[/114.36.194.87:8684] logged in with entity id 13429 at (-524.8313394909421, 64.0, 260.95135014611304)
-[15:50:46] [Server thread/INFO]: Lien116 joined the game
-[15:58:36] [Server thread/INFO]: Lien116 has made the advancement [Oh Shiny]
-[15:59:03] [Server thread/WARN]: TevesWang moved wrongly!
-[15:59:12] [Server thread/WARN]: TevesWang moved wrongly!
-[15:59:17] [Server thread/WARN]: TevesWang moved wrongly!
-[15:59:21] [Server thread/WARN]: TevesWang moved wrongly!
-[15:59:25] [Server thread/WARN]: TevesWang moved wrongly!
-[15:59:29] [Server thread/WARN]: TevesWang moved wrongly!
-[15:59:34] [Server thread/WARN]: TevesWang moved wrongly!
-[15:59:38] [Server thread/WARN]: TevesWang moved wrongly!
-[15:59:42] [Server thread/WARN]: TevesWang moved wrongly!
-[15:59:46] [Server thread/WARN]: TevesWang moved wrongly!
-[16:00:04] [Server thread/WARN]: TevesWang moved wrongly!
-[16:02:16] [Server thread/WARN]: Lien116 moved wrongly!
-[16:03:52] [Server thread/WARN]: Lien116 moved wrongly!
-[16:03:57] [Server thread/WARN]: Lien116 moved wrongly!
-[16:05:34] [Server thread/WARN]: Lien116 moved wrongly!
-[16:05:53] [Server thread/WARN]: Lien116 moved wrongly!
-[16:13:55] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[16:13:55] [Server thread/INFO]: TevesWang left the game
-[16:15:16] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
-[16:15:16] [Server thread/INFO]: NatsuhiLight left the game
-[16:16:19] [Server thread/INFO]: Lien116 lost connection: Disconnected
-[16:16:19] [Server thread/INFO]: Lien116 left the game
-[16:33:02] [Server thread/INFO]: <Server> Server shutting down (closing by the system service)
-[16:33:02] [Server thread/INFO]: Saving the game (this may take a moment!)
-[16:33:02] [Server thread/INFO]: Saved the game
-[16:33:12] [Server thread/INFO]: Stopping the server
-[16:33:13] [Server thread/INFO]: Stopping server
-[16:33:13] [Server thread/INFO]: Saving players
-[16:33:13] [Server thread/INFO]: Saving worlds
-[16:33:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:33:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:33:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:41:48] [ServerMain/INFO]: Building unoptimized datafixer
+[03:41:50] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:41:52] [ServerMain/INFO]: Loaded 7 recipes
+[03:41:52] [ServerMain/INFO]: Loaded 1179 advancements
+[03:41:54] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
+[03:41:54] [Server thread/INFO]: Starting minecraft server version 1.19
+[03:41:54] [Server thread/INFO]: Loading properties
+[03:41:54] [Server thread/INFO]: Default game type: SURVIVAL
+[03:41:54] [Server thread/INFO]: Generating keypair
+[03:41:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:41:54] [Server thread/INFO]: Using epoll channel type
+[03:41:54] [Server thread/INFO]: Preparing level "world"
+[03:42:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:42:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:20] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[03:42:21] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[03:42:21] [Worker-Main-1/INFO]: Preparing spawn area: 14%
+[03:42:22] [Worker-Main-1/INFO]: Preparing spawn area: 17%
+[03:42:22] [Server thread/INFO]: Time elapsed: 8354 ms
+[03:42:22] [Server thread/INFO]: Done (28.228s)! For help, type "help"
+[03:43:32] [User Authenticator #1/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[03:43:33] [Server thread/INFO]: TevesWang[/71.227.249.29:57786] logged in with entity id 59 at (534.7238983207192, 14.200000047683716, 70.45718430678635)
+[03:43:33] [Server thread/INFO]: TevesWang joined the game
+[03:43:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2234ms or 44 ticks behind
+[04:56:48] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[04:56:48] [Server thread/INFO]: TevesWang left the game
+[04:57:26] [User Authenticator #2/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[04:57:26] [Server thread/INFO]: TevesWang[/71.227.249.29:60118] logged in with entity id 11009 at (539.9942831864507, 12.0, 122.8869502252793)
+[04:57:26] [Server thread/INFO]: TevesWang joined the game
+[05:05:13] [Server thread/INFO]: Villager bss['Villager'/12990, l='ServerLevel[world]', x=-478.60, y=76.00, z=347.63] died, message: 'Villager was slain by Zombie'
+[06:06:04] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! -10.035490788927007,0.0,0.09668889099989286
+[06:06:04] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! -11.782610333211778,0.0,0.12227635782632262
+[06:06:14] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! -11.955722061062374,0.0,0.0
+[06:06:18] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 0.0,0.0,11.17278111335932
+[08:08:36] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[08:08:36] [Server thread/INFO]: TevesWang left the game
+[08:31:19] [User Authenticator #3/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[08:31:19] [Server thread/INFO]: TevesWang[/71.227.249.29:50057] logged in with entity id 36151 at (-82.23164113193958, 131.3068691227572, -56.73577135465235)
+[08:31:19] [Server thread/INFO]: TevesWang joined the game
+[10:02:06] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[10:02:06] [Server thread/INFO]: TevesWang left the game
+[10:03:02] [Server thread/INFO]: <Server> Server shutting down (closing by the system service)
+[10:03:02] [Server thread/INFO]: Saving the game (this may take a moment!)
+[10:03:02] [Server thread/INFO]: Saved the game
+[10:03:12] [Server thread/INFO]: Stopping the server
+[10:03:12] [Server thread/INFO]: Stopping server
+[10:03:12] [Server thread/INFO]: Saving players
+[10:03:12] [Server thread/INFO]: Saving worlds
+[10:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
