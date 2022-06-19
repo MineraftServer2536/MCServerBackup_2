@@ -1,370 +1,155 @@
-[03:47:10] [ServerMain/INFO]: Building unoptimized datafixer
-[03:47:12] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03:47:14] [ServerMain/INFO]: Loaded 7 recipes
-[03:47:14] [ServerMain/INFO]: Loaded 1179 advancements
-[03:47:15] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
-[03:47:15] [Server thread/INFO]: Starting minecraft server version 1.19
-[03:47:15] [Server thread/INFO]: Loading properties
-[03:47:15] [Server thread/INFO]: Default game type: SURVIVAL
-[03:47:15] [Server thread/INFO]: Generating keypair
-[03:47:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:47:16] [Server thread/INFO]: Using epoll channel type
-[03:47:16] [Server thread/INFO]: Preparing level "world"
-[03:47:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:47:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:47:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:47:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:47:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:47:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:47:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:47:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:47:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:47:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:47:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:47:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:47:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:47:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:47:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:47:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:47:43] [Worker-Main-1/INFO]: Preparing spawn area: 10%
-[03:47:43] [Server thread/INFO]: Time elapsed: 8137 ms
-[03:47:43] [Server thread/INFO]: Done (27.709s)! For help, type "help"
-[03:51:42] [User Authenticator #1/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[03:51:43] [Server thread/INFO]: TevesWang[/71.227.249.29:57888] logged in with entity id 61 at (-441.57085007036903, 68.0, 296.3953465321313)
-[03:51:43] [Server thread/INFO]: TevesWang joined the game
-[03:57:31] [User Authenticator #2/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
-[03:57:31] [Server thread/INFO]: piesOf314[/160.39.5.167:59189] logged in with entity id 3069 at (-486.09426082161957, 67.5, 256.73656969237805)
-[03:57:31] [Server thread/INFO]: piesOf314 joined the game
-[04:04:38] [Server thread/INFO]: piesOf314 has made the advancement [You've Got a Friend in Me]
-[04:16:14] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 11.148964874546465,0.0,0.15731159520346694
-[04:16:14] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! 12.830231818979655,0.0,0.18683313347752062
-[04:16:16] [Server thread/WARN]: Boat (vehicle of TevesWang) moved wrongly! 0.9632399601734889
-[04:16:33] [Server thread/WARN]: Boat (vehicle of TevesWang) moved wrongly! 0.39975297126454734
-[04:16:33] [Server thread/WARN]: Boat (vehicle of TevesWang) moved wrongly! 0.25178770373034354
-[04:16:33] [Server thread/WARN]: Boat (vehicle of TevesWang) moved wrongly! 0.42746618285505633
-[04:16:33] [Server thread/WARN]: Boat (vehicle of TevesWang) moved wrongly! 0.4619089518743351
-[04:16:33] [Server thread/WARN]: Boat (vehicle of TevesWang) moved wrongly! 0.5298967325308297
-[04:16:34] [Server thread/WARN]: Boat (vehicle of TevesWang) moved wrongly! 0.43281673078860194
-[04:16:34] [Server thread/WARN]: Boat (vehicle of TevesWang) moved wrongly! 0.6934947998090877
-[04:55:25] [Server thread/INFO]: piesOf314 was slain by Warden
-[04:58:36] [Server thread/INFO]: TevesWang was slain by Warden
-[04:59:15] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[04:59:15] [Server thread/INFO]: TevesWang left the game
-[04:59:49] [User Authenticator #3/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[04:59:49] [Server thread/INFO]: TevesWang[/71.227.249.29:59506] logged in with entity id 25549 at (-442.5, 68.0625, 304.5)
-[04:59:49] [Server thread/INFO]: TevesWang joined the game
-[05:25:45] [Server thread/INFO]: piesOf314 has completed the challenge [It Spreads]
-[05:28:42] [Server thread/INFO]: piesOf314 hit the ground too hard whilst trying to escape Warden
-[05:32:10] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! -10.78558851452469,0.0,0.1751735856387242
-[05:32:10] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! -12.98566450933528,0.0,0.24467952784407032
-[05:32:10] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! -13.269868490415703,0.0,0.30893626784174444
-[05:32:10] [Server thread/WARN]: Boat (vehicle of TevesWang) moved too quickly! -13.269868490415703,0.0,0.3663902793513003
-[05:32:18] [Server thread/INFO]: piesOf314 fell from a high place
-[05:38:48] [Server thread/WARN]: piesOf314 moved too quickly! 0.6434265425971333,-2.525211290793436,-18.166165420002244
-[05:47:17] [Server thread/INFO]: piesOf314 fell from a high place
-[05:57:53] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[05:57:53] [Server thread/INFO]: TevesWang left the game
-[05:58:31] [User Authenticator #4/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[05:58:31] [Server thread/INFO]: TevesWang[/71.227.249.29:60887] logged in with entity id 48463 at (545.4105441436194, -51.0, -1412.3267274710342)
-[05:58:31] [Server thread/INFO]: TevesWang joined the game
-[05:58:34] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[05:58:34] [Server thread/INFO]: TevesWang left the game
-[05:59:57] [User Authenticator #5/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[05:59:57] [Server thread/INFO]: TevesWang[/71.227.249.29:60954] logged in with entity id 48793 at (545.4105441436194, -51.0, -1412.3267274710342)
-[05:59:57] [Server thread/INFO]: TevesWang joined the game
-[06:17:43] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[06:17:43] [Server thread/INFO]: TevesWang left the game
-[06:22:58] [User Authenticator #6/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[06:22:59] [Server thread/INFO]: TevesWang[/71.227.249.29:61515] logged in with entity id 54697 at (546.6999999880791, -51.0, -1449.9824059650252)
-[06:22:59] [Server thread/INFO]: TevesWang joined the game
-[06:23:19] [Server thread/INFO]: piesOf314 was obliterated by a sonically-charged shriek
-[06:38:05] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[06:38:05] [Server thread/INFO]: TevesWang left the game
-[06:41:03] [User Authenticator #7/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[06:41:03] [Server thread/INFO]: TevesWang[/71.227.249.29:61936] logged in with entity id 61483 at (542.1205293349079, -49.0, -1418.5916571301536)
-[06:41:03] [Server thread/INFO]: TevesWang joined the game
-[06:41:34] [Server thread/INFO]: piesOf314 was obliterated by a sonically-charged shriek
-[06:50:52] [Server thread/INFO]: piesOf314 fell from a high place
-[06:51:42] [Server thread/WARN]: Boat (vehicle of piesOf314) moved too quickly! 0.0,0.0,-10.542041820095946
-[06:51:42] [Server thread/WARN]: Boat (vehicle of piesOf314) moved too quickly! 0.0,0.0,-12.700121565021576
-[06:51:42] [Server thread/WARN]: Boat (vehicle of piesOf314) moved too quickly! 0.0,0.0,-14.874328794456787
-[06:51:42] [Server thread/WARN]: Boat (vehicle of piesOf314) moved too quickly! 0.0,0.0,-17.06448358813715
-[06:51:42] [Server thread/WARN]: Boat (vehicle of piesOf314) moved too quickly! 0.0,0.0,-19.270407662190436
-[06:51:42] [Server thread/WARN]: Boat (vehicle of piesOf314) moved too quickly! 0.0,0.0,-21.49192498816093
-[06:51:42] [Server thread/WARN]: Boat (vehicle of piesOf314) moved too quickly! 0.0,0.0,-23.72886144782497
-[06:51:42] [Server thread/WARN]: Boat (vehicle of piesOf314) moved too quickly! 0.0,0.0,-25.98104481962899
-[06:51:42] [Server thread/WARN]: Boat (vehicle of piesOf314) moved too quickly! 0.0,0.0,-28.248304746650334
-[06:51:42] [Server thread/WARN]: Boat (vehicle of piesOf314) moved too quickly! 0.0,0.0,-30.53047272726222
-[06:51:42] [Server thread/WARN]: Boat (vehicle of piesOf314) moved too quickly! 0.0,0.0,-32.827382087274955
-[06:51:42] [Server thread/WARN]: Boat (vehicle of piesOf314) moved too quickly! 0.0,0.0,-35.13886830256088
-[06:51:42] [Server thread/WARN]: Boat (vehicle of piesOf314) moved too quickly! 0.0,0.0,-37.4647683011262
-[06:51:42] [Server thread/WARN]: Boat (vehicle of piesOf314) moved too quickly! 0.0,0.0,-39.8049211251403
-[06:51:42] [Server thread/WARN]: Boat (vehicle of piesOf314) moved too quickly! 0.0,0.0,-42.15916721850142
-[06:51:42] [Server thread/WARN]: Boat (vehicle of piesOf314) moved too quickly! 0.0,0.0,-44.52734911177215
-[06:51:42] [Server thread/WARN]: Boat (vehicle of piesOf314) moved too quickly! 0.0,0.0,-46.909310695146345
-[06:51:42] [Server thread/WARN]: Boat (vehicle of piesOf314) moved too quickly! 0.003714543767273426,0.0,-49.30489790757305
-[06:51:42] [Server thread/WARN]: Boat (vehicle of piesOf314) moved too quickly! 0.011129498964535856,0.0,-43.31368659665493
-[06:57:55] [Server thread/INFO]: piesOf314 was slain by Warden
-[06:58:15] [Server thread/INFO]: piesOf314 lost connection: Disconnected
-[06:58:15] [Server thread/INFO]: piesOf314 left the game
-[07:00:25] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[07:00:25] [Server thread/INFO]: TevesWang left the game
-[07:00:39] [User Authenticator #8/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
-[07:00:39] [Server thread/INFO]: piesOf314[/160.39.5.167:64721] logged in with entity id 68900 at (-76.93519766124803, 129.0, 37.78006135180138)
-[07:00:39] [Server thread/INFO]: piesOf314 joined the game
-[07:02:21] [User Authenticator #9/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[07:02:21] [Server thread/INFO]: TevesWang[/71.227.249.29:62454] logged in with entity id 70197 at (587.4845917749783, -44.0, -1362.0081607970642)
-[07:02:21] [Server thread/INFO]: TevesWang joined the game
-[07:03:00] [Server thread/INFO]: piesOf314 lost connection: Disconnected
-[07:03:00] [Server thread/INFO]: piesOf314 left the game
-[07:15:50] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[07:15:50] [Server thread/INFO]: TevesWang left the game
-[07:17:17] [User Authenticator #10/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[07:17:17] [Server thread/INFO]: TevesWang[/71.227.249.29:62807] logged in with entity id 73721 at (542.4831359684889, -37.0, -1318.8874500449097)
-[07:17:17] [Server thread/INFO]: TevesWang joined the game
-[07:30:00] [User Authenticator #11/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
-[07:30:00] [Server thread/INFO]: piesOf314[/160.39.5.167:57024] logged in with entity id 78336 at (578.6999999880791, -51.0, -1387.531512955024)
-[07:30:00] [Server thread/INFO]: piesOf314 joined the game
-[07:31:03] [Server thread/INFO]: piesOf314 lost connection: Disconnected
-[07:31:03] [Server thread/INFO]: piesOf314 left the game
-[07:31:35] [User Authenticator #12/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
-[07:31:35] [Server thread/INFO]: piesOf314[/160.39.5.167:57042] logged in with entity id 79090 at (569.4162178578742, -48.0, -1388.5872716202448)
-[07:31:35] [Server thread/INFO]: piesOf314 joined the game
-[07:33:22] [Server thread/INFO]: piesOf314 lost connection: Disconnected
-[07:33:22] [Server thread/INFO]: piesOf314 left the game
-[07:33:28] [User Authenticator #13/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
-[07:33:28] [Server thread/INFO]: piesOf314[/160.39.5.167:57052] logged in with entity id 80270 at (569.4653280322159, -51.0, -1382.300000011921)
-[07:33:28] [Server thread/INFO]: piesOf314 joined the game
-[07:39:16] [Server thread/INFO]: piesOf314 lost connection: Disconnected
-[07:39:16] [Server thread/INFO]: piesOf314 left the game
-[07:39:52] [User Authenticator #14/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
-[07:39:52] [Server thread/INFO]: piesOf314[/160.39.5.167:57163] logged in with entity id 85021 at (588.0369805695929, -46.0, -1386.4056018343852)
-[07:39:52] [Server thread/INFO]: piesOf314 joined the game
-[07:39:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2868ms or 57 ticks behind
-[07:42:46] [Server thread/INFO]: piesOf314 experienced kinetic energy whilst trying to escape Warden
-[07:45:19] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[07:45:19] [Server thread/INFO]: TevesWang left the game
-[07:46:41] [User Authenticator #15/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[07:46:41] [Server thread/INFO]: TevesWang[/71.227.249.29:63591] logged in with entity id 90187 at (584.3000000119209, 44.0, 90.30706891562416)
-[07:46:41] [Server thread/INFO]: TevesWang joined the game
-[07:47:29] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[07:47:29] [Server thread/INFO]: TevesWang left the game
-[07:47:47] [Server thread/INFO]: piesOf314 was obliterated by a sonically-charged shriek
-[07:57:02] [Server thread/INFO]: piesOf314 was obliterated by a sonically-charged shriek
-[07:57:32] [User Authenticator #16/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[07:57:32] [Server thread/INFO]: TevesWang[/71.227.249.29:63850] logged in with entity id 94588 at (585.4191382000595, 39.14106608045847, 91.847998542631)
-[07:57:32] [Server thread/INFO]: TevesWang joined the game
-[08:00:55] [Server thread/INFO]: piesOf314 was slain by Warden
-[08:02:34] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[08:02:34] [Server thread/INFO]: TevesWang left the game
-[08:03:33] [User Authenticator #17/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[08:03:33] [Server thread/INFO]: TevesWang[/71.227.249.29:64002] logged in with entity id 99808 at (549.3000000119209, 26.0, 97.69676268872485)
-[08:03:33] [Server thread/INFO]: TevesWang joined the game
-[08:05:10] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[08:05:10] [Server thread/INFO]: TevesWang left the game
-[08:05:37] [User Authenticator #18/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[08:05:37] [Server thread/INFO]: TevesWang[/71.227.249.29:64067] logged in with entity id 100410 at (555.3723531440219, 32.0, 97.47803126683539)
-[08:05:37] [Server thread/INFO]: TevesWang joined the game
-[08:11:25] [Server thread/INFO]: piesOf314 fell from a high place
-[08:40:18] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[08:40:18] [Server thread/INFO]: TevesWang left the game
-[08:40:29] [User Authenticator #19/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[08:40:30] [Server thread/INFO]: TevesWang[/71.227.249.29:64894] logged in with entity id 118121 at (584.5099778977682, 44.0, 89.30000001192093)
-[08:40:30] [Server thread/INFO]: TevesWang joined the game
-[08:46:26] [User Authenticator #20/INFO]: UUID of player Lien116 is 49058296-144f-4399-aac3-4ce7bf150ce6
-[08:46:26] [Server thread/INFO]: Lien116[/114.36.207.48:14954] logged in with entity id 121061 at (-484.9378249256794, 66.0, 264.3130186688878)
-[08:46:26] [Server thread/INFO]: Lien116 joined the game
-[08:51:27] [Server thread/WARN]: TevesWang moved wrongly!
-[08:51:40] [Server thread/WARN]: TevesWang moved wrongly!
-[08:52:21] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:52:31] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:52:37] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:52:42] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:52:47] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:52:52] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:53:12] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:53:17] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:53:22] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:53:27] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:53:32] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:53:39] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:53:44] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:53:49] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:53:54] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-534, y=69, z=380} gt{x=-534, y=70, z=381}
-[08:53:54] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-534, y=69, z=380} gt{x=-534, y=70, z=381}
-[08:53:54] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-534, y=69, z=380} gt{x=-534, y=70, z=381}
-[08:53:54] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:54:00] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:54:05] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:54:10] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:54:15] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:54:19] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:54:24] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:54:29] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:54:34] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:54:47] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:54:52] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:55:07] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:55:20] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:55:25] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:55:31] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:55:36] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:55:41] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:55:47] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:55:52] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:55:58] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:56:04] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:56:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-535, y=64, z=403} gt{x=-535, y=63, z=402}
-[08:56:10] [Server thread/WARN]: piesOf314 moved wrongly!
-[08:56:26] [Server thread/WARN]: piesOf314 moved wrongly!
-[09:10:07] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-539, y=63, z=360} gt{x=-539, y=61, z=360}
-[09:10:09] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-540, y=62, z=358} gt{x=-539, y=62, z=358}
-[09:10:09] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-540, y=62, z=358} gt{x=-539, y=62, z=358}
-[09:10:09] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-540, y=62, z=358} gt{x=-539, y=62, z=358}
-[09:10:09] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-540, y=62, z=358} gt{x=-539, y=62, z=358}
-[09:11:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-543, y=59, z=357} gt{x=-542, y=58, z=358}
-[09:11:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-542, y=59, z=357} gt{x=-542, y=58, z=358}
-[09:11:30] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-541, y=59, z=350} gt{x=-541, y=58, z=349}
-[09:13:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-547, y=69, z=358} gt{x=-546, y=65, z=358}
-[09:13:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-547, y=69, z=358} gt{x=-546, y=65, z=358}
-[09:13:41] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-547, y=69, z=358} gt{x=-546, y=65, z=358}
-[09:19:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-569, y=62, z=372} gt{x=-571, y=61, z=374}
-[09:19:49] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-567, y=62, z=370} gt{x=-567, y=60, z=370}
-[09:19:49] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-567, y=62, z=370} gt{x=-567, y=60, z=370}
-[09:31:27] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-2120, y=65, z=-891} gt{x=-2120, y=64, z=-891}
-[09:31:27] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-2120, y=65, z=-891} gt{x=-2120, y=64, z=-891}
-[09:31:27] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-2120, y=65, z=-891} gt{x=-2120, y=64, z=-891}
-[09:31:27] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-2120, y=65, z=-891} gt{x=-2120, y=64, z=-891}
-[09:34:45] [Server thread/INFO]: piesOf314 lost connection: Disconnected
-[09:34:45] [Server thread/INFO]: piesOf314 left the game
-[09:36:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-2123, y=66, z=-900} gt{x=-2109, y=64, z=-899}
-[09:36:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-2123, y=66, z=-900} gt{x=-2109, y=64, z=-899}
-[09:36:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-2123, y=66, z=-900} gt{x=-2109, y=64, z=-899}
-[09:36:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-2123, y=66, z=-900} gt{x=-2109, y=64, z=-899}
-[09:36:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-2123, y=66, z=-900} gt{x=-2109, y=64, z=-899}
-[09:36:51] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-2123, y=66, z=-900} gt{x=-2109, y=64, z=-899}
-[09:49:14] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-543, y=65, z=370} gt{x=-544, y=65, z=370}
-[09:49:14] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-544, y=68, z=372} gt{x=-543, y=68, z=372}
-[09:49:14] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-544, y=68, z=372} gt{x=-543, y=68, z=372}
-[09:49:14] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-544, y=68, z=372} gt{x=-543, y=68, z=372}
-[09:49:14] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-544, y=68, z=372} gt{x=-543, y=68, z=372}
-[09:49:28] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-540, y=65, z=374} gt{x=-541, y=64, z=371}
-[09:49:28] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-539, y=65, z=373} gt{x=-542, y=65, z=374}
-[09:49:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-545, y=68, z=375} gt{x=-546, y=68, z=375}
-[09:49:56] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-555, y=66, z=364} gt{x=-556, y=66, z=364}
-[09:49:56] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-555, y=66, z=364} gt{x=-556, y=66, z=364}
-[09:49:56] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-555, y=66, z=364} gt{x=-556, y=66, z=364}
-[09:49:56] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-555, y=66, z=364} gt{x=-556, y=66, z=364}
-[09:49:57] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-555, y=66, z=364} gt{x=-556, y=66, z=364}
-[09:49:57] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-555, y=66, z=364} gt{x=-556, y=66, z=364}
-[09:49:57] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-555, y=66, z=364} gt{x=-556, y=66, z=364}
-[09:49:57] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-555, y=66, z=364} gt{x=-556, y=66, z=364}
-[09:49:57] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-555, y=66, z=364} gt{x=-556, y=66, z=364}
-[09:49:57] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-555, y=66, z=364} gt{x=-556, y=66, z=364}
-[09:49:57] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-555, y=66, z=364} gt{x=-556, y=66, z=364}
-[09:49:57] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-555, y=66, z=364} gt{x=-556, y=66, z=364}
-[09:49:57] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-555, y=66, z=364} gt{x=-556, y=66, z=364}
-[09:49:57] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-555, y=66, z=364} gt{x=-556, y=66, z=364}
-[09:49:57] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-555, y=66, z=364} gt{x=-556, y=66, z=364}
-[09:49:57] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-555, y=66, z=364} gt{x=-556, y=66, z=364}
-[09:50:09] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-548, y=67, z=373} gt{x=-548, y=66, z=374}
-[09:50:09] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-548, y=67, z=373} gt{x=-548, y=66, z=374}
-[09:51:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-564, y=65, z=376} gt{x=-563, y=64, z=375}
-[09:51:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-564, y=65, z=376} gt{x=-563, y=65, z=375}
-[09:52:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-565, y=65, z=380} gt{x=-566, y=65, z=379}
-[09:52:15] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-565, y=65, z=380} gt{x=-566, y=65, z=379}
-[09:52:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-565, y=64, z=383} gt{x=-566, y=64, z=383}
-[09:52:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-565, y=64, z=383} gt{x=-566, y=64, z=383}
-[09:52:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-570, y=64, z=384} gt{x=-569, y=64, z=384}
-[09:52:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-570, y=64, z=384} gt{x=-569, y=64, z=384}
-[09:52:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-570, y=64, z=384} gt{x=-569, y=64, z=384}
-[09:52:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-570, y=64, z=384} gt{x=-569, y=64, z=384}
-[09:52:25] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-559, y=66, z=380} gt{x=-559, y=65, z=380}
-[09:52:25] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-559, y=66, z=380} gt{x=-559, y=65, z=380}
-[09:52:25] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-559, y=66, z=380} gt{x=-559, y=65, z=380}
-[09:52:49] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-546, y=66, z=388} gt{x=-546, y=67, z=388}
-[09:52:49] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-546, y=66, z=388} gt{x=-546, y=67, z=388}
-[09:52:49] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-548, y=67, z=389} gt{x=-547, y=66, z=390}
-[09:52:49] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-548, y=67, z=389} gt{x=-547, y=66, z=390}
-[09:52:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-548, y=66, z=389} gt{x=-548, y=66, z=390}
-[09:52:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-548, y=66, z=389} gt{x=-548, y=66, z=390}
-[09:52:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-548, y=66, z=389} gt{x=-548, y=66, z=390}
-[09:52:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-548, y=66, z=389} gt{x=-548, y=66, z=390}
-[09:52:53] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-548, y=66, z=389} gt{x=-548, y=66, z=390}
-[09:52:53] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-548, y=66, z=389} gt{x=-548, y=66, z=390}
-[09:52:53] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-548, y=66, z=389} gt{x=-548, y=66, z=390}
-[09:52:53] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-548, y=66, z=389} gt{x=-548, y=66, z=390}
-[09:52:53] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-548, y=66, z=389} gt{x=-548, y=66, z=390}
-[10:06:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-546, y=65, z=368} gt{x=-544, y=64, z=367}
-[10:06:17] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-546, y=65, z=368} gt{x=-544, y=64, z=367}
-[10:06:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-547, y=62, z=371} gt{x=-547, y=61, z=370}
-[10:06:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-547, y=62, z=371} gt{x=-547, y=61, z=370}
-[10:07:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-539, y=64, z=435} gt{x=-540, y=64, z=437}
-[10:07:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-539, y=64, z=435} gt{x=-540, y=64, z=437}
-[10:07:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-539, y=64, z=435} gt{x=-540, y=64, z=437}
-[10:07:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-539, y=64, z=435} gt{x=-540, y=64, z=437}
-[10:07:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-539, y=64, z=435} gt{x=-540, y=64, z=437}
-[10:07:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-539, y=64, z=435} gt{x=-540, y=64, z=437}
-[10:07:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-539, y=64, z=435} gt{x=-540, y=64, z=437}
-[10:07:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-539, y=64, z=435} gt{x=-540, y=64, z=437}
-[10:07:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-539, y=64, z=435} gt{x=-540, y=64, z=437}
-[10:07:52] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-539, y=64, z=435} gt{x=-540, y=64, z=437}
-[10:10:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-544, y=68, z=455} gt{x=-545, y=67, z=456}
-[10:10:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-544, y=68, z=455} gt{x=-545, y=67, z=456}
-[10:10:44] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-544, y=68, z=455} gt{x=-545, y=67, z=456}
-[10:12:02] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-537, y=65, z=450} gt{x=-537, y=65, z=451}
-[10:31:06] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-545, y=57, z=296} gt{x=-545, y=56, z=296}
-[10:35:07] [Server thread/INFO]: Lien116 lost connection: Disconnected
-[10:35:07] [Server thread/INFO]: Lien116 left the game
-[12:15:36] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[12:15:36] [Server thread/INFO]: TevesWang left the game
-[12:27:35] [User Authenticator #21/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[12:27:35] [Server thread/INFO]: TevesWang[/71.227.249.29:54824] logged in with entity id 247226 at (-79.50479350319358, 222.0, -60.525954241152355)
-[12:27:35] [Server thread/INFO]: TevesWang joined the game
-[13:25:17] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[13:25:17] [Server thread/INFO]: TevesWang left the game
-[13:37:39] [User Authenticator #22/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[13:37:39] [Server thread/INFO]: TevesWang[/71.227.249.29:56525] logged in with entity id 273101 at (-435.9016496036005, 62.0, 293.3363664322324)
-[13:37:39] [Server thread/INFO]: TevesWang joined the game
-[13:38:26] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[13:38:26] [Server thread/INFO]: TevesWang left the game
-[13:38:29] [User Authenticator #23/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[13:38:29] [Server thread/INFO]: TevesWang[/71.227.249.29:56554] logged in with entity id 274075 at (-435.54577147199626, 66.0, 272.96304302503785)
-[13:38:29] [Server thread/INFO]: TevesWang joined the game
-[14:51:31] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[14:51:31] [Server thread/INFO]: TevesWang left the game
-[14:52:35] [User Authenticator #24/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[14:52:35] [Server thread/INFO]: TevesWang[/71.227.249.29:58942] logged in with entity id 291077 at (-437.93472351613013, 73.0, 305.4759363034583)
-[14:52:35] [Server thread/INFO]: TevesWang joined the game
-[15:09:12] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[15:09:12] [Server thread/INFO]: TevesWang left the game
-[15:10:12] [User Authenticator #25/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[15:10:13] [Server thread/INFO]: TevesWang[/71.227.249.29:59431] logged in with entity id 295051 at (-434.60113305035, 79.0, 309.86947476588625)
-[15:10:13] [Server thread/INFO]: TevesWang joined the game
-[16:58:28] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[16:58:28] [Server thread/INFO]: TevesWang left the game
-[16:58:43] [User Authenticator #26/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[16:58:43] [Server thread/INFO]: TevesWang[/71.227.249.29:62533] logged in with entity id 313849 at (-442.9972677906508, 73.0, 308.7211850852715)
-[16:58:43] [Server thread/INFO]: TevesWang joined the game
-[17:16:46] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[17:16:46] [Server thread/INFO]: TevesWang left the game
-[17:28:36] [User Authenticator #27/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
-[17:28:36] [Server thread/INFO]: NatsuhiLight[/114.42.140.233:51807] logged in with entity id 318155 at (-79.23603910281808, 222.0, -60.31263796553649)
-[17:28:36] [Server thread/INFO]: NatsuhiLight joined the game
-[17:28:41] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
-[17:31:49] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
-[17:31:49] [Server thread/INFO]: NatsuhiLight left the game
-[17:33:02] [Server thread/INFO]: <Server> Server shutting down (closing by the system service)
-[17:33:02] [Server thread/INFO]: Saving the game (this may take a moment!)
-[17:33:02] [Server thread/INFO]: Saved the game
-[17:33:12] [Server thread/INFO]: Stopping the server
-[17:33:12] [Server thread/INFO]: Stopping server
-[17:33:12] [Server thread/INFO]: Saving players
-[17:33:12] [Server thread/INFO]: Saving worlds
-[17:33:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:33:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:33:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:07:14] [ServerMain/INFO]: Building unoptimized datafixer
+[03:07:16] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:07:18] [ServerMain/INFO]: Loaded 7 recipes
+[03:07:19] [ServerMain/INFO]: Loaded 1179 advancements
+[03:07:20] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
+[03:07:20] [Server thread/INFO]: Starting minecraft server version 1.19
+[03:07:20] [Server thread/INFO]: Loading properties
+[03:07:20] [Server thread/INFO]: Default game type: SURVIVAL
+[03:07:20] [Server thread/INFO]: Generating keypair
+[03:07:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:07:20] [Server thread/INFO]: Using epoll channel type
+[03:07:21] [Server thread/INFO]: Preparing level "world"
+[03:07:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:07:49] [User Authenticator #1/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[03:07:49] [Worker-Main-1/INFO]: Preparing spawn area: 20%
+[03:07:49] [Server thread/INFO]: Time elapsed: 8997 ms
+[03:07:49] [Server thread/INFO]: Done (28.825s)! For help, type "help"
+[03:07:50] [Server thread/INFO]: TevesWang[/71.227.249.29:49268] logged in with entity id 40 at (-441.4602230937188, 68.0, 294.74137106500814)
+[03:07:50] [Server thread/INFO]: TevesWang joined the game
+[03:08:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
+[04:27:41] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[04:27:41] [Server thread/INFO]: TevesWang left the game
+[04:27:53] [User Authenticator #2/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[04:27:53] [Server thread/INFO]: TevesWang[/71.227.249.29:51567] logged in with entity id 14894 at (-439.1866933307589, 68.0, 297.6059214456959)
+[04:27:53] [Server thread/INFO]: TevesWang joined the game
+[05:22:47] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[05:22:47] [Server thread/INFO]: TevesWang left the game
+[05:23:13] [User Authenticator #3/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[05:23:13] [Server thread/INFO]: TevesWang[/71.227.249.29:53291] logged in with entity id 38677 at (-441.4602230937188, 68.0, 294.74137106500814)
+[05:23:13] [Server thread/INFO]: TevesWang joined the game
+[07:19:56] [User Authenticator #4/INFO]: UUID of player Lien116 is 49058296-144f-4399-aac3-4ce7bf150ce6
+[07:19:57] [Server thread/INFO]: Lien116[/114.36.207.48:6674] logged in with entity id 57435 at (-545.8675729820139, 63.0, 391.07212284243883)
+[07:19:57] [Server thread/INFO]: Lien116 joined the game
+[07:53:36] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-484, y=65, z=348} gt{x=-484, y=65, z=347}
+[07:53:43] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-485, y=65, z=345} gt{x=-484, y=65, z=347}
+[07:54:18] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-484, y=65, z=346} gt{x=-484, y=65, z=347}
+[07:54:19] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-485, y=65, z=346} gt{x=-485, y=65, z=345}
+[07:55:09] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-485, y=65, z=347} gt{x=-485, y=65, z=349}
+[07:55:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-485, y=65, z=345} gt{x=-484, y=65, z=347}
+[07:55:24] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-485, y=65, z=345} gt{x=-484, y=65, z=345}
+[08:17:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-456, y=60, z=354} gt{x=-456, y=60, z=355}
+[08:26:08] [Server thread/INFO]: Lien116 lost connection: Disconnected
+[08:26:08] [Server thread/INFO]: Lien116 left the game
+[11:14:35] [User Authenticator #5/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
+[11:14:35] [Server thread/INFO]: NatsuhiLight[/114.42.140.233:60444] logged in with entity id 119974 at (-77.19881678158849, 215.44564497814497, -57.27464870078881)
+[11:14:35] [Server thread/INFO]: NatsuhiLight joined the game
+[11:14:50] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[11:14:50] [Server thread/INFO]: TevesWang left the game
+[11:15:08] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[11:17:00] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[13:00:20] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[13:06:49] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
+[13:06:49] [Server thread/INFO]: NatsuhiLight left the game
+[13:10:13] [User Authenticator #6/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[13:10:13] [Server thread/INFO]: TevesWang[/71.227.249.29:52448] logged in with entity id 153777 at (-439.3135889180929, 68.0, 298.9947302630044)
+[13:10:13] [Server thread/INFO]: TevesWang joined the game
+[13:38:53] [Server thread/INFO]: Named entity bro['吉祥物'/163094, l='ServerLevel[world]', x=-433.50, y=68.27, z=300.50] died: 吉祥物 was slain by TevesWang using [悔恨]
+[13:40:09] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[13:40:09] [Server thread/INFO]: TevesWang left the game
+[13:40:37] [User Authenticator #7/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[13:40:37] [Server thread/INFO]: TevesWang[/71.227.249.29:53213] logged in with entity id 163851 at (-1975.3905163252555, 51.0, -1050.7914833584691)
+[13:40:37] [Server thread/INFO]: TevesWang joined the game
+[14:24:03] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[14:24:03] [Server thread/INFO]: TevesWang left the game
+[14:24:10] [User Authenticator #8/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[14:24:11] [Server thread/INFO]: TevesWang[/71.227.249.29:54462] logged in with entity id 171224 at (-438.11604939745166, 62.0, 292.49327230364923)
+[14:24:11] [Server thread/INFO]: TevesWang joined the game
+[14:37:12] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[14:37:12] [Server thread/INFO]: TevesWang left the game
+[14:37:24] [User Authenticator #9/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[14:37:24] [Server thread/INFO]: TevesWang[/71.227.249.29:54791] logged in with entity id 174095 at (-442.3717400840768, 68.0, 296.62575947604637)
+[14:37:24] [Server thread/INFO]: TevesWang joined the game
+[15:26:15] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[15:26:15] [Server thread/INFO]: TevesWang left the game
+[15:26:55] [User Authenticator #10/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[15:26:55] [Server thread/INFO]: TevesWang[/71.227.249.29:56353] logged in with entity id 191610 at (-437.6644256636312, 62.0, 291.6577193199063)
+[15:26:55] [Server thread/INFO]: TevesWang joined the game
+[15:35:33] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[15:35:33] [Server thread/INFO]: TevesWang left the game
+[15:35:46] [User Authenticator #11/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[15:35:46] [Server thread/INFO]: TevesWang[/71.227.249.29:56573] logged in with entity id 194913 at (-79.46442969887654, 222.0, -60.66464157967138)
+[15:35:46] [Server thread/INFO]: TevesWang joined the game
+[15:53:09] [User Authenticator #12/INFO]: UUID of player NatsuhiLight is 7f767bbd-7b53-4854-b609-d55903f49ed7
+[15:53:10] [Server thread/INFO]: NatsuhiLight[/114.42.140.233:59625] logged in with entity id 201709 at (-524.1998798454869, 64.0, 261.07412751794936)
+[15:53:10] [Server thread/INFO]: NatsuhiLight joined the game
+[15:53:34] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:53:41] [Server thread/INFO]: [NatsuhiLight: Teleported NatsuhiLight to TevesWang]
+[15:54:45] [Server thread/INFO]: [NatsuhiLight: Teleported NatsuhiLight to -199.500000, 120.000000, 200.500000]
+[15:55:07] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[15:56:56] [Server thread/WARN]: NatsuhiLight moved too quickly! 3.404744876215659,-8.266403541190831,4.613268894666021
+[15:57:02] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Spectator Mode]
+[15:57:57] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[16:00:05] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:00:12] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[16:10:42] [Server thread/INFO]: <TevesWang> ?
+[16:12:27] [Server thread/INFO]: <NatsuhiLight> 可是你家屋頂還是會出raid
+[16:12:40] [Server thread/INFO]: <TevesWang> 大概吧
+[16:12:58] [Server thread/INFO]: <NatsuhiLight> 8 su3e942k7c932u3ru 2u4y948s3 su32k2
+[16:13:06] [Server thread/INFO]: <NatsuhiLight> 阿你蓋的海底基地在哪
+[16:13:19] [Server thread/INFO]: <TevesWang> 秘密?
+[16:13:23] [Server thread/INFO]: <NatsuhiLight> 完工了?
+[16:13:28] [Server thread/INFO]: <TevesWang> 完工了
+[16:13:35] [Server thread/INFO]: <NatsuhiLight> 你有用海綿嗎
+[16:13:48] [Server thread/INFO]: <TevesWang> 清裡面的水要用海綿
+[16:14:35] [Server thread/INFO]: <TevesWang> 你去史萊姆農場就看的到了
+[16:14:51] [Server thread/INFO]: <NatsuhiLight> 我家後院這邊是誰蓋的啊
+[16:15:05] [Server thread/INFO]: <NatsuhiLight> 這全部清掉應該是用機器製的?
+[16:15:06] [Server thread/INFO]: <TevesWang> lien
+[16:15:11] [Server thread/INFO]: <TevesWang> 手挖的啊
+[16:15:54] [Server thread/INFO]: <NatsuhiLight> 77777
+[16:16:06] [Server thread/INFO]: <NatsuhiLight> 是我我就直接做機器開炸
+[16:16:19] [Server thread/INFO]: <TevesWang> 挖得比較快...
+[16:16:33] [Server thread/INFO]: <NatsuhiLight> 自動往前炸的欸
+[16:16:52] [Server thread/INFO]: <TevesWang> 石頭跟土都是瞬間挖
+[16:16:58] [Server thread/INFO]: <TevesWang> 所以挖得比較快
+[16:17:50] [Server thread/INFO]: <TevesWang> 除非你要一路炸山炸光 不然這一小片挖得比較快
+[16:19:18] [Server thread/INFO]: <TevesWang> 先下了 bye
+[16:19:21] [Server thread/INFO]: <NatsuhiLight> 88
+[16:19:25] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[16:19:25] [Server thread/INFO]: TevesWang left the game
+[16:22:08] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Creative Mode]
+[16:25:37] [Server thread/INFO]: [NatsuhiLight: Set own game mode to Survival Mode]
+[16:26:02] [Server thread/INFO]: NatsuhiLight lost connection: Disconnected
+[16:26:02] [Server thread/INFO]: NatsuhiLight left the game
+[16:33:02] [Server thread/INFO]: <Server> Server shutting down (closing by the system service)
+[16:33:02] [Server thread/INFO]: Saving the game (this may take a moment!)
+[16:33:02] [Server thread/INFO]: Saved the game
+[16:33:12] [Server thread/INFO]: Stopping the server
+[16:33:12] [Server thread/INFO]: Stopping server
+[16:33:12] [Server thread/INFO]: Saving players
+[16:33:12] [Server thread/INFO]: Saving worlds
+[16:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
