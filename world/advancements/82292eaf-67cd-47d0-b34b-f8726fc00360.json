@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2022-06-20 13:03:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2022-05-01 05:54:07 +0000"
@@ -4811,6 +4817,7 @@
       "golden_carrot": "2022-05-05 14:14:32 +0000",
       "cooked_rabbit": "2022-05-30 09:46:36 +0000",
       "cooked_chicken": "2022-04-29 14:15:45 +0000",
+      "mushroom_stew": "2022-06-20 09:20:54 +0000",
       "cooked_salmon": "2022-05-18 12:09:36 +0000",
       "carrot": "2022-05-01 11:03:30 +0000"
     },
@@ -5119,6 +5126,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2022-05-01 14:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2022-06-20 16:06:03 +0000"
     },
     "done": true
   },
