@@ -1,74 +1,73 @@
-[10:40:07] [ServerMain/INFO]: Building unoptimized datafixer
-[10:40:08] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[10:40:10] [ServerMain/INFO]: Loaded 7 recipes
-[10:40:11] [ServerMain/INFO]: Loaded 1179 advancements
-[10:40:12] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
-[10:40:12] [Server thread/INFO]: Starting minecraft server version 1.19
-[10:40:12] [Server thread/INFO]: Loading properties
-[10:40:12] [Server thread/INFO]: Default game type: SURVIVAL
-[10:40:12] [Server thread/INFO]: Generating keypair
-[10:40:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:40:12] [Server thread/INFO]: Using epoll channel type
-[10:40:13] [Server thread/INFO]: Preparing level "world"
-[10:40:16] [User Authenticator #1/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[10:40:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:40:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[10:40:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[10:40:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[10:40:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[10:40:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[10:40:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[10:40:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[10:40:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[10:40:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[10:40:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[10:40:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[10:40:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[10:40:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[10:40:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[10:40:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[10:40:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[10:40:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[10:40:41] [Worker-Main-1/INFO]: Preparing spawn area: 67%
-[10:40:42] [Server thread/INFO]: Time elapsed: 8870 ms
-[10:40:42] [Server thread/INFO]: Done (29.202s)! For help, type "help"
-[10:40:42] [Server thread/INFO]: TevesWang[/67.171.53.216:58596] logged in with entity id 70 at (-442.4362700298627, 68.0, 295.6932403770786)
-[10:40:42] [Server thread/INFO]: TevesWang joined the game
-[10:40:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[10:40:58] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[10:41:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[10:52:59] [Server thread/INFO]: [TevesWang: Set own game mode to Adventure Mode]
-[10:53:28] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[11:16:17] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[11:17:52] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[11:20:47] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[11:21:14] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[11:39:01] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[11:39:34] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[11:42:37] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[11:42:50] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[11:54:24] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[11:54:55] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[11:56:12] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[11:56:25] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[12:05:02] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[12:05:14] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[12:07:55] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[12:08:17] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[13:05:17] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[13:06:59] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[13:06:59] [Server thread/INFO]: TevesWang left the game
-[13:33:02] [Server thread/INFO]: <Server> Server shutting down (closing by the system service)
-[13:33:02] [Server thread/INFO]: Saving the game (this may take a moment!)
-[13:33:02] [Server thread/INFO]: Saved the game
-[13:33:12] [Server thread/INFO]: Stopping the server
-[13:33:12] [Server thread/INFO]: Stopping server
-[13:33:12] [Server thread/INFO]: Saving players
-[13:33:12] [Server thread/INFO]: Saving worlds
-[13:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[13:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[13:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[13:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08:02:54] [ServerMain/INFO]: Building unoptimized datafixer
+[08:02:56] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08:02:58] [ServerMain/INFO]: Loaded 7 recipes
+[08:02:59] [ServerMain/INFO]: Loaded 1179 advancements
+[08:03:00] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
+[08:03:00] [Server thread/INFO]: Starting minecraft server version 1.19
+[08:03:00] [Server thread/INFO]: Loading properties
+[08:03:00] [Server thread/INFO]: Default game type: SURVIVAL
+[08:03:00] [Server thread/INFO]: Generating keypair
+[08:03:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:03:00] [Server thread/INFO]: Using epoll channel type
+[08:03:00] [Server thread/INFO]: Preparing level "world"
+[08:03:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:03:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:03:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:03:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:03:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:03:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:03:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:03:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:03:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:03:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:03:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:03:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:03:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:03:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:03:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[08:03:27] [Worker-Main-1/INFO]: Preparing spawn area: 15%
+[08:03:28] [Server thread/INFO]: Time elapsed: 7531 ms
+[08:03:28] [Server thread/INFO]: Done (27.669s)! For help, type "help"
+[08:05:46] [User Authenticator #1/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
+[08:05:47] [Server thread/INFO]: piesOf314[/97.84.90.145:61788] logged in with entity id 1320 at (-468.86834023970397, 68.0, 258.9335882048963)
+[08:05:47] [Server thread/INFO]: piesOf314 joined the game
+[08:05:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
+[08:06:55] [User Authenticator #2/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[08:06:55] [Server thread/INFO]: TevesWang[/67.171.53.216:53112] logged in with entity id 4264 at (-441.01104867662593, -54.0, 325.24889268550425)
+[08:06:55] [Server thread/INFO]: TevesWang joined the game
+[08:07:50] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[08:07:50] [Server thread/INFO]: TevesWang left the game
+[08:09:09] [User Authenticator #3/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[08:09:09] [Server thread/INFO]: TevesWang[/67.171.53.216:53226] logged in with entity id 10246 at (-80.5, 129.0, 40.30268962009825)
+[08:09:09] [Server thread/INFO]: TevesWang joined the game
+[08:10:12] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[08:10:12] [Server thread/INFO]: TevesWang left the game
+[08:11:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@26b6bfe2[id=<null>,name=TevesWang,properties={},legacy=false] (/67.171.53.216:57883) lost connection: Disconnected
+[08:11:23] [User Authenticator #4/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[08:11:23] [Server thread/INFO]: TevesWang[/67.171.53.216:57906] logged in with entity id 14864 at (-550.2829788332044, 63.0, 271.5)
+[08:11:23] [Server thread/INFO]: TevesWang joined the game
+[08:30:32] [Server thread/WARN]: piesOf314 moved wrongly!
+[08:34:24] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[08:41:47] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[08:42:22] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[08:59:30] [Server thread/INFO]: piesOf314 lost connection: Disconnected
+[08:59:30] [Server thread/INFO]: piesOf314 left the game
+[09:09:31] [Server thread/INFO]: Villager bss['Villager'/66752, l='ServerLevel[world]', x=-478.75, y=76.56, z=350.53] died, message: 'Villager was slain by Zombie'
+[09:44:25] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[10:11:06] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[10:27:52] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[10:27:52] [Server thread/INFO]: TevesWang left the game
+[10:33:02] [Server thread/INFO]: <Server> Server shutting down (closing by the system service)
+[10:33:02] [Server thread/INFO]: Saving the game (this may take a moment!)
+[10:33:02] [Server thread/INFO]: Saved the game
+[10:33:12] [Server thread/INFO]: Stopping the server
+[10:33:12] [Server thread/INFO]: Stopping server
+[10:33:12] [Server thread/INFO]: Saving players
+[10:33:12] [Server thread/INFO]: Saving worlds
+[10:33:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:33:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10:33:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
