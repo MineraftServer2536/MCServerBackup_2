@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2022-12-26 08:20:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2022-05-07 07:13:16 +0000"
@@ -779,6 +785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2022-12-26 08:31:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab": {
     "criteria": {
       "has_end_stone_bricks": "2022-06-06 16:44:14 +0000"
@@ -857,6 +869,12 @@
       "minecraft:drowned": "2022-05-11 04:17:47 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2022-12-26 07:09:27 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
@@ -1353,6 +1371,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2022-06-18 06:50:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2022-12-26 08:31:57 +0000"
     },
     "done": true
   },
@@ -2074,6 +2098,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2022-12-26 06:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2022-05-11 03:41:17 +0000"
@@ -2089,6 +2119,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2022-05-15 14:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2022-12-26 06:29:39 +0000"
     },
     "done": true
   },
@@ -2575,6 +2611,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2022-05-07 05:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2022-12-26 06:29:39 +0000"
     },
     "done": true
   },
@@ -3356,6 +3398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2022-12-26 08:31:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2022-05-07 04:29:25 +0000"
@@ -3431,6 +3479,12 @@
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2022-05-07 05:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2022-12-26 07:10:24 +0000"
     },
     "done": true
   },
