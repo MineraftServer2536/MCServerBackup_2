@@ -1,569 +1,82 @@
-[13:09:19] [ServerMain/INFO]: Building unoptimized datafixer
-[13:09:20] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13:09:23] [ServerMain/INFO]: Loaded 7 recipes
-[13:09:23] [ServerMain/INFO]: Loaded 1179 advancements
-[13:09:25] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
-[13:09:25] [Server thread/INFO]: Starting minecraft server version 1.19
-[13:09:25] [Server thread/INFO]: Loading properties
-[13:09:25] [Server thread/INFO]: Default game type: SURVIVAL
-[13:09:25] [Server thread/INFO]: Generating keypair
-[13:09:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:09:25] [Server thread/INFO]: Using epoll channel type
-[13:09:25] [Server thread/INFO]: Preparing level "world"
-[13:09:44] [User Authenticator #1/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[13:09:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:09:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:09:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:09:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:09:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:09:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:09:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:09:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:09:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:09:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:09:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:09:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:09:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:09:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:09:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:09:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:09:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:09:53] [Worker-Main-1/INFO]: Preparing spawn area: 44%
-[13:09:53] [Server thread/INFO]: Time elapsed: 8478 ms
-[13:09:53] [Server thread/INFO]: Done (27.946s)! For help, type "help"
-[13:09:54] [Server thread/INFO]: TevesWang[/67.171.53.216:51979] logged in with entity id 69 at (-439.77352626349943, 68.0, 295.95233253616607)
-[13:09:54] [Server thread/INFO]: TevesWang joined the game
-[13:09:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
-[13:10:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4936ms or 98 ticks behind
-[13:23:38] [Server thread/INFO]: [TevesWang: Set own game mode to Spectator Mode]
-[13:25:27] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[13:34:25] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[13:34:25] [Server thread/INFO]: TevesWang left the game
-[13:47:17] [User Authenticator #2/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[13:47:17] [Server thread/INFO]: TevesWang[/67.171.53.216:52326] logged in with entity id 13199 at (-60.46892653496215, 53.5, 7.72719338077307)
-[13:47:17] [Server thread/INFO]: TevesWang joined the game
-[13:47:35] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[13:47:35] [Server thread/INFO]: TevesWang left the game
-[13:59:46] [User Authenticator #3/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[13:59:46] [Server thread/INFO]: TevesWang[/67.171.53.216:52393] logged in with entity id 13503 at (-60.446146528360266, 53.5, 7.513524363983533)
-[13:59:46] [Server thread/INFO]: TevesWang joined the game
-[14:04:25] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[14:04:25] [Server thread/INFO]: TevesWang left the game
-[14:05:12] [User Authenticator #4/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[14:05:12] [Server thread/INFO]: TevesWang[/67.171.53.216:52423] logged in with entity id 14416 at (-72.9395318974214, 59.37820263395849, 15.488670677963924)
-[14:05:12] [Server thread/INFO]: TevesWang joined the game
-[14:14:32] [Server thread/INFO]: [TevesWang: Successfully filled 16 blocks]
-[14:14:32] [Server thread/INFO]: [TevesWang: Successfully filled 16 blocks]
-[14:14:32] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 21 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 16 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 16 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 48 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 16 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 16 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 16 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 16 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 16 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 96 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 32 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 16 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -70, 48, 18]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -70, 48, 21]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -70, 48, 24]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -70, 48, 27]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -70, 48, 28]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -70, 48, 29]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -70, 48, 30]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -70, 48, 31]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 96 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 24 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 16 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 16 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 96 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 15 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 28 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 7 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 6 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -74, 50, 38]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 7 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 7 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 21 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 6 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -73, 51, 38]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -73, 49, 40]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -73, 50, 40]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -73, 50, 41]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -73, 51, 41]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 7 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 6 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -72, 51, 38]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -72, 50, 40]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -72, 51, 40]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -72, 50, 41]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -72, 48, 43]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -72, 49, 43]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -72, 47, 45]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -72, 48, 45]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -72, 48, 46]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -72, 49, 46]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 7 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 7 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -71, 49, 40]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -71, 50, 40]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -71, 50, 41]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -71, 50, 42]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -71, 51, 42]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -71, 48, 43]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -71, 49, 43]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -71, 50, 43]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -71, 48, 45]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -71, 49, 45]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -71, 48, 46]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 60 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -70, 48, 32]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 14 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 7 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 6 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -70, 51, 39]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -70, 50, 40]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -70, 51, 40]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -70, 48, 41]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -70, 50, 41]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -70, 49, 42]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -70, 50, 42]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -70, 48, 43]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -70, 49, 43]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -70, 50, 43]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -70, 51, 43]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -70, 47, 45]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -70, 48, 45]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -70, 48, 46]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 60 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 9 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 9 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -69, 50, 39]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -69, 50, 41]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -69, 50, 42]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 6 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -69, 48, 43]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -69, 49, 43]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -69, 50, 43]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -69, 48, 44]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -69, 49, 44]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -69, 48, 45]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -69, 48, 46]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -69, 49, 46]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 60 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 4 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -68, 50, 40]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 6 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 6 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -68, 49, 43]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -68, 48, 44]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -68, 47, 45]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -68, 48, 45]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -68, 48, 46]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -67, 48, 45]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 152 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 282 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 16 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 4 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 4 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 10 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 13 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 4 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 5 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 17 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 5 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -74, 50, 11]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 5 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 26 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 4 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 5 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 5 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 15 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -73, 51, 11]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 4 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 5 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -72, 51, 11]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 4 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 5 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 5 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -70, 52, 9]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -70, 52, 10]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 30 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 10 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 5 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -70, 48, 14]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -70, 48, 15]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -69, 51, 7]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -69, 52, 7]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -69, 53, 7]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -69, 52, 8]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -69, 52, 9]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -69, 54, 9]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 6 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 6 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 30 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 75 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -68, 51, 5]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -68, 52, 5]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -68, 51, 6]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -68, 52, 6]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -68, 53, 6]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -68, 51, 7]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -68, 52, 7]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -68, 53, 7]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -68, 54, 7]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -68, 55, 7]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -68, 56, 7]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -68, 55, 8]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -68, 55, 9]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 24 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -68, 52, 10]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 30 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 9 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 6 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 6 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -67, 50, 7]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -67, 51, 7]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -67, 52, 7]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -67, 53, 7]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -67, 56, 7]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -67, 52, 8]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -67, 53, 8]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -67, 55, 8]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -67, 51, 9]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -67, 52, 9]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -67, 53, 9]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -67, 54, 9]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 77 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -66, 50, 7]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -66, 51, 7]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 4 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 4 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -66, 51, 9]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -66, 52, 9]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -65, 50, 7]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -65, 51, 7]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -65, 50, 9]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -65, 51, 9]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -65, 52, 9]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Minecart with Hopper]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:14:33] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 140 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 4 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 18 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 34 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 16 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 8 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -64, 50, 7]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -64, 51, 7]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -64, 50, 8]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -64, 51, 8]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 18 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -64, 51, 9]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 9 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 215 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -63, 50, 7]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -63, 51, 7]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 4 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 10 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 11 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -62, 50, 7]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -62, 51, 7]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 32 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Successfully filled 6 blocks]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -61, 50, 4]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -61, 51, 4]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -61, 49, 5]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -61, 50, 5]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -61, 51, 5]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -61, 50, 6]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -61, 51, 6]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -61, 50, 7]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -61, 51, 7]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -61, 49, 8]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -61, 50, 8]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -61, 51, 8]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -61, 50, 9]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -61, 51, 9]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -61, 52, 9]
-[14:14:33] [Server thread/INFO]: [TevesWang: Changed the block at -61, 53, 9]
-[14:14:34] [Server thread/INFO]: Named entity brv['十抽送一'/14442, l='ServerLevel[world]', x=-64.30, y=32.00, z=13.70] died: 十抽送一 fell from a high place
-[14:14:34] [Server thread/INFO]: Named entity brv['百抽保底'/14443, l='ServerLevel[world]', x=-66.70, y=32.00, z=13.56] died: 百抽保底 fell from a high place
-[14:18:44] [Server thread/INFO]: [TevesWang: Changed the block at -61, 51, 4]
-[14:18:44] [Server thread/INFO]: [TevesWang: Changed the block at -61, 50, 5]
-[14:18:44] [Server thread/INFO]: [TevesWang: Changed the block at -61, 50, 6]
-[14:18:44] [Server thread/INFO]: [TevesWang: Changed the block at -73, 51, 11]
-[14:18:44] [Server thread/INFO]: [TevesWang: Successfully filled 4 blocks]
-[14:18:44] [Server thread/INFO]: [TevesWang: Changed the block at -72, 51, 11]
-[14:18:44] [Server thread/INFO]: [TevesWang: Successfully filled 4 blocks]
-[14:18:44] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Minecart with Hopper]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:18:44] [Server thread/INFO]: [TevesWang: Successfully filled 16 blocks]
-[14:18:44] [Server thread/INFO]: [TevesWang: Successfully filled 16 blocks]
-[14:18:44] [Server thread/INFO]: [TevesWang: Successfully filled 16 blocks]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Successfully filled 6 blocks]
-[14:18:44] [Server thread/INFO]: [TevesWang: Changed the block at -73, 51, 38]
-[14:18:44] [Server thread/INFO]: [TevesWang: Successfully filled 6 blocks]
-[14:18:44] [Server thread/INFO]: [TevesWang: Changed the block at -72, 51, 38]
-[14:18:44] [Server thread/INFO]: [TevesWang: Successfully filled 7 blocks]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:44] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:45] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:45] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:45] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:18:45] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:27:24] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[14:27:24] [Server thread/INFO]: TevesWang left the game
-[14:29:46] [User Authenticator #5/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[14:29:46] [Server thread/INFO]: TevesWang[/67.171.53.216:52612] logged in with entity id 22109 at (-72.4544952173803, 52.68008622750043, 8.661917083897782)
-[14:29:46] [Server thread/INFO]: TevesWang joined the game
-[14:36:05] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[14:36:05] [Server thread/INFO]: TevesWang left the game
-[14:36:23] [User Authenticator #6/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[14:36:23] [Server thread/INFO]: TevesWang[/67.171.53.216:52684] logged in with entity id 22863 at (-72.4544952173803, 52.68008622750043, 8.661917083897782)
-[14:36:23] [Server thread/INFO]: TevesWang joined the game
-[14:37:20] [Server thread/INFO]: [TevesWang: Successfully filled 16 blocks]
-[14:37:20] [Server thread/INFO]: [TevesWang: Successfully filled 16 blocks]
-[14:37:20] [Server thread/INFO]: [TevesWang: Successfully filled 16 blocks]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Changed the block at -73, 51, 11]
-[14:37:20] [Server thread/INFO]: [TevesWang: Successfully filled 4 blocks]
-[14:37:20] [Server thread/INFO]: [TevesWang: Changed the block at -72, 51, 11]
-[14:37:20] [Server thread/INFO]: [TevesWang: Successfully filled 4 blocks]
-[14:37:20] [Server thread/INFO]: [TevesWang: Successfully filled 4 blocks]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Minecart with Hopper]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Piglin]
-[14:37:20] [Server thread/INFO]: [TevesWang: Successfully filled 6 blocks]
-[14:37:20] [Server thread/INFO]: [TevesWang: Changed the block at -73, 51, 38]
-[14:37:20] [Server thread/INFO]: [TevesWang: Successfully filled 6 blocks]
-[14:37:20] [Server thread/INFO]: [TevesWang: Changed the block at -72, 51, 38]
-[14:37:20] [Server thread/INFO]: [TevesWang: Successfully filled 7 blocks]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:37:20] [Server thread/INFO]: [TevesWang: Summoned new Glow Item Frame]
-[14:59:34] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[14:59:34] [Server thread/INFO]: TevesWang left the game
-[15:00:05] [User Authenticator #7/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[15:00:05] [Server thread/INFO]: TevesWang[/67.171.53.216:64174] logged in with entity id 24725 at (-64.38898559605578, 53.36160231265515, 3.8466243360241004)
-[15:00:05] [Server thread/INFO]: TevesWang joined the game
-[15:57:25] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[15:57:25] [Server thread/INFO]: TevesWang left the game
-[16:03:02] [Server thread/INFO]: <Server> Server shutting down (closing by the system service)
-[16:03:02] [Server thread/INFO]: Saving the game (this may take a moment!)
-[16:03:02] [Server thread/INFO]: Saved the game
-[16:03:12] [Server thread/INFO]: Stopping the server
-[16:03:12] [Server thread/INFO]: Stopping server
-[16:03:12] [Server thread/INFO]: Saving players
-[16:03:12] [Server thread/INFO]: Saving worlds
-[16:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:39:19] [ServerMain/INFO]: Building unoptimized datafixer
+[00:39:20] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:39:22] [ServerMain/INFO]: Loaded 7 recipes
+[00:39:23] [ServerMain/INFO]: Loaded 1179 advancements
+[00:39:24] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
+[00:39:24] [Server thread/INFO]: Starting minecraft server version 1.19
+[00:39:24] [Server thread/INFO]: Loading properties
+[00:39:24] [Server thread/INFO]: Default game type: SURVIVAL
+[00:39:24] [Server thread/INFO]: Generating keypair
+[00:39:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:39:24] [Server thread/INFO]: Using epoll channel type
+[00:39:24] [Server thread/INFO]: Preparing level "world"
+[00:39:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:39:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:39:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:39:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:39:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:39:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:39:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:39:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:39:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:39:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:39:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:39:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:39:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:39:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:39:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:39:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:39:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:39:51] [Worker-Main-1/INFO]: Preparing spawn area: 7%
+[00:39:52] [Server thread/INFO]: Time elapsed: 8428 ms
+[00:39:52] [Server thread/INFO]: Done (27.324s)! For help, type "help"
+[00:42:08] [User Authenticator #1/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[00:42:09] [Server thread/INFO]: TevesWang[/67.171.53.216:63048] logged in with entity id 2398 at (-62.742914914493355, 53.0, 6.975118341334655)
+[00:42:09] [Server thread/INFO]: TevesWang joined the game
+[00:42:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2216ms or 44 ticks behind
+[01:51:58] [Server thread/INFO]: [TevesWang: Killed 20 entities]
+[01:52:12] [Server thread/INFO]: [TevesWang: Killed 3 entities]
+[01:52:19] [Server thread/INFO]: [TevesWang: Killed Piglin]
+[01:55:55] [Server thread/INFO]: [TevesWang: Killed 25 entities]
+[01:56:07] [Server thread/INFO]: [TevesWang: Killed Piglin]
+[01:57:18] [Server thread/INFO]: [TevesWang: Killed Piglin]
+[01:57:44] [Server thread/INFO]: [TevesWang: Killed 2 entities]
+[01:59:03] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[01:59:03] [Server thread/INFO]: TevesWang left the game
+[01:59:35] [User Authenticator #2/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[01:59:35] [Server thread/INFO]: TevesWang[/67.171.53.216:63535] logged in with entity id 21916 at (-64.4329752418004, 55.200000047683716, 14.14761081676853)
+[01:59:35] [Server thread/INFO]: TevesWang joined the game
+[02:01:42] [Server thread/INFO]: [TevesWang: Killed 25 entities]
+[02:01:51] [Server thread/INFO]: [TevesWang: Killed 2 entities]
+[02:01:57] [Server thread/INFO]: [TevesWang: Killed 4 entities]
+[02:02:02] [Server thread/INFO]: [TevesWang: Killed Piglin]
+[02:02:18] [Server thread/INFO]: [TevesWang: Killed Piglin]
+[02:02:37] [Server thread/INFO]: [TevesWang: Killed 6 entities]
+[02:02:53] [Server thread/INFO]: [TevesWang: Killed Piglin]
+[02:03:14] [Server thread/INFO]: [TevesWang: Killed Piglin]
+[02:03:45] [Server thread/INFO]: [TevesWang: Killed 3 entities]
+[02:05:49] [Server thread/INFO]: [TevesWang: Killed 9 entities]
+[02:05:52] [Server thread/INFO]: [TevesWang: Killed 3 entities]
+[02:08:58] [Server thread/INFO]: [TevesWang: Killed 4 entities]
+[02:09:32] [Server thread/INFO]: [TevesWang: Killed Piglin]
+[02:16:49] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[02:16:49] [Server thread/INFO]: TevesWang left the game
+[02:17:05] [User Authenticator #3/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[02:17:06] [Server thread/INFO]: TevesWang[/67.171.53.216:63644] logged in with entity id 27242 at (-61.67078120817657, 53.0, 7.6357106170995745)
+[02:17:06] [Server thread/INFO]: TevesWang joined the game
+[02:56:51] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[02:56:51] [Server thread/INFO]: TevesWang left the game
+[03:33:02] [Server thread/INFO]: <Server> Server shutting down (closing by the system service)
+[03:33:02] [Server thread/INFO]: Saving the game (this may take a moment!)
+[03:33:02] [Server thread/INFO]: Saved the game
+[03:33:12] [Server thread/INFO]: Stopping the server
+[03:33:12] [Server thread/INFO]: Stopping server
+[03:33:12] [Server thread/INFO]: Saving players
+[03:33:12] [Server thread/INFO]: Saving worlds
+[03:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
