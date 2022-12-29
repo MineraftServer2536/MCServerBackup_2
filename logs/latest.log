@@ -1,76 +1,61 @@
-[01:16:56] [ServerMain/INFO]: Building unoptimized datafixer
-[01:16:58] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:17:02] [ServerMain/INFO]: Loaded 7 recipes
-[01:17:02] [ServerMain/INFO]: Loaded 1179 advancements
-[01:17:04] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
-[01:17:04] [Server thread/INFO]: Starting minecraft server version 1.19
-[01:17:04] [Server thread/INFO]: Loading properties
-[01:17:04] [Server thread/INFO]: Default game type: SURVIVAL
-[01:17:04] [Server thread/INFO]: Generating keypair
-[01:17:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:17:04] [Server thread/INFO]: Using epoll channel type
-[01:17:04] [Server thread/INFO]: Preparing level "world"
-[01:17:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:17:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:17:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:17:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:17:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:17:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:17:31] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[01:17:31] [Server thread/INFO]: Time elapsed: 7910 ms
-[01:17:31] [Server thread/INFO]: Done (27.043s)! For help, type "help"
-[01:17:34] [User Authenticator #1/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[01:17:34] [Server thread/INFO]: TevesWang[/67.171.53.216:50113] logged in with entity id 158 at (-62.571202327274165, 53.0, 9.210432095445661)
-[01:17:34] [Server thread/INFO]: TevesWang joined the game
-[01:17:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2397ms or 47 ticks behind
-[01:26:48] [Server thread/WARN]: TevesWang moved too quickly! -0.003852199318004068,0.0,-10.888807818024787
-[01:28:38] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[01:29:52] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[01:32:27] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -439.414003, -54.000000, -5499.500000]
-[01:32:27] [Server thread/WARN]: TevesWang moved too quickly! 0.0,-122.0,-5784.185636167827
-[01:32:42] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -369.500000, -54.000000, -5499.500000]
-[01:32:55] [Server thread/INFO]: [TevesWang: Set own game mode to Spectator Mode]
-[01:33:27] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[01:47:11] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[02:14:51] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[02:15:10] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[02:15:26] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[02:17:28] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[02:19:02] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[02:20:55] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[02:24:39] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[02:25:25] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[02:27:23] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[02:34:38] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[02:37:34] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[02:37:52] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[02:38:19] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[02:39:37] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[02:44:14] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[02:46:13] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[02:50:42] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[02:50:42] [Server thread/INFO]: TevesWang left the game
-[03:03:02] [Server thread/INFO]: <Server> Server shutting down (closing by the system service)
-[03:03:02] [Server thread/INFO]: Saving the game (this may take a moment!)
-[03:03:02] [Server thread/INFO]: Saved the game
-[03:03:12] [Server thread/INFO]: Stopping the server
-[03:03:12] [Server thread/INFO]: Stopping server
-[03:03:12] [Server thread/INFO]: Saving players
-[03:03:12] [Server thread/INFO]: Saving worlds
-[03:03:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:03:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03:03:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03:03:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:03:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:03:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:03:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:06:38] [ServerMain/INFO]: Building unoptimized datafixer
+[05:06:39] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:06:42] [ServerMain/INFO]: Loaded 7 recipes
+[05:06:42] [ServerMain/INFO]: Loaded 1179 advancements
+[05:06:43] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
+[05:06:43] [Server thread/INFO]: Starting minecraft server version 1.19
+[05:06:43] [Server thread/INFO]: Loading properties
+[05:06:43] [Server thread/INFO]: Default game type: SURVIVAL
+[05:06:43] [Server thread/INFO]: Generating keypair
+[05:06:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:06:44] [Server thread/INFO]: Using epoll channel type
+[05:06:44] [Server thread/INFO]: Preparing level "world"
+[05:07:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:07:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:07:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:07:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:07:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:07:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:07:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:07:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:07:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:07:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:07:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:07:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:07:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:07:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:07:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:07:10] [Worker-Main-1/INFO]: Preparing spawn area: 3%
+[05:07:10] [Worker-Main-1/INFO]: Preparing spawn area: 3%
+[05:07:11] [Worker-Main-1/INFO]: Preparing spawn area: 11%
+[05:07:11] [Server thread/INFO]: Time elapsed: 8465 ms
+[05:07:11] [Server thread/INFO]: Done (27.674s)! For help, type "help"
+[05:07:21] [User Authenticator #1/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[05:07:21] [Server thread/INFO]: TevesWang[/67.171.53.216:55094] logged in with entity id 382 at (-534.8527053606982, -39.0, -5557.699999988079)
+[05:07:21] [Server thread/INFO]: TevesWang joined the game
+[05:07:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4248ms or 84 ticks behind
+[05:09:13] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[05:09:32] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[05:10:48] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[05:10:55] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[05:12:28] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[05:15:47] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[05:16:02] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[05:20:09] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[05:20:16] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[05:22:23] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[05:22:23] [Server thread/INFO]: TevesWang left the game
+[05:33:03] [Server thread/INFO]: <Server> Server shutting down (closing by the system service)
+[05:33:03] [Server thread/INFO]: Saving the game (this may take a moment!)
+[05:33:03] [Server thread/INFO]: Saved the game
+[05:33:13] [Server thread/INFO]: Stopping the server
+[05:33:13] [Server thread/INFO]: Stopping server
+[05:33:13] [Server thread/INFO]: Saving players
+[05:33:13] [Server thread/INFO]: Saving worlds
+[05:33:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:33:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:33:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
