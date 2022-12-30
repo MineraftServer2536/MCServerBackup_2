@@ -725,6 +725,12 @@
     },
     "done": true
   },
+  "minecraft:nether/all_potions": {
+    "criteria": {
+      "all_effects": "2022-12-30 09:54:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2022-05-06 05:44:22 +0000"
