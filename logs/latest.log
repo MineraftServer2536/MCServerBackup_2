@@ -1,121 +1,47 @@
-[01:06:37] [ServerMain/INFO]: Building unoptimized datafixer
-[01:06:39] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:06:41] [ServerMain/INFO]: Loaded 7 recipes
-[01:06:41] [ServerMain/INFO]: Loaded 1179 advancements
-[01:06:43] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
-[01:06:43] [Server thread/INFO]: Starting minecraft server version 1.19
-[01:06:43] [Server thread/INFO]: Loading properties
-[01:06:43] [Server thread/INFO]: Default game type: SURVIVAL
-[01:06:43] [Server thread/INFO]: Generating keypair
-[01:06:43] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:06:43] [Server thread/INFO]: Using epoll channel type
-[01:06:43] [Server thread/INFO]: Preparing level "world"
-[01:06:45] [User Authenticator #1/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[01:07:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:07:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:07:11] [Worker-Main-1/INFO]: Preparing spawn area: 11%
-[01:07:12] [Server thread/INFO]: Time elapsed: 9144 ms
-[01:07:12] [Server thread/INFO]: Done (28.802s)! For help, type "help"
-[01:07:13] [Server thread/INFO]: TevesWang[/67.171.53.216:64930] logged in with entity id 163 at (-406.91278647512576, 63.0, 138.00733284144883)
-[01:07:13] [Server thread/INFO]: TevesWang joined the game
-[01:07:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[01:07:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3497ms or 69 ticks behind
-[01:52:23] [Server thread/WARN]: TevesWang moved wrongly!
-[01:56:49] [Server thread/INFO]: [TevesWang: Set own game mode to Spectator Mode]
-[01:57:44] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[02:23:30] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[02:43:07] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[04:28:02] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[04:28:41] [Server thread/INFO]: [TevesWang: Set own game mode to Spectator Mode]
-[04:29:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[04:29:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5495ms or 109 ticks behind
-[04:31:06] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[04:31:54] [User Authenticator #2/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
-[04:31:54] [Server thread/INFO]: piesOf314[/97.84.90.145:53026] logged in with entity id 596659 at (96.2209973268389, 49.0, -3.0502407302216343)
-[04:31:54] [Server thread/INFO]: piesOf314 joined the game
-[04:32:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[04:33:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20380ms or 407 ticks behind
-[04:33:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12292ms or 245 ticks behind
-[04:34:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8964ms or 179 ticks behind
-[04:34:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8827ms or 176 ticks behind
-[04:35:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9476ms or 189 ticks behind
-[04:36:02] [Server thread/INFO]: piesOf314 lost connection: Disconnected
-[04:36:02] [Server thread/INFO]: piesOf314 left the game
-[04:36:55] [User Authenticator #3/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
-[04:36:55] [Server thread/INFO]: piesOf314[/97.84.90.145:53282] logged in with entity id 609511 at (-400.07299388883865, 63.0, 139.19206732432517)
-[04:36:55] [Server thread/INFO]: piesOf314 joined the game
-[04:37:10] [Server thread/INFO]: piesOf314 lost connection: Disconnected
-[04:37:10] [Server thread/INFO]: piesOf314 left the game
-[04:37:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[04:38:03] [User Authenticator #4/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
-[04:38:03] [Server thread/INFO]: piesOf314[/97.84.90.145:53417] logged in with entity id 612597 at (-402.92562015961516, 63.0, 140.60954943839997)
-[04:38:03] [Server thread/INFO]: piesOf314 joined the game
-[04:38:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6835ms or 136 ticks behind
-[04:38:21] [Server thread/INFO]: piesOf314 lost connection: Disconnected
-[04:38:21] [Server thread/INFO]: piesOf314 left the game
-[04:38:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5680ms or 113 ticks behind
-[04:38:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4688ms or 93 ticks behind
-[04:39:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3670ms or 73 ticks behind
-[04:39:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4338ms or 86 ticks behind
-[04:39:25] [User Authenticator #5/INFO]: UUID of player piesOf314 is fb357c76-1952-4fa8-bad1-6dd494376e4f
-[04:39:26] [Server thread/INFO]: piesOf314[/97.84.90.145:53563] logged in with entity id 615331 at (-399.20643957686144, 63.0, 147.81173177121076)
-[04:39:26] [Server thread/INFO]: piesOf314 joined the game
-[04:39:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7307ms or 146 ticks behind
-[04:40:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5238ms or 104 ticks behind
-[04:42:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[04:43:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5315ms or 106 ticks behind
-[04:43:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6285ms or 125 ticks behind
-[04:43:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5556ms or 111 ticks behind
-[04:44:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6456ms or 129 ticks behind
-[04:44:14] [Server thread/INFO]: [TevesWang: Set own game mode to Spectator Mode]
-[04:44:18] [Server thread/INFO]: [piesOf314: Set own game mode to Creative Mode]
-[04:44:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4978ms or 99 ticks behind
-[04:44:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4890ms or 97 ticks behind
-[04:45:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5646ms or 112 ticks behind
-[04:45:36] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[04:47:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[04:47:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11624ms or 232 ticks behind
-[04:48:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8993ms or 179 ticks behind
-[04:48:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9201ms or 184 ticks behind
-[04:49:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7629ms or 152 ticks behind
-[04:49:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7184ms or 143 ticks behind
-[04:49:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6159ms or 123 ticks behind
-[04:50:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4962ms or 99 ticks behind
-[04:51:20] [Server thread/INFO]: [piesOf314: Set own game mode to Survival Mode]
-[04:52:16] [Server thread/INFO]: piesOf314 lost connection: Disconnected
-[04:52:16] [Server thread/INFO]: piesOf314 left the game
-[04:52:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[04:52:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9108ms or 182 ticks behind
-[04:53:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7681ms or 153 ticks behind
-[04:53:24] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[04:53:24] [Server thread/INFO]: TevesWang left the game
-[05:03:02] [Server thread/INFO]: <Server> Server shutting down (closing by the system service)
-[05:03:02] [Server thread/INFO]: Saving the game (this may take a moment!)
-[05:03:02] [Server thread/INFO]: Saved the game
-[05:03:12] [Server thread/INFO]: Stopping the server
-[05:03:12] [Server thread/INFO]: Stopping server
-[05:03:12] [Server thread/INFO]: Saving players
-[05:03:12] [Server thread/INFO]: Saving worlds
-[05:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[05:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[05:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06:03:08] [ServerMain/INFO]: Building unoptimized datafixer
+[06:03:10] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06:03:13] [ServerMain/INFO]: Loaded 7 recipes
+[06:03:13] [ServerMain/INFO]: Loaded 1179 advancements
+[06:03:14] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
+[06:03:14] [Server thread/INFO]: Starting minecraft server version 1.19
+[06:03:14] [Server thread/INFO]: Loading properties
+[06:03:14] [Server thread/INFO]: Default game type: SURVIVAL
+[06:03:14] [Server thread/INFO]: Generating keypair
+[06:03:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:03:15] [Server thread/INFO]: Using epoll channel type
+[06:03:15] [Server thread/INFO]: Preparing level "world"
+[06:03:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:03:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:03:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:03:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:03:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:03:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:03:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:03:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:03:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:03:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:03:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:03:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:03:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:03:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:03:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:03:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:03:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:03:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[06:03:42] [Worker-Main-1/INFO]: Preparing spawn area: 20%
+[06:03:43] [Server thread/INFO]: Time elapsed: 8976 ms
+[06:03:43] [Server thread/INFO]: Done (28.084s)! For help, type "help"
+[06:33:02] [Server thread/INFO]: <Server> Server shutting down (closing by the system service)
+[06:33:02] [Server thread/INFO]: Saving the game (this may take a moment!)
+[06:33:02] [Server thread/INFO]: Saved the game
+[06:33:12] [Server thread/INFO]: Stopping the server
+[06:33:12] [Server thread/INFO]: Stopping server
+[06:33:12] [Server thread/INFO]: Saving players
+[06:33:12] [Server thread/INFO]: Saving worlds
+[06:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
