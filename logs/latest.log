@@ -1,164 +1,57 @@
-[09:24:40] [ServerMain/INFO]: Building unoptimized datafixer
-[09:24:41] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[09:24:45] [ServerMain/INFO]: Loaded 7 recipes
-[09:24:46] [ServerMain/INFO]: Loaded 1179 advancements
-[09:24:48] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
-[09:24:48] [Server thread/INFO]: Starting minecraft server version 1.19
-[09:24:48] [Server thread/INFO]: Loading properties
-[09:24:48] [Server thread/INFO]: Default game type: SURVIVAL
-[09:24:48] [Server thread/INFO]: Generating keypair
-[09:24:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:24:48] [Server thread/INFO]: Using epoll channel type
-[09:24:48] [Server thread/INFO]: Preparing level "world"
-[09:25:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[09:25:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:25:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:25:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:25:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:25:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:25:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:25:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:25:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:25:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:25:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:25:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:25:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:25:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:25:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:25:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:25:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:25:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:25:17] [Worker-Main-1/INFO]: Preparing spawn area: 66%
-[09:25:17] [Server thread/INFO]: Time elapsed: 8814 ms
-[09:25:17] [Server thread/INFO]: Done (28.753s)! For help, type "help"
-[09:28:02] [User Authenticator #1/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[09:28:03] [Server thread/INFO]: TevesWang[/67.171.53.216:57518] logged in with entity id 1009 at (-79.61350039505326, 219.0, -60.483859514092764)
-[09:28:03] [Server thread/INFO]: TevesWang joined the game
-[09:29:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3268ms or 65 ticks behind
-[09:29:27] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[09:29:27] [Server thread/INFO]: TevesWang left the game
-[09:29:27] [Server thread/WARN]: handleDisconnection() called twice
-[09:30:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@4cd4e3d0[id=<null>,name=TevesWang,properties={},legacy=false] (/67.171.53.216:57582) lost connection: Disconnected
-[09:30:28] [User Authenticator #2/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[09:30:28] [Server thread/INFO]: TevesWang[/67.171.53.216:57599] logged in with entity id 4748 at (-549.5531118491581, 63.0, 271.5)
-[09:30:28] [Server thread/INFO]: TevesWang joined the game
-[09:31:19] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[09:36:08] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[09:36:08] [Server thread/INFO]: TevesWang left the game
-[09:44:30] [User Authenticator #3/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[09:44:30] [Server thread/INFO]: TevesWang[/67.171.53.216:62549] logged in with entity id 16354 at (-476.493680177418, 62.0, 305.9087910913679)
-[09:44:30] [Server thread/INFO]: TevesWang joined the game
-[09:59:22] [Server thread/WARN]: TevesWang moved too quickly! -0.5859926195050775,16.570854125417696,0.4561543362343059
-[10:01:10] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[10:01:26] [Server thread/WARN]: TevesWang moved too quickly! -0.656471979741525,13.694859411058303,0.4453530566791528
-[10:01:51] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[10:02:02] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[10:02:19] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[10:02:41] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[10:02:54] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[10:03:01] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[10:04:14] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[10:05:01] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[10:07:34] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[10:07:54] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[10:08:24] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[10:09:24] [Server thread/WARN]: TevesWang moved too quickly! 0.06657749508281086,27.54843988174065,1.508983442694273
-[10:09:59] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[10:09:59] [Server thread/INFO]: TevesWang left the game
-[10:11:37] [User Authenticator #4/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[10:11:38] [Server thread/INFO]: TevesWang[/67.171.53.216:62824] logged in with entity id 63064 at (-476.30000001192093, 62.0, 303.20144063209256)
-[10:11:38] [Server thread/INFO]: TevesWang joined the game
-[10:12:43] [Server thread/WARN]: TevesWang moved too quickly! -0.29859016597811205,21.68400583526386,-0.2170479519871833
-[10:13:00] [Server thread/WARN]: TevesWang moved too quickly! 0.13769816218132291,22.043653999000043,-0.6889424591137185
-[10:13:11] [Server thread/WARN]: TevesWang moved too quickly! -0.030483301271772234,18.271472652387985,-0.10883959449591885
-[10:13:34] [Server thread/WARN]: TevesWang moved too quickly! -0.009970387291559746,19.593745584963102,-0.5715608747131569
-[10:14:03] [Server thread/WARN]: TevesWang moved too quickly! -0.1641015056809465,24.58438217507738,2.8826069066641935
-[10:14:15] [Server thread/WARN]: TevesWang moved too quickly! -0.026560249686724546,23.467397843082125,-0.18593034024718236
-[10:19:54] [Server thread/WARN]: TevesWang moved too quickly! -0.16625789577591377,26.37639298716053,0.29219403372582065
-[10:20:10] [Server thread/WARN]: TevesWang moved too quickly! -1.7617005355434117,24.100590797920418,0.9608363671679285
-[10:20:28] [Server thread/WARN]: TevesWang moved too quickly! -2.2981689175553015,24.20488488726899,1.9878879831679228
-[10:20:38] [Server thread/WARN]: TevesWang moved too quickly! -2.751471812103773,25.499106112655298,0.4223635971505928
-[10:20:48] [Server thread/WARN]: TevesWang moved too quickly! -2.234329360013703,23.464074448574166,0.9159104662455206
-[10:21:51] [Server thread/WARN]: TevesWang moved too quickly! -0.7367927990040357,20.751692620631673,0.22819796278565718
-[10:24:34] [Server thread/WARN]: TevesWang moved too quickly! -0.29073059583242866,22.554835725851206,1.179232457642513
-[10:24:51] [Server thread/WARN]: TevesWang moved too quickly! -0.9914796742268663,29.002528474041696,1.607319985472543
-[10:25:59] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[10:31:25] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[10:55:57] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[10:57:59] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[10:58:03] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[10:58:43] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[11:02:06] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[11:02:36] [Server thread/WARN]: TevesWang moved too quickly! 0.23404868014893054,27.46858734737475,-0.11874644573845217
-[11:02:40] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[11:02:48] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[11:02:56] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[11:03:15] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[11:03:22] [Server thread/WARN]: TevesWang moved too quickly! -0.007780926926784559,19.003266803648728,-0.12622503509368244
-[11:03:27] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[11:04:28] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[11:04:46] [Server thread/WARN]: TevesWang moved too quickly! 0.1903386682714654,29.85186289974351,-0.8758352554010003
-[11:05:39] [Server thread/WARN]: TevesWang moved too quickly! -0.8537765038319662,33.3778316659363,0.4845396623637157
-[11:05:56] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[11:06:05] [Server thread/WARN]: TevesWang moved too quickly! -0.05236196554494654,35.62040487407009,-0.6677652994532082
-[11:06:46] [Server thread/WARN]: TevesWang moved too quickly! -0.31471810604739403,34.056257255958315,-0.6417610746092919
-[11:08:25] [Server thread/WARN]: TevesWang moved too quickly! -0.20557803661881735,38.141886815011375,2.0019153759458845
-[11:08:52] [Server thread/WARN]: TevesWang moved too quickly! -0.08430728601666715,25.063566535897166,0.10540072517147792
-[11:10:34] [Server thread/WARN]: TevesWang moved too quickly! -0.4500791048510564,36.35073721110243,0.7355503855968664
-[11:10:53] [Server thread/WARN]: TevesWang moved too quickly! 0.35645461881557594,33.43466944777421,-0.22205799180983377
-[11:11:05] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[11:11:21] [Server thread/WARN]: TevesWang moved too quickly! 0.11738901083191422,32.90242927952596,-0.5511849718705548
-[11:12:01] [Server thread/WARN]: TevesWang moved too quickly! 0.13628468638535196,35.798803537692976,-0.08679961130701486
-[11:12:27] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[11:13:16] [Server thread/WARN]: TevesWang moved too quickly! 0.03541702279852643,29.03592610555863,2.339361782096944
-[11:13:33] [Server thread/WARN]: TevesWang moved too quickly! 0.069337406159093,17.914529963034312,0.5465182188515882
-[11:13:52] [Server thread/WARN]: TevesWang moved too quickly! -0.08902054178173557,30.82483638578529,-0.4340587415538266
-[11:14:16] [Server thread/WARN]: TevesWang moved too quickly! -0.2683930716468126,38.19889599133266,-1.3247730744923842
-[11:14:33] [Server thread/WARN]: TevesWang moved too quickly! -0.3220744458482727,34.78478075684299,-0.18259578644330077
-[11:15:20] [Server thread/WARN]: TevesWang moved too quickly! 0.47908691352222377,34.270847876431446,0.13336771901072098
-[11:16:19] [Server thread/WARN]: TevesWang moved too quickly! -0.47175630360521836,34.21440068228179,0.06811920478111233
-[11:16:36] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[11:16:45] [Server thread/WARN]: TevesWang moved too quickly! -0.044036293154420036,32.64693440688194,-2.556490010056052
-[11:16:45] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[11:17:06] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[11:17:17] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[11:17:23] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[11:17:33] [Server thread/WARN]: TevesWang moved too quickly! -0.16005811585387164,30.835355319674022,-2.3079575930108263
-[11:17:36] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[11:18:04] [Server thread/WARN]: TevesWang moved too quickly! -0.49875231082626215,38.30276162971353,-0.7191484691649634
-[11:18:32] [Server thread/WARN]: TevesWang moved too quickly! 1.3848929723090464,38.061197945553374,1.134939638824676
-[11:19:13] [Server thread/WARN]: TevesWang moved too quickly! -0.15896735243404692,31.238456978172906,0.252841980403673
-[11:19:58] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[11:20:08] [Server thread/WARN]: TevesWang moved too quickly! 0.3422355374036101,23.025575756218835,-0.34136383263427206
-[11:20:16] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[11:20:22] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[11:20:34] [Server thread/WARN]: TevesWang moved too quickly! 0.24538230217018508,26.637621762089964,-0.7697110998338985
-[11:21:08] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[11:23:21] [Server thread/WARN]: TevesWang moved too quickly! 0.37833857386488035,32.005328076066974,-0.28768761051475167
-[11:23:43] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[11:23:58] [Server thread/WARN]: TevesWang moved too quickly! 0.0015404869184294512,17.762250686160314,-0.11412322639057493
-[11:24:34] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[11:29:36] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[11:31:59] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[11:32:42] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -399.500000, 55.776687, 300.500000]
-[11:32:50] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -399.700000, 70.000000, 300.300000]
-[11:32:58] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -399.700000, 100.000000, 300.300000]
-[11:35:51] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[11:35:58] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[11:38:04] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[11:42:01] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[11:42:01] [Server thread/INFO]: TevesWang left the game
-[12:03:02] [Server thread/INFO]: <Server> Server shutting down (closing by the system service)
-[12:03:02] [Server thread/INFO]: Saving the game (this may take a moment!)
-[12:03:02] [Server thread/INFO]: Saved the game
-[12:03:12] [Server thread/INFO]: Stopping the server
-[12:03:12] [Server thread/INFO]: Stopping server
-[12:03:12] [Server thread/INFO]: Saving players
-[12:03:12] [Server thread/INFO]: Saving worlds
-[12:03:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[12:03:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[12:03:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[12:03:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:03:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:03:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:03:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10:07:50] [ServerMain/INFO]: Building unoptimized datafixer
+[10:07:51] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:07:54] [ServerMain/INFO]: Loaded 7 recipes
+[10:07:54] [ServerMain/INFO]: Loaded 1179 advancements
+[10:07:56] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
+[10:07:56] [Server thread/INFO]: Starting minecraft server version 1.19
+[10:07:56] [Server thread/INFO]: Loading properties
+[10:07:56] [Server thread/INFO]: Default game type: SURVIVAL
+[10:07:56] [Server thread/INFO]: Generating keypair
+[10:07:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:07:56] [Server thread/INFO]: Using epoll channel type
+[10:07:56] [Server thread/INFO]: Preparing level "world"
+[10:08:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:08:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:08:24] [Worker-Main-1/INFO]: Preparing spawn area: 15%
+[10:08:25] [Server thread/INFO]: Time elapsed: 9674 ms
+[10:08:25] [Server thread/INFO]: Done (28.840s)! For help, type "help"
+[10:08:28] [User Authenticator #1/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[10:08:29] [Server thread/INFO]: TevesWang[/67.171.53.216:59467] logged in with entity id 159 at (-443.29957379030236, 68.0, 298.18841551294366)
+[10:08:29] [Server thread/INFO]: TevesWang joined the game
+[10:08:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[10:08:43] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -349.500000, 68.000000, -149.500000]
+[10:08:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3127ms or 62 ticks behind
+[10:09:59] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -399.500000, 83.351734, 300.500000]
+[10:10:12] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[10:10:12] [Server thread/INFO]: TevesWang left the game
+[10:33:02] [Server thread/INFO]: <Server> Server shutting down (closing by the system service)
+[10:33:02] [Server thread/INFO]: Saving the game (this may take a moment!)
+[10:33:02] [Server thread/INFO]: Saved the game
+[10:33:12] [Server thread/INFO]: Stopping the server
+[10:33:12] [Server thread/INFO]: Stopping server
+[10:33:12] [Server thread/INFO]: Saving players
+[10:33:12] [Server thread/INFO]: Saving worlds
+[10:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:33:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10:33:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
