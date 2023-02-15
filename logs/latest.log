@@ -1,77 +1,507 @@
-[02:08:12] [ServerMain/INFO]: Building unoptimized datafixer
-[02:08:14] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02:08:17] [ServerMain/INFO]: Loaded 7 recipes
-[02:08:17] [ServerMain/INFO]: Loaded 1179 advancements
-[02:08:18] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
-[02:08:18] [Server thread/INFO]: Starting minecraft server version 1.19
-[02:08:18] [Server thread/INFO]: Loading properties
-[02:08:18] [Server thread/INFO]: Default game type: SURVIVAL
-[02:08:18] [Server thread/INFO]: Generating keypair
-[02:08:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:08:19] [Server thread/INFO]: Using epoll channel type
-[02:08:19] [Server thread/INFO]: Preparing level "world"
-[02:08:20] [User Authenticator #1/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[02:08:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:08:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:08:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:08:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:08:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:08:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:08:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:08:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:08:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:08:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:08:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:08:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:08:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:08:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:08:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:08:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:08:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:08:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:08:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:08:47] [Worker-Main-1/INFO]: Preparing spawn area: 15%
-[02:08:47] [Server thread/INFO]: Time elapsed: 9642 ms
-[02:08:47] [Server thread/INFO]: Done (28.774s)! For help, type "help"
-[02:08:48] [Server thread/INFO]: TevesWang[/67.171.53.216:50093] logged in with entity id 81 at (47.6046879272946, 250.0, -241.69999998807907)
-[02:08:48] [Server thread/INFO]: TevesWang joined the game
-[02:08:50] [Server thread/WARN]: TevesWang moved too quickly! 0.0,-10.806526110009003,0.0
-[02:08:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2621ms or 52 ticks behind
-[03:12:22] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[03:12:22] [Server thread/INFO]: TevesWang left the game
-[03:18:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@56f15cf2[id=<null>,name=TevesWang,properties={},legacy=false] (/67.171.53.216:61969) lost connection: Disconnected
-[03:18:09] [User Authenticator #2/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[03:18:10] [Server thread/INFO]: TevesWang[/67.171.53.216:61991] logged in with entity id 100262 at (47.55199246845964, 250.0, -241.69119779996873)
-[03:18:10] [Server thread/INFO]: TevesWang joined the game
-[03:55:08] [Server thread/WARN]: TevesWang moved too quickly! -4.680269461861897,9.000000357627869,0.6777339846306347
-[06:56:04] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[06:56:04] [Server thread/INFO]: TevesWang left the game
-[06:57:07] [User Authenticator #3/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
-[06:57:07] [Server thread/INFO]: TevesWang[/67.171.53.216:51543] logged in with entity id 422202 at (50.829267403616136, 128.0, -236.46951934942788)
-[06:57:07] [Server thread/INFO]: TevesWang joined the game
-[06:57:23] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -749.500000, 128.000000, 1000.500000]
-[06:57:58] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[07:02:05] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[07:02:19] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[07:11:03] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[07:11:07] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -752.700000, 80.000000, 976.700000]
-[07:12:16] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -749.671513, 200.000000, 975.814227]
-[07:13:28] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[07:45:24] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
-[07:46:35] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
-[08:51:20] [Server thread/INFO]: TevesWang lost connection: Disconnected
-[08:51:20] [Server thread/INFO]: TevesWang left the game
-[09:03:02] [Server thread/INFO]: <Server> Server shutting down (closing by the system service)
-[09:03:02] [Server thread/INFO]: Saving the game (this may take a moment!)
-[09:03:02] [Server thread/INFO]: Saved the game
-[09:03:12] [Server thread/INFO]: Stopping the server
-[09:03:12] [Server thread/INFO]: Stopping server
-[09:03:12] [Server thread/INFO]: Saving players
-[09:03:12] [Server thread/INFO]: Saving worlds
-[09:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[09:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[09:03:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[09:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09:18:24] [ServerMain/INFO]: Building unoptimized datafixer
+[09:18:25] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09:18:28] [ServerMain/INFO]: Loaded 7 recipes
+[09:18:28] [ServerMain/INFO]: Loaded 1179 advancements
+[09:18:30] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
+[09:18:30] [Server thread/INFO]: Starting minecraft server version 1.19
+[09:18:30] [Server thread/INFO]: Loading properties
+[09:18:30] [Server thread/INFO]: Default game type: SURVIVAL
+[09:18:30] [Server thread/INFO]: Generating keypair
+[09:18:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:18:30] [Server thread/INFO]: Using epoll channel type
+[09:18:30] [Server thread/INFO]: Preparing level "world"
+[09:18:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:18:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:18:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:18:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:18:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:18:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:18:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:18:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:18:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:18:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:18:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:18:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:18:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:18:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:18:56] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[09:18:56] [Worker-Main-1/INFO]: Preparing spawn area: 7%
+[09:18:57] [Worker-Main-1/INFO]: Preparing spawn area: 8%
+[09:18:57] [Server thread/INFO]: Time elapsed: 8156 ms
+[09:18:57] [Server thread/INFO]: Done (27.508s)! For help, type "help"
+[09:19:47] [User Authenticator #1/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[09:19:47] [Server thread/INFO]: TevesWang[/67.171.53.216:64953] logged in with entity id 1299 at (-752.6999999880791, 203.0, 976.6999999880791)
+[09:19:47] [Server thread/INFO]: TevesWang joined the game
+[09:19:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3902ms or 78 ticks behind
+[09:19:54] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[09:20:20] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[09:20:27] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[09:41:10] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[09:42:10] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[09:42:22] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[09:44:48] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[09:45:43] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[09:54:37] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[09:54:54] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[09:58:24] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[09:59:16] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[10:14:57] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 128, 972]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 10 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 5 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 5 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 5 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 5 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 5 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 5 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 5 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 5 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 5 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 5 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 8 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 128, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 131, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 137, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 143, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 149, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 155, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 161, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 167, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 173, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 179, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 185, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 191, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 131, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 133, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 135, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 137, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 139, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 141, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 143, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 145, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 147, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 149, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 151, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 153, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 155, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 157, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 159, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 161, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 163, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 165, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 167, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 169, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 171, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 173, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 175, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 177, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 179, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 181, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 183, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 185, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 187, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 189, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 191, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 193, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 195, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 197, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 199, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -751, 201, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 128, 972]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 136, 972]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 4 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 142, 972]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 4 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 148, 972]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 4 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 154, 972]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 4 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 160, 972]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 4 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 166, 972]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 4 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 172, 972]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 4 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 178, 972]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 4 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 184, 972]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 4 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 190, 972]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 4 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 196, 972]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 6 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 203, 972]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 128, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 129, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 130, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 131, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 69 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 201, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 202, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 128, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 131, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 132, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 133, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 137, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 138, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 139, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 143, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 144, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 145, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 149, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 150, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 151, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 155, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 156, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 157, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 161, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 162, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 163, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 167, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 168, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 169, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 173, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 174, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 175, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 179, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 180, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 181, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 185, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 186, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 187, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 191, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 192, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 193, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 197, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 199, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 201, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -750, 202, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 128, 972]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 6 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 6 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 6 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 6 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 6 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 6 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 6 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 6 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 6 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 6 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 10 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 128, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 134, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 135, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 136, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 140, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 141, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 142, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 146, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 147, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 148, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 152, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 153, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 154, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 158, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 159, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 160, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 164, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 165, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 166, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 170, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 171, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 172, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 176, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 177, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 178, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 182, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 183, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 184, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 188, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 189, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 190, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 3 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 194, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 195, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 196, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 4 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 201, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 128, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 129, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 130, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 131, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 135, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 136, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 137, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 141, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 142, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 143, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 147, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 148, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 149, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 153, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 154, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 155, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 159, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 160, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 161, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 165, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 166, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 167, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 171, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 172, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 173, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 177, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 178, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 179, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 183, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 184, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 185, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 189, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 190, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 191, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 195, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 196, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 197, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -749, 201, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 2 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 135, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 136, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 141, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 142, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 147, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 148, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 153, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 154, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 159, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 160, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 165, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 166, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 171, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 172, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 177, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 178, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 183, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 184, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 189, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 190, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 195, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 196, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 201, 973]
+[10:18:16] [Server thread/INFO]: [TevesWang: Successfully filled 1 blocks]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 129, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 130, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 135, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 136, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 141, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 142, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 147, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 148, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 153, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 154, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 159, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 160, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 165, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 166, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 171, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 172, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 177, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 178, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 183, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 184, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 189, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 190, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 195, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 196, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Changed the block at -748, 201, 974]
+[10:18:16] [Server thread/INFO]: [TevesWang: Summoned new Minecart]
+[10:21:30] [Server thread/WARN]: TevesWang moved too quickly! 0.0,-10.405534917593371,0.0
+[10:22:51] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[10:29:21] [Server thread/INFO]: [TevesWang: Set own game mode to Spectator Mode]
+[10:29:48] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[10:31:11] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -744.229645, 204.000000, 975.706921]
+[10:31:11] [Server thread/WARN]: TevesWang moved too quickly! 0.0,122.2972127079453,0.0
+[10:31:15] [Server thread/INFO]: [TevesWang: Set own game mode to Spectator Mode]
+[10:31:19] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[10:31:22] [Server thread/INFO]: [TevesWang: Set own game mode to Spectator Mode]
+[10:31:27] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[10:31:33] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[12:11:48] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[12:12:13] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -751.305983, 80.000000, 976.690079]
+[12:12:45] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -739.451286, 200.000000, 987.415676]
+[12:12:54] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[13:20:01] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[13:20:09] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -751.300000, 80.000000, 976.658760]
+[13:22:36] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -732.057704, 200.000000, 976.991823]
+[13:22:55] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[13:25:13] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[13:25:21] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -752.700000, 80.000000, 976.699334]
+[13:34:49] [Server thread/INFO]: TevesWang lost connection: Timed out
+[13:34:49] [Server thread/INFO]: TevesWang left the game
+[13:35:31] [User Authenticator #2/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[13:35:32] [Server thread/INFO]: TevesWang[/67.171.53.216:51228] logged in with entity id 416099 at (-769.878317920019, 76.0, 968.4307381146704)
+[13:35:32] [Server thread/INFO]: TevesWang joined the game
+[13:35:32] [User Authenticator #3/INFO]: UUID of player TevesWang is 82292eaf-67cd-47d0-b34b-f8726fc00360
+[13:35:33] [Server thread/INFO]: TevesWang lost connection: You logged in from another location
+[13:35:33] [Server thread/INFO]: TevesWang left the game
+[13:35:33] [Server thread/INFO]: TevesWang[/67.171.53.216:53196] logged in with entity id 416197 at (-769.878317920019, 76.0, 968.4307381146704)
+[13:35:33] [Server thread/INFO]: TevesWang joined the game
+[13:37:19] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -758.926057, 200.000000, 970.556716]
+[13:37:19] [Server thread/WARN]: TevesWang moved too quickly! 0.0,119.59237391540614,0.0
+[13:37:38] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[13:42:59] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[13:43:03] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -752.700000, 80.000000, 976.700000]
+[13:44:16] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -752.640138, 204.000000, 964.106443]
+[13:44:24] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[14:46:23] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[14:46:29] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -751.300000, 80.000000, 976.700000]
+[14:48:09] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -751.296482, 210.000000, 970.612241]
+[14:48:22] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -742.484886, 80.000000, 974.720245]
+[14:49:40] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -743.341605, 205.000000, 972.968384]
+[14:49:51] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[14:51:14] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[14:51:22] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -752.700000, 80.000000, 976.700000]
+[14:51:22] [Server thread/WARN]: TevesWang moved too quickly! 0.0,-123.17398915637608,0.0
+[14:51:58] [Server thread/INFO]: [TevesWang: Successfully filled 30 blocks]
+[14:52:18] [Server thread/INFO]: [TevesWang: Successfully filled 30 blocks]
+[14:52:42] [Server thread/INFO]: [TevesWang: Successfully filled 30 blocks]
+[14:53:02] [Server thread/INFO]: [TevesWang: Successfully filled 30 blocks]
+[14:55:37] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -751.355419, 205.000000, 961.514142]
+[14:55:58] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[15:05:31] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[15:05:34] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -752.700000, 80.000000, 976.700000]
+[15:06:21] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -764.023175, 205.000000, 988.576650]
+[15:06:28] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[15:07:23] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[15:07:27] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -752.700000, 80.000000, 976.700000]
+[15:07:51] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -766.577562, 205.000000, 986.891576]
+[15:08:01] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[15:26:27] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[15:26:31] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -751.512500, 80.000000, 976.700000]
+[15:26:59] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -746.191195, 80.000000, 969.965276]
+[15:27:04] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -748.435563, 205.000000, 970.850535]
+[15:27:10] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[15:49:06] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[15:49:08] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[15:49:09] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[15:49:13] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -752.700000, 80.000000, 976.700000]
+[15:49:13] [Server thread/WARN]: TevesWang moved too quickly! 0.0,-123.0,0.0
+[15:52:51] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -756.971304, 205.000000, 956.162148]
+[15:52:58] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[15:53:31] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[15:53:36] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -752.700000, 80.000000, 976.700000]
+[15:54:46] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -750.320973, 205.000000, 948.625373]
+[15:54:46] [Server thread/WARN]: TevesWang moved too quickly! 0.0,127.12589371135542,0.0
+[15:54:55] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[16:03:42] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[16:03:45] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -751.300000, 80.000000, 976.617058]
+[16:03:58] [Server thread/WARN]: TevesWang moved too quickly! -5.70067495762396,0.0,8.272739784390296
+[16:04:47] [Server thread/WARN]: TevesWang moved too quickly! -0.7575240690661076,0.0,-10.802328203752381
+[16:10:10] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -39.500000, 52.827798, 40.500000]
+[16:24:54] [Server thread/INFO]: [TevesWang: Teleported TevesWang to -762.593872, 205.000000, 979.945927]
+[16:25:51] [Server thread/INFO]: [TevesWang: Set own game mode to Survival Mode]
+[16:25:56] [Server thread/INFO]: [TevesWang: Set own game mode to Creative Mode]
+[16:26:00] [Server thread/INFO]: TevesWang lost connection: Disconnected
+[16:26:00] [Server thread/INFO]: TevesWang left the game
+[16:33:02] [Server thread/INFO]: <Server> Server shutting down (closing by the system service)
+[16:33:02] [Server thread/INFO]: Saving the game (this may take a moment!)
+[16:33:02] [Server thread/INFO]: Saved the game
+[16:33:12] [Server thread/INFO]: Stopping the server
+[16:33:12] [Server thread/INFO]: Stopping server
+[16:33:12] [Server thread/INFO]: Saving players
+[16:33:12] [Server thread/INFO]: Saving worlds
+[16:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:33:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:33:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
